@@ -2,7 +2,7 @@ baseURL = "https://LesArts-MariaFrank.de/"
 languageCode = "de-de"
 publishDir = "public"
 theme = ""
-title = "LesArts-MariaFrank"
+title = "LesArts-MariaFrank -Kunst, Design, Illustration-"
 [[menu.main]]
 name = "Home"
 url = "/"
