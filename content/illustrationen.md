@@ -1,6 +1,5 @@
 +++
 date = "2018-05-16T17:14:54+02:00"
-gallery = []
 title = "Illustrationen"
 type = "portfolio"
 url = ""
