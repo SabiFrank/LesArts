@@ -1,7 +1,8 @@
 baseURL = "https://LesArts-MariaFrank.de/"
+canonifyURLs = true
 languageCode = "de-de"
 publishDir = "public"
-theme = ""
+theme = "LesArts"
 title = "LesArts-MariaFrank -Kunst, Design, Illustration-"
 [[menu.main]]
 name = "Home"
@@ -13,7 +14,7 @@ background = ""
 dateform = ""
 description = "Artist // Freelancer // Art teacher"
 email = "mariafrank57@gmail.com"
-favicon = "/img/gt_favicon.png"
+favicon = "/static/images/gt_favicon.png"
 footerenablecontact = true
 footerenablefollowme = true
 footerenableformwidget = true
