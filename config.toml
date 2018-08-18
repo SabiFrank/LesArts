@@ -1,0 +1,58 @@
+baseURL = "https://LesArts-MariaFrank.de/"
+languageCode = "de-de"
+publishDir = "public"
+theme = ""
+title = "LesArts-MariaFrank"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[params]
+address = "Heilbronner Straße 16, 74382 Neckarwestheim"
+background = ""
+dateform = ""
+description = "Artist // Freelancer // Art teacher"
+email = "mariafrank57@gmail.com"
+favicon = "/img/gt_favicon.png"
+footerenablecontact = true
+footerenablefollowme = true
+footerenableformwidget = true
+footerenabletextwidget = true
+name = "Maria Frank"
+phone = "+49 176 81329681"
+showclients = false
+showdownload = false
+showrecentworks = true
+showservices = true
+showsubheader = true
+year = "2018"
+[params.disqus]
+site = ""
+[params.google.analytics]
+trackerid = "UA-119186150-1"
+[params.sharethis]
+custom = true
+property = "123456789012345678901234"
+[[params.social]]
+footer = true
+icon = "fa-envelope"
+network = "email"
+sharethis = true
+title = "E-Mail"
+url = "mariafrank57@gmail.com"
+[[params.social]]
+footer = true
+icon = "fa-facebook-square"
+network = "facebook"
+sharethis = true
+title = "Facebook"
+url = "https://web.facebook.com/pg/LesArtsMariaFrank/posts/"
+[[params.social]]
+footer = true
+icon = "fa-instagram"
+network = "instagram"
+sharethis = true
+title = "Instagram"
+url = "https://instagram.com/lesarts_mariafrank/"
+[[params.social]]
+footer = true

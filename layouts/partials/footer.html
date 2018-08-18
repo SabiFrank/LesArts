@@ -1,0 +1,97 @@
+<footer id="footer">
+	<div class="container">
+		<div class="row">
+			{{ if .Site.Params.footerEnableContact }}
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Impressum</h3>
+				<div class="widget-body">
+					<p><a href="tel:+4917681329681">+49 176 81329681</a><br>
+						<a href="mailto:mariafrank57@gamil.com">mariafrank57@gmail.com</a><br>
+						{{ .Site.Params.address }} <br>
+						<br>
+						Diese Website nutzt Cookies, um bestmögliche Funktionalität bieten zu können (<a href="https://dsgvo-gesetz.de/art-95-dsgvo/">Mehr Informationen</a>).
+					</p>
+				</div>
+			</div>
+			{{ end }}
+
+			{{ if .Site.Params.footerEnableFollowme }}
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Social Media</h3>
+				<div class="widget-body">
+					<p class="follow-me-icons">
+                        {{ range .Site.Params.social }}
+                            {{ if .footer }}
+                                <a href="{{ .url }}" target="_blank"><i class="fa {{ .icon }} fa-2"></i></a>
+                            {{ end }}
+                        {{ end }}
+					</p>
+				</div>
+			</div>
+			{{ end }}
+
+			{{ if .Site.Params.footerEnableTextWidget }}
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Kunstressourcen auf Art-Res</h3>
+				<div class="widget-body">
+					<p> Sie suchen auch außerhalb des Malunterrichts Inspiration und Tipps zum Thema Kunst? Dann sind Sie bei
+						<a href="https://artres.xyz">Art-Res.xyz</a> genau richtig!
+					</p>
+				</div>
+			</div>
+			{{ end }}
+
+			{{ if .Site.Params.footerEnableFormWidget }}
+			<div class="col-md-3 widget">
+				<h3 class="widget-title">Aktuelle Termine</h3>
+				<div class="widget-body">
+					<p>Workshops<br>
+						Sonntag, 16. September 2018 10:00 - 16:00<br>
+                        Sonntag, 30. September 2018 10:00 - 16:00<br>
+					</p>
+					<p>Malkurse<br>
+						Donnerstags von 18:00 - 20:00<br>
+					    Freitags von 15:00 - 18:00<br>
+					</p>
+				</div>
+			</div>
+			{{ end }}
+
+		</div> <!-- /row of widgets -->
+	</div>
+</footer>
+
+<footer id="underfooter">
+	<div class="container">
+		<div class="row">
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p>{{ .Site.Params.address }}</p>
+				</div>
+			</div>
+
+			<div class="col-md-6 widget">
+				<div class="widget-body">
+					<p class="text-right">
+						Copyright &copy; {{ .Site.Params.year }}, {{ .Site.Params.name }}<br>
+						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate, Edited by Sabrina Frank</a> - 
+                        Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
+                    </p>
+				</div>
+			</div>
+
+		</div> <!-- /row of widgets -->
+	</div>
+</footer>
+
+
+
+<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/template.js"></script>
+<script id="dsq-count-scr" src="//{{ .Site.Params.disqus.site }}/count.js" async></script>
+{{ partial "analyticstracking.html" . }}
+</body>
+</html>

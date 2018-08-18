@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "name": "Malerei",
+    "image": "/uploads/2018/05/14/Malerei.jpg",
+    "url": "https://LesArts-MariaFrank.de/malerei/",
+    "items": [
+      {
+        "name": "Acryl",
+        "url": "#"
+      },
+      {
+        "name": "Graphit",
+        "url": "#"
+      },
+      {
+        "name": "Pastellkreide",
+        "url": "#"
+      },
+      {
+        "name": "Mischtechnik",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Illustrationen",
+    "image": "/uploads/2018/05/14/Illustrationen.jpg",
+    "url": "https://LesArts-MariaFrank.de/illustrationen/",
+    "items": [
+      {
+        "name": "Acryl",
+        "url": "#"
+      },
+      {
+        "name": "Aquarell",
+        "url": "#"
+      },
+      {
+        "name": "Airbrush",
+        "url": "#"
+      },
+      {
+        "name": "Mischtechnik",
+        "url": "#"
+      },
+      {
+        "name": "Pastellkreide",
+        "url": "#"
+      },
+      {
+        "name": "Polychromos",
+        "url": "#"
+      },
+      {
+        "name": "Tusche",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Gutscheine - Für Workshops und Auftragsarbeiten",
+    "image": "/uploads/2018/05/14/Gutscheine.jpg",
+    "url": "https://LesArts-MariaFrank.de/gutscheine/",
+    "items": [
+      {
+        "name": "Acryl",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lettering",
+    "image": "/uploads/2018/05/14/Lettering.png",
+    "url": "https://LesArts-MariaFrank.de/lettering/",
+    "items": [
+      {
+        "name": "Tusche",
+        "url": "#"
+      },
+      {
+        "name": "Kreide",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gravuren",
+    "image": "/uploads/2018/05/14/Gravuren.jpg",
+    "url": "https://LesArts-MariaFrank.de/gravuren/",
+    "items": [
+      {
+        "name": "Glasgravur",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Stoffwerke",
+    "image": "/uploads/2018/05/14/Stoffpuppen.jpg",
+    "url": "https://LesArts-MariaFrank.de/stoffwerke/",
+    "items": [
+      {
+        "name": "Stoffpuppen",
+        "url": "#"
+      },
+      {
+        "name": "Stofftiere",
+        "url": "#"
+      },
+      {
+        "name": "Stoffgegenstände",
+        "url": "#"
+      }
+    ]
+  }
+]

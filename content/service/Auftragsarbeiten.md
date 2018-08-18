@@ -1,0 +1,29 @@
++++
+title = "Auftragsarbeiten"
+type = "dienstleistungen"
+
++++
+Lassen Sie Ihr Wunschmotiv mit einer großen Auswahl an Maltechniken und Trägermedien Wirklichkeit werden!
+
+<!--more-->
+
+In Ihrem Leben gibt es vielleicht einen besonders schönen Moment, der in Form eines Fotos festgehalten wurde, das Sie sich gerne immer wieder in Erinnerung rufen? Oder Sie haben eine Idee für ein Projekt, das graphische Visualisierung benötigt, um lebendig zu werden? Diese Momente oder Konzepte in Bildern künstlerisch oder auch technisch umzusetzen ist mein Anliegen, mit dem ich Ihnen gerne behilflich bin! 
+
+Im Zuge meiner Ausbildung und der langjährigen Arbeit als freischaffende Künstlerin konnte ich mich mit einer Vielzahl verschiedenen Techniken vertraut machen. Somit kann ich folgende Möglichkeiten für die Umsetzung Ihres Wunschmotivs anbieten:
+
+* Airbrush
+* Acryl
+* Aquarell
+* Mischtechnik
+* Pastellkreide
+* Copicmarker/Tusche
+* Graffiti
+* Bleistift/Graphit
+
+Ihre Wunschtechnik ist nicht aufgelistet? Ich bin offen für Neues und werde mein Bestes tun, das Motiv nach Ihren Vorstellungen umzusetzen. Diese können im persönlichen Kontakt einfach besprochen werden.
+
+Die Größe der Bilder ist frei variabel und das Trägermaterial (im Falle von Leinwandbildern bspw. Rahmendicke, Materialbespannung (Leinen, Kaffeesäcke) etc.) können individuell abgesprochen werden.
+
+Der Preis ist abhängig von Material und Aufwand und kann somit nicht generell festgelegt werden. [Hier](https://LesArts-MariaFrank.de/malerei/) können Sie früherer Aufträge und Werke einsehen, um sich ein Bild von Preis und Qualität meiner Arbeit machen zu können.
+
+Sollten Sie Interesse gefunden haben, zögern Sie nicht mich zu [benachrichtigen](https://LesArts-MariaFrank.de/kontakt/). Ich freue mich auf Ihren Auftrag!
