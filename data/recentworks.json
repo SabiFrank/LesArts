@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Malerei",
-    "image": <img src="https://github.com/SabiFrank/LesArts/tree/master/static/images/portfolio/Malerie.jpg">,
+    "image": "https://github.com/SabiFrank/LesArts/tree/master/static/images/portfolio/Malerie.jpg",
     "url": "https://LesArts-MariaFrank.de/malerei/",
     "items": [
       {
