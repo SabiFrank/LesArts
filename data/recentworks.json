@@ -1,9 +1,8 @@
-canonifyURLs = true
 [
   {
     "id": 0,
     "name": "Malerei",
-    "image": "https://github.com/SabiFrank/LesArts/tree/master/static/images/portfolio/Malerie.jpg",
+    "image": "images/portfolio/Malerei.jpg",
     "url": "https://LesArts-MariaFrank.de/malerei/",
     "items": [
       {
