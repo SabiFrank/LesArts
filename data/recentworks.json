@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "Malerei",
-    "image": "https://github.com/SabiFrank/LesArts.git/images/portfolio/Malerei.jpg",
+    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Malerei.jpg",
     "url": "https://LesArts-MariaFrank.de/malerei/",
     "items": [
       {
@@ -26,7 +26,7 @@
   {
     "id": 1,
     "name": "Illustrationen",
-    "image": "https://github.com/SabiFrank/LesArts.git/images/portfolio/Illustrationen.jpg",
+    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Illustrationen.jpg",
     "url": "https://LesArts-MariaFrank.de/illustrationen/",
     "items": [
       {
@@ -62,7 +62,7 @@
   {
     "id": 2,
     "name": "Gutscheine - Für Workshops und Auftragsarbeiten",
-    "image": "https://github.com/SabiFrank/LesArts.git/images/portfolio/Gutscheine.jpg",
+    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Gutscheine.jpg",
     "url": "https://LesArts-MariaFrank.de/gutscheine/",
     "items": [
       {
@@ -74,7 +74,7 @@
   {
     "id": 3,
     "name": "Lettering",
-    "image": "https://github.com/SabiFrank/LesArts.git/images/portfolio/Lettering.png",
+    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Lettering.png",
     "url": "https://LesArts-MariaFrank.de/lettering/",
     "items": [
       {
@@ -90,7 +90,7 @@
   {
     "id": 4,
     "name": "Gravuren",
-    "image": "https://github.com/SabiFrank/LesArts.git/images/portfolio/Gravuren.jpg",
+    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Gravuren.jpg",
     "url": "https://LesArts-MariaFrank.de/gravuren/",
     "items": [
       {
@@ -102,7 +102,7 @@
   {
     "id": 5,
     "name": "Stoffwerke",
-    "image": "https://github.com/SabiFrank/LesArts.git/images/portfolio/Stoffpuppen.jpg",
+    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Stoffpuppen.jpg",
     "url": "https://LesArts-MariaFrank.de/stoffwerke/",
     "items": [
       {
