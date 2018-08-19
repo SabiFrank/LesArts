@@ -6,11 +6,11 @@ weight = 5
 weight = 2
 
 +++
-Mein Name ist Maria Frank. Mit meinem Mann und meiner [Tochter](https://www.facebook.com/ArtCommissionsSabrinaFrank/?hc_ref=ARR9arXFIz3T4Er-GgksNx6qDZwJypIJJEXeZtxddSoqpGK_FbNH8HO1ToS0nVWu1iU&fref=nf) lebe und arbeite ich in Neckarwestheim. In meinem Atelier biete ich [Malkurse und Workshops](https://www.lesarts-mariafrank.de/service/workshops/) an, in denen ich individuell auf persönliche Vorstellungen eingehen kann.
+Mein Name ist Maria Frank. Mit meinem Mann und meiner <a href="https://www.facebook.com/ArtCommissionsSabrinaFrank/?hc_ref=ARR9arXFIz3T4Er-GgksNx6qDZwJypIJJEXeZtxddSoqpGK_FbNH8HO1ToS0nVWu1iU&fref=nf" title="Facebook Seite für Auftragsarbeiten von Bleistiftzeichnungen von Sabrina Frank">Tochter</a> lebe und arbeite ich in Neckarwestheim. In meinem Atelier biete ich <a href="https://www.lesarts-mariafrank.de/service/workshops/" title="Weiterleitung zu den Angeboten Malkurse und Workshops dieser Website">Malkurse und Workshops</a> an, in denen ich individuell auf persönliche Vorstellungen eingehen kann.
 
-Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillustrationen sowie Gebrauchsgrafiken zu meinem Aufgabenrepertoire. Gerne nehme ich Auftragsarbeiten an! 1990 wurde ich schließlich Mitglied im Verband bildender Künstler und konnte mich ein Jahr später als freie Illustratorin selbstständig machen.
+Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillustrationen sowie Gebrauchsgrafiken zu meinem Aufgabenrepertoire. 1990 wurde ich schließlich Mitglied im Verband bildender Künstler und konnte mich ein Jahr später als freie Illustratorin selbstständig machen.
 
-<img src="/uploads/2018/05/14/guy1-1.jpg" alt="Maria Frank, Künstlerin aus Neckarwestheim." width="50%">
+<img src="" alt="Maria Frank, Künstlerin aus Neckarwestheim in ihrem Atelier während eines Workshops." width="">
 
 ### Ausstellungen
 

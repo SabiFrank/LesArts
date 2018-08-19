@@ -22,7 +22,7 @@ Telefon: +49 176 81329681
 
 E-Mail: mariafrank57@gmail.com
 
-Quelle: [_http://www.e-recht24.de_](http://www.e-recht24.de "http://www.e-recht24.de")_, Impressum Generator_
+Quelle: <a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24"> _http://www.e-recht24.de_ </a>_, Impressum Generator_
 
 ## Haftungsausschluss:
 
