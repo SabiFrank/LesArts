@@ -1,6 +1,5 @@
 +++
 date = ""
-titel = ""
 title = "Kontakt"
 type = "kontakt"
 weight = 10
