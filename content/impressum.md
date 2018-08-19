@@ -22,7 +22,7 @@ Telefon: +49 176 81329681
 
 E-Mail: mariafrank57@gmail.com
 
-Quelle: <a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24"> _http://www.e-recht24.de_ </a>_, Impressum Generator_
+Quelle: <a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">_http://www.e-recht24.de_</a> _, Impressum Generator_
 
 ## Haftungsausschluss:
 
@@ -46,9 +46,9 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
-_Quellenangaben:_ <a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24"> _http://www.e-recht24.de_ </a>_, Impressum Generator_
+_Quellenangaben:_ <a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">_http://www.e-recht24.de_</a> _, Impressum Generator_
 
-<a href="https://www.e-recht24.de/muster-disclaimer.html" title="Weiterleitung zu dem Disclaimer der externen Seite e-recht24"> _Disclaimer_ </a> _von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert_
+<a href="https://www.e-recht24.de/muster-disclaimer.html" title="Weiterleitung zu dem Disclaimer der externen Seite e-recht24">_Disclaimer_</a> _von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert_
 
 <h2>Datenschutzerklärung</h2><h3 id="dsg-general-intro"></h3><p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO). <br>
 <br>
