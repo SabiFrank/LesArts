@@ -55,5 +55,3 @@ network = "instagram"
 sharethis = true
 title = "Instagram"
 url = "https://instagram.com/lesarts_mariafrank/"
-[[params.social]]
-footer = true
