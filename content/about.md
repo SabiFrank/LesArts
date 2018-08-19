@@ -6,7 +6,7 @@ weight = 5
 weight = 2
 
 +++
-Mein Name ist Maria Frank. Mit meinem Mann und meiner <a href="https://www.facebook.com/ArtCommissionsSabrinaFrank/?hc_ref=ARR9arXFIz3T4Er-GgksNx6qDZwJypIJJEXeZtxddSoqpGK_FbNH8HO1ToS0nVWu1iU&fref=nf" title="Weiterleitung zu der externen Facebook-Seite für Auftragsarbeiten (Bleistiftzeichnungen) von Sabrina Frank">Tochter</a> lebe und arbeite ich in Neckarwestheim. In meinem Atelier biete ich <a href="https://www.lesarts-mariafrank.de/service/workshops/" title="Weiterleitung zu den Angeboten "Malkurse und Workshops" dieser Website">Malkurse und Workshops</a> an, in denen ich individuell auf persönliche Vorstellungen eingehen kann.
+Mein Name ist Maria Frank. Mit meinem Mann und meiner <a href="https://www.facebook.com/ArtCommissionsSabrinaFrank/?hc_ref=ARR9arXFIz3T4Er-GgksNx6qDZwJypIJJEXeZtxddSoqpGK_FbNH8HO1ToS0nVWu1iU&fref=nf" title="Weiterleitung zu der externen Facebook-Seite für Auftragsarbeiten (Bleistiftzeichnungen) von Sabrina Frank">Tochter</a> lebe und arbeite ich in Neckarwestheim. In meinem Atelier biete ich <a href="https://www.lesarts-mariafrank.de/service/workshops/" title="Weiterleitung zu den Angeboten &ldquo;Malkurse und Workshops&rdquo; dieser Website">Malkurse und Workshops</a> an, in denen ich individuell auf persönliche Vorstellungen eingehen kann.
 
 Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillustrationen sowie Gebrauchsgrafiken zu meinem Aufgabenrepertoire. 1990 wurde ich schließlich Mitglied im Verband bildender Künstler und konnte mich ein Jahr später als freie Illustratorin selbstständig machen.
 

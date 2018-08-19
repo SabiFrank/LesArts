@@ -1,7 +1,6 @@
 +++
 title = "Workshops"
 type = "dienstleistungen"
-
 +++
 Lernen Sie Zeichnen oder Malen mit professioneller Hilfestellung und erstellen Sie Ihre eigenen Kunstwerke.
 
@@ -11,10 +10,10 @@ Wollen Sie Ihre künstlerische Seite entdecken oder haben Sie Ideen die Sie selb
 
 Ich biete **wöchentliche Malkurse** für 40 Euro (Kinder) beziehungsweise 70 Euro (Erwachsene) pro Monat an. Es besteht kein Vertrag, Sie können also von Monat zu Monat entscheiden, ob Sie sich Zeit für Ihre künstlerische Entwicklung bei mir nehmen wollen oder können.
 
-Des Weiteren veranstalte ich immer sonntags an speziellen Terminen 6-stündige **Workshops**, in denen die Teilnehmer konzentriert unter meiner Aufsicht an Ihren Werken arbeiten können. Es werden Workshops zu den Themen Malen und Kalligraphie angeboten. Kleine Snacks und Kaffe sind inklusive. Ein solcher Workshop lässt sich auch wunderbar verschenken! Dafür fertige ich Gutscheine an, die Sie [hier](https://LesArts-MariaFrank.de/gutscheine/) sehen können.
+Des Weiteren veranstalte ich immer sonntags an speziellen Terminen 6-stündige **Workshops**, in denen die Teilnehmer konzentriert unter meiner Aufsicht an Ihren Werken arbeiten können. Es werden Workshops zu den Themen Malen und Kalligraphie angeboten. Kleine Snacks und Kaffe sind inklusive. Ein solcher Workshop lässt sich auch wunderbar verschenken! Dafür fertige ich Gutscheine an, die Sie <a href="https://LesArts-MariaFrank.de/gutscheine/" title="Weiterleitung zu der Gutschein-Gallerie von Maria Frank">hier</a> sehen können.
 
 Die aktuellen Termine für Workshops und Malkurse finden Sie ganz unten rechts im Footer der Website.
 
 Ebenso biete ich **Privatunterricht** für 18 Euro pro Stunde an. Diese Termine werden auf Anfrage individuell vereinbart.
 
-Sie haben Fragen Malunterricht oder wollen sich für einen kommenden Workshop anmelden? Zögern Sie nicht mich zu [kontaktieren](https://LesArts-MariaFrank.de/kontakt/)!
+Sie haben Fragen Malunterricht oder wollen sich für einen kommenden Workshop anmelden? Zögern Sie nicht mich zu <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo">kontaktieren</a>!

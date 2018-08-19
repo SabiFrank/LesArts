@@ -1,7 +1,6 @@
 +++
 title = "Auftragsarbeiten"
 type = "dienstleistungen"
-
 +++
 Lassen Sie Ihr Wunschmotiv mit einer großen Auswahl an Maltechniken und Trägermedien Wirklichkeit werden!
 
@@ -24,6 +23,6 @@ Ihre Wunschtechnik ist nicht aufgelistet? Ich bin offen für Neues und werde mei
 
 Die Größe der Bilder ist frei variabel und das Trägermaterial (im Falle von Leinwandbildern bspw. Rahmendicke, Materialbespannung (Leinen, Kaffeesäcke) etc.) können individuell abgesprochen werden.
 
-Der Preis ist abhängig von Material und Aufwand und kann somit nicht generell festgelegt werden. [Hier](https://LesArts-MariaFrank.de/malerei/) können Sie früherer Aufträge und Werke einsehen, um sich ein Bild von Preis und Qualität meiner Arbeit machen zu können.
+Der Preis ist abhängig von Material und Aufwand und kann somit nicht generell festgelegt werden. <a href="https://LesArts-MariaFrank.de/malerei/" title="Weiterleitung zu der Gemälde-Gallerie von Maria Frank">Hier</a> können Sie früherer Aufträge und Werke einsehen, um sich ein Bild von Preis und Qualität meiner Arbeit machen zu können.
 
-Sollten Sie Interesse gefunden haben, zögern Sie nicht mich zu [benachrichtigen](https://LesArts-MariaFrank.de/kontakt/). Ich freue mich auf Ihren Auftrag!
+Sollten Sie Interesse gefunden haben, zögern Sie nicht mich zu <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo">benachrichtigen</a>. Ich freue mich auf Ihren Auftrag!
