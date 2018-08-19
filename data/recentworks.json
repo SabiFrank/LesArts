@@ -26,7 +26,7 @@
   {
     "id": 1,
     "name": "Illustrationen",
-    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Illustrationen.jpg",
+    "image": "images/portfolio/Illustrationen.jpg",
     "url": "https://LesArts-MariaFrank.de/illustrationen/",
     "items": [
       {
@@ -62,7 +62,7 @@
   {
     "id": 2,
     "name": "Gutscheine - Für Workshops und Auftragsarbeiten",
-    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Gutscheine.jpg",
+    "image": "images/portfolio/Gutscheine.jpg",
     "url": "https://LesArts-MariaFrank.de/gutscheine/",
     "items": [
       {
@@ -74,7 +74,7 @@
   {
     "id": 3,
     "name": "Lettering",
-    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Lettering.png",
+    "image": "images/portfolio/Lettering.png",
     "url": "https://LesArts-MariaFrank.de/lettering/",
     "items": [
       {
@@ -90,7 +90,7 @@
   {
     "id": 4,
     "name": "Gravuren",
-    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Gravuren.jpg",
+    "image": "images/portfolio/Gravuren.jpg",
     "url": "https://LesArts-MariaFrank.de/gravuren/",
     "items": [
       {
@@ -102,7 +102,7 @@
   {
     "id": 5,
     "name": "Stoffwerke",
-    "image": "/SabiFrank/LesArts/blob/master/static/images/portfolio/Stoffpuppen.jpg",
+    "image": "images/portfolio/Stoffpuppen.jpg",
     "url": "https://LesArts-MariaFrank.de/stoffwerke/",
     "items": [
       {
