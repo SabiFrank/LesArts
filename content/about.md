@@ -1,7 +1,7 @@
 +++
+date = ""
 title = "Über mich"
 type = "übermich"
-weight = 5
 [menu.main]
 weight = 2
 

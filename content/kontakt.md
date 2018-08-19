@@ -2,7 +2,6 @@
 date = ""
 title = "Kontakt"
 type = "kontakt"
-weight = 10
 [menu.main]
 weight = 3
 

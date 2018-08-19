@@ -2,7 +2,6 @@
 date = ""
 title = "Impressum"
 type = "impressum"
-weight = 15
 [menu.main]
 weight = 4
 
