@@ -16,4 +16,4 @@ Die aktuellen Termine für Workshops und Malkurse finden Sie ganz unten rechts i
 
 Ebenso biete ich **Privatunterricht** für 18 Euro pro Stunde an. Diese Termine werden auf Anfrage individuell vereinbart.
 
-Sie haben Fragen Malunterricht oder wollen sich für einen kommenden Workshop anmelden? Zögern Sie nicht mich zu <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo">kontaktieren</a>!
+Sie haben Fragen Malunterricht oder wollen sich für einen kommenden Workshop anmelden? Zögern Sie nicht mich zu <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo;">kontaktieren</a>!

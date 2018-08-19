@@ -12,4 +12,4 @@ Für die Puppen verwende ich unterschiedliche Vorlagen in Tier- und Menschenform
 
 Der Preis variiert je nach Stoff, Größe und Aufwand der Puppe und bewegt sich zwischen 80 und 150 Euro. Der Preis wird einzeln vereinbart, womit Abweichungen möglich sind.
 
-Wenn Sie Fragen oder einen Auftragswunsch haben, können Sie gerne <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo">Kontakt aufnehmen</a>!
+Wenn Sie Fragen oder einen Auftragswunsch haben, können Sie gerne <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo;">Kontakt aufnehmen</a>!

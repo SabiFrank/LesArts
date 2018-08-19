@@ -25,4 +25,4 @@ Die Größe der Bilder ist frei variabel und das Trägermaterial (im Falle von L
 
 Der Preis ist abhängig von Material und Aufwand und kann somit nicht generell festgelegt werden. <a href="https://LesArts-MariaFrank.de/malerei/" title="Weiterleitung zu der Gemälde-Gallerie von Maria Frank">Hier</a> können Sie früherer Aufträge und Werke einsehen, um sich ein Bild von Preis und Qualität meiner Arbeit machen zu können.
 
-Sollten Sie Interesse gefunden haben, zögern Sie nicht mich zu <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo">benachrichtigen</a>. Ich freue mich auf Ihren Auftrag!
+Sollten Sie Interesse gefunden haben, zögern Sie nicht mich zu <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo;">benachrichtigen</a>. Ich freue mich auf Ihren Auftrag!
