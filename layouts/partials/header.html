@@ -12,6 +12,7 @@
 	<link rel="shortcut icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}">
 	<link rel="apple-touch-icon" href="images/AppleTouchIcon.png" sizes="144x144"/>
 	<link rel="shortcut icon" href="images/android-icon.png" sizes="196x196">
+	<link rel="stylesheet" href="css/lightbox.min.css">
 	
 	<!-- Bootstrap -->
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -29,26 +30,6 @@
     {{ else }}
         <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=inline-share-buttons"></script>
     {{ end }}
-	
-	<style>
-		div.gallery {
-			margin: 5px;
-			border: 1px solid #ccc;
-			float: left;
-			width: 180px;
-		}
-		div.gallery:hover {
-			border: 1px solid #777;
-		}
-		div.gallery img {
-			width: 100%;
-			height: auto;
-		}
-		div.desc {
-			padding: 15px;
-			text-align: center;
-		}
-	</style>
 
 </head>
 <body class="home">
