@@ -9,14 +9,14 @@ Hier sind Gutscheine für Workshops zu sehen.
 
 <div class="gallery">
     <a target="_blank" link rel="canonical" 
-    href="/images/gutscheine/Gutscheine.jpg">
+    href="/images/gutscheine/Gutscheine.jpg" rel="lightbox">
 		<img src="/images/gutscheine/Gutscheine.jpg" alt="Gutscheine für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
 	</a>		
     <div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
 </div>
 
 <div class="gallery">
-	<a target="_blank" link rel="canonical" href="/images/gutscheine/Gutschein1.jpg">
+	<a target="_blank" link rel="canonical" href="/images/gutscheine/Gutschein1.jpg" rel="lightbox">
 		<img src="/images/gutscheine/Gutschein1.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
 	</a>
 	<div class="desc">Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank</div>
