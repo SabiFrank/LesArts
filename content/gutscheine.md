@@ -7,14 +7,14 @@ Hier sind Gutscheine für Workshops zu sehen.
 
 <div class="gallery">
     <a href="/images/gutscheine/Gutscheine-gr.jpg" rel="lightbox" title="Gutscheine für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutscheine-kl.jpg" alt="Gutscheine für Malkurse oder Workshops bei Maria Frank" width="500" height="400">
+		<img src="/images/gutscheine/Gutscheine-kl.jpg" alt="Gutscheine für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
 	</a>		
     <div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
 </div>
 
 <div class="gallery">
 	<a href="/images/gutscheine/Gutschein1-gr.jpg" rel="lightbox" title="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutschein1-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="500" height="400">
+		<img src="/images/gutscheine/Gutschein1-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
 	</a>
 	<div class="desc">Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank</div>
 </div>
@@ -23,7 +23,7 @@ Hier sind Gutscheine für Workshops zu sehen.
 	div.gallery {
 		margin: 5px;
 		border: 1px solid #ccc;
-		float: left;
+		float: center;
 		width: 180px;
 	}
 	div.gallery:hover {
