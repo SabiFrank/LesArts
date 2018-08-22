@@ -91,6 +91,7 @@ Hier sind alle bisher entstandenen Gravuren und vereinzelt deren Preise zu finde
         height: 200px;
         display: block;
         overflow: hidden;
+        object-fit: cover;
 	}
 	div.gallery:hover {
 		border: 1px solid #777;
