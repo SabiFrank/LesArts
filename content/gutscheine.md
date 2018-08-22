@@ -7,23 +7,46 @@ url = ""
 +++
 Hier sind Gutscheine für Workshops zu sehen.
 
-	<div class="gallery">
-		<a target="_blank" href="images/gutscheine/Gutscheine.jpg">
+
+<div class="gallery">
+	<a target="_blank" href="images/gutscheine/Gutscheine.jpg">
 			<img src="5terre.jpg" alt="Gutscheine für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-		</a>
-		<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
-	</div>
+	</a>
+	<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
+</div>
 
-	<div class="gallery">
-		<a target="_blank" href="images/gutscheine/Gutschein1.jpg">
-			<img src="forest.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-		</a>
-		<div class="desc">Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank</div>
-	</div>
+<div class="gallery">
+	<a target="_blank" href="images/gutscheine/Gutschein1.jpg">
+		<img src="forest.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
+	</a>
+	<div class="desc">Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank</div>
+</div>
 
-	<div class="gallery">
-		<a target="_blank" href="images/gutscheine/Gutschein2.jpg">
-			<img src="lights.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-		</a>
-		<div class="desc">Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank</div>
-	</div>
+<div class="gallery">
+	<a target="_blank" href="images/gutscheine/Gutschein2.jpg">
+		<img src="lights.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
+	</a>
+	<div class="desc">Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank</div>
+</div>
+
+
+
+<style>
+	div.gallery {
+		margin: 5px;
+		border: 1px solid #ccc;
+		float: left;
+		width: 180px;
+	}
+	div.gallery:hover {
+		border: 1px solid #777;
+	}
+	div.gallery img {
+		width: 100%;
+		height: auto;
+	}
+	div.desc {
+		padding: 15px;
+		text-align: center;
+	}
+</style>
