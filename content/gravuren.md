@@ -83,6 +83,12 @@ Hier sind alle bisher entstandenen Gravuren und vereinzelt deren Preise zu finde
 </div>
 
 <style>
+	.div {
+    	background-image: url();
+    	background-size:cover;
+    	background-position:center;
+    	background-repeat:no-repeat;
+    }
 	div.gallery {
 		margin: 5px;
 		border: 1px solid #ccc;
@@ -94,10 +100,6 @@ Hier sind alle bisher entstandenen Gravuren und vereinzelt deren Preise zu finde
 		border: 1px solid #777;
 	}
 	div.gallery img {
-		background-image: 
-    	background-size:cover;
-    	background-position:center;
-    	background-repeat:no-repeat;
 	}
 	div.desc {
 		padding: 15px;
