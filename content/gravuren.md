@@ -75,13 +75,6 @@ Hier sind alle bisher entstandenen Gravuren und vereinzelt deren Preise zu finde
     <div class="desc">Gravur auf Parfum-Flacon</div>
 </div>
 
-<div class="gallery">
-    <a href="/images/gravuren/Gravur11-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
-		<img src="/images/gravuren/Gravur11-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
-	</a>		
-    <div class="desc">Gravur auf Parfum-Flacon</div>
-</div>
-
 <style>
 	div.gallery {
 		margin: 5px;
