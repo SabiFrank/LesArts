@@ -7,10 +7,9 @@ url = ""
 +++
 Hier sind Gutscheine für Workshops zu sehen.
 
-
 <div class="gallery">
     <a target="_blank" href="images/gutscheine/Gutscheine.jpg">
-			<img src="images/gutscheine/Gutscheine.jpg" alt="Gutscheine für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
+			<img src="Gutscheine.jpg" alt="Gutscheine für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
     </a>
     <div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
 </div>
@@ -21,14 +20,6 @@ Hier sind Gutscheine für Workshops zu sehen.
 	</a>
 	<div class="desc">Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank</div>
 </div>
-
-<div class="gallery">
-	<a target="_blank" href="images/gutscheine/Gutschein2.jpg">
-		<img src="images/gutscheine/Gutschein2.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-	</a>
-	<div class="desc">Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank</div>
-</div>
-
 
 
 <style>
