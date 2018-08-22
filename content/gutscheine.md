@@ -23,8 +23,8 @@ Hier sind Gutscheine für Workshops zu sehen.
 	div.gallery {
 		margin: 5px;
 		border: 1px solid #ccc;
-		float: center;
-		width: 180px;
+		float: left;
+		width: 300px;
 	}
 	div.gallery:hover {
 		border: 1px solid #777;
