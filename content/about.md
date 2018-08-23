@@ -6,15 +6,18 @@ type = "übermich"
 weight = 2
 
 +++
+## Lebenslauf
 <p>
 <img src="/images/about.jpg" alt="Maria Frank, Künstlerin aus Neckarwestheim in ihrem Atelier während eines Workshops." style="float:right;width:auto;height:200px;">
 
+
 Mein Name ist Maria Frank. Mit meinem Mann und meiner <a href="https://www.facebook.com/ArtCommissionsSabrinaFrank/?hc_ref=ARR9arXFIz3T4Er-GgksNx6qDZwJypIJJEXeZtxddSoqpGK_FbNH8HO1ToS0nVWu1iU&fref=nf" title="Weiterleitung zu der externen Facebook-Seite für Auftragsarbeiten (Bleistiftzeichnungen) von Sabrina Frank">Tochter</a> lebe und arbeite ich in Neckarwestheim. In meinem Atelier biete ich <a href="https://www.lesarts-mariafrank.de/service/workshops/" title="Weiterleitung zu den Angeboten &ldquo;Malkurse und Workshops&rdquo; dieser Website">Malkurse und Workshops</a> an, in denen ich individuell auf persönliche Vorstellungen eingehen kann.
+<br>
 <br>
 Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillustrationen sowie Gebrauchsgrafiken zu meinem Aufgabenrepertoire. 1990 wurde ich schließlich Mitglied im Verband bildender Künstler und konnte mich ein Jahr später als freie Illustratorin selbstständig machen.
 </p>
 
-### Ausstellungen
+## Ausstellungen
 
 * 2005    Galerie im Rundturm, GKN Neckarwestheim
 * 2006    Kulturscheuer, Bönnigheim
@@ -25,7 +28,7 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 * 2009    Rathaus, Neckarwestheim
 * 2010-17 Dauerausstellung Gasthaus Krone, Neckarwestheim
 
-### Arbeitserfahrung
+## Arbeitserfahrung
 
 * 1982-1984 Werbeagentur Wehn & Karius GmbH Leonberg
 * 1984-1985 Freie Tätigkeit als Comiczeichnerin in Rom mit anschließender Theatertournee
@@ -34,7 +37,7 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 * 1991-2009 Selbstständig als freie Malerin/Illustratorin
 * 2012-2013 Kunsttherapeutin, Universitätsklinikum Heidelberg, Kinderkardiologie & -onkologie
 
-### Ausbildung
+## Ausbildung
 
 * 1978 - 1982 Kunst & Grafikdesign Ausbildung, Werk- und Kunstakademie, Stuttgart
 * 1967 - 1977 Sozialpädagogische Ausbildung, Fachschule für Sozialpädagogik, Stuttgart
