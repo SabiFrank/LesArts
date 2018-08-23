@@ -6,9 +6,9 @@ Lassen Sie Ihr Wunschmotiv mit einer großen Auswahl an Maltechniken und Träger
 
 <!--more-->
 
-In Ihrem Leben gibt es vielleicht einen besonders schönen Moment, der in Form eines Fotos festgehalten wurde, das Sie sich gerne immer wieder in Erinnerung rufen? Oder Sie haben eine Idee für ein Projekt, das <em>graphische Visualisierung</em> benötigt, um lebendig zu werden? Diese Momente oder Konzepte in Bildern künstlerisch oder auch technisch umzusetzen ist mein Anliegen, mit dem ich Ihnen gerne behilflich bin! 
+In Ihrem Leben gibt es vielleicht einen besonders schönen Moment, der in Form eines Fotos festgehalten wurde, das Sie sich gerne immer wieder in Erinnerung rufen? Oder Sie haben eine Idee für ein Projekt, das <strong>graphische Visualisierung</strong> benötigt, um lebendig zu werden? Diese Momente oder Konzepte in Bildern künstlerisch oder auch technisch umzusetzen ist mein Anliegen, mit dem ich Ihnen gerne behilflich bin! 
 
-Im Zuge meiner Ausbildung und der langjährigen Arbeit als <em>freischaffende Künstlerin</em> konnte ich mich mit einer Vielzahl verschiedenen Techniken vertraut machen. Somit kann ich folgende Möglichkeiten für die Umsetzung Ihres Wunschmotivs anbieten:
+Im Zuge meiner Ausbildung und der langjährigen Arbeit als <strong>freischaffende Künstlerin</strong> konnte ich mich mit einer <strong>Vielzahl verschiedenen Techniken</strong> vertraut machen. Somit kann ich folgende Möglichkeiten für die Umsetzung Ihres Wunschmotivs anbieten:
 
 * Airbrush
 * Acryl
