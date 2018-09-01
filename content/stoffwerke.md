@@ -71,10 +71,10 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden. Sie finden zu jeder Ar
 </div>
 
 <div class="gallery">
-    <a href="/images/stoffwerke/Stoffwerk10-gr.jpg" rel="lightbox" title="Stoffhasen, auf einem Kissen sitzend">
-		<img src="/images/stoffwerke/Stoffwerk10-kl.jpg" alt="Stoffhasen, auf einem Kissen sitzend" width="300" height="200">
+    <a href="/images/stoffwerke/Stoffwerk10-gr.jpg" rel="lightbox" title="Sitzende Stoffhasen">
+		<img src="/images/stoffwerke/Stoffwerk10-kl.jpg" alt="Sitzende Stoffhasen" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffhasen, auf einem Kissen sitzend</div>
+    <div class="desc">Sitzende Stoffhasen</div>
 </div>
 
 <div class="gallery">
