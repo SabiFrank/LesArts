@@ -5,13 +5,132 @@ type = "portfolio"
 url = ""
 
 +++
-Hier sind alle mit Stoff entstandenen Arbeiten zu finden. Sie finden zu jeder Arbeit den Titel sowie in einigen Fällen einen Preis.
+Hier sind alle mit Stoff entstandenen Arbeiten zu finden. Sie finden zu jeder Arbeit den Titel sowie in einigen Fällen einen Preis. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
-    <a href="/images/stoffwerke/Stoffwerk1-gr.jpg" rel="lightbox" title="Beschreibung">
-		<img src="/images/stoffwerke/Stoffwerk1-kl.jpg" alt="Beschreibung" width="300" height="200">
+    <a href="/images/stoffwerke/Stoffwerk1-gr.jpg" rel="lightbox" title="Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"">
+		<img src="/images/stoffwerke/Stoffwerk1-kl.jpg" alt="Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"" width="300" height="200">
 	</a>		
-    <div class="desc">Beschreibung</div>
+    <div class="desc">Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk2-gr.jpg" rel="lightbox" title="Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"">
+		<img src="/images/stoffwerke/Stoffwerk2-kl.jpg" alt="Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk3-gr.jpg" rel="lightbox" title="Stoffpuppen mit Halterung">
+		<img src="/images/stoffwerke/Stoffwerk3-kl.jpg" alt="Stoffpuppen mit Halterung" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffpuppen mit Halterung</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk4-gr.jpg" rel="lightbox" title="Verschiedene Stoffpuppen">
+		<img src="/images/stoffwerke/Stoffwerk4-kl.jpg" alt="Verschiedene Stoffpuppen" width="300" height="200">
+	</a>		
+    <div class="desc">Verschiedene Stoffpuppen</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk5-gr.jpg" rel="lightbox" title="Gesicht einer Stoffpuppe im Detail">
+		<img src="/images/stoffwerke/Stoffwerk5-kl.jpg" alt="Gesicht einer Stoffpuppe im Detail" width="300" height="200">
+	</a>		
+    <div class="desc">Gesicht einer Stoffpuppe im Detail</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk6-gr.jpg" rel="lightbox" title="Stoffpuppe mit Halterung und Engelsflügeln">
+		<img src="/images/stoffwerke/Stoffwerk6-kl.jpg" alt="Stoffpuppe mit Halterung und Engelsflügeln" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffpuppe mit Halterung und Engelsflügeln</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk7-gr.jpg" rel="lightbox" title="Stoffpuppe in weiß mit Halterung und Engelsflügeln">
+		<img src="/images/stoffwerke/Stoffwerk7-kl.jpg" alt="Stoffpuppe in weiß mit Halterung und Engelsflügeln" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffpuppe in weiß mit Halterung und Engelsflügeln</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk8-gr.jpg" rel="lightbox" title="Stoffpuppe in weiß mit Halterung und Engelsflügeln">
+		<img src="/images/stoffwerke/Stoffwerk8-kl.jpg" alt="Stoffpuppe in weiß mit Halterung und Engelsflügeln" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffpuppe in weiß mit Halterung und Engelsflügeln</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk9-gr.jpg" rel="lightbox" title="Stoffpuppen mit Halterung und Engelsflügeln">
+		<img src="/images/stoffwerke/Stoffwerk9-kl.jpg" alt="Stoffpuppen mit Halterung und Engelsflügeln" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffpuppen mit Halterung und Engelsflügeln</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk10-gr.jpg" rel="lightbox" title="Stoffhasen, auf einem Kissen sitzend">
+		<img src="/images/stoffwerke/Stoffwerk10-kl.jpg" alt="Stoffhasen, auf einem Kissen sitzend" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffhasen, auf einem Kissen sitzend</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk11-gr.jpg" rel="lightbox" title="Stoffhase mit Blume">
+		<img src="/images/stoffwerke/Stoffwerk11-kl.jpg" alt="Stoffhase mit Blume" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffhase mit Blume</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk12-gr.jpg" rel="lightbox" title="Stehende Stoffhasen">
+		<img src="/images/stoffwerke/Stoffwerk12-kl.jpg" alt="Stehende Stoffhasen" width="300" height="200">
+	</a>		
+    <div class="desc">Stehende Stoffhasen</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk13-gr.jpg" rel="lightbox" title="Sitzender Stoffhase mit Blume">
+		<img src="/images/stoffwerke/Stoffwerk13-kl.jpg" alt="Sitzender Stoffhase mit Blume" width="300" height="200">
+	</a>		
+    <div class="desc">Sitzender Stoffhase mit Blume</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk14-gr.jpg" rel="lightbox" title="Stehender Stoffhase">
+		<img src="/images/stoffwerke/Stoffwerk14-kl.jpg" alt="Stehender Stoffhase" width="300" height="200">
+	</a>		
+    <div class="desc">Stehender Stoffhase</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk15-gr.jpg" rel="lightbox" title="Stoffhase, ausgestellt in dem Juweliergeschäft "Mia&Liz"">
+		<img src="/images/stoffwerke/Stoffwerk15-kl.jpg" alt="Stoffhase, ausgestellt in dem Juweliergeschäft "Mia&Liz"" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffhase, ausgestellt in dem Juweliergeschäft "Mia&Liz"</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk16-gr.jpg" rel="lightbox" title="Stoffkuh mit Flügeln">
+		<img src="/images/stoffwerke/Stoffwerk16-kl.jpg" alt="Stoffkuh mit Flügeln" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffkuh mit Flügeln</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk17-gr.jpg" rel="lightbox" title="Stoffkuh mit Flügeln, an der Decke angebracht">
+		<img src="/images/stoffwerke/Stoffwerk17-kl.jpg" alt="Stoffkuh mit Flügeln, an der Decke angebracht" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffkuh mit Flügeln, an der Decke angebracht</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/stoffwerke/Stoffwerk18-gr.jpg" rel="lightbox" title="Stoffblumen als Dekorationsgegenstände">
+		<img src="/images/stoffwerke/Stoffwerk18-kl.jpg" alt="Stoffblumen als Dekorationsgegenstände" width="300" height="200">
+	</a>		
+    <div class="desc">Stoffblumen als Dekorationsgegenstände</div>
 </div>
 
 <style>
