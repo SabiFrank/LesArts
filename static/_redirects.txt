@@ -7,3 +7,6 @@
 /contact /kontakt
 /uebermich /about
 /ueber_mich /about
+
+# Redirect with a 301
+/home         /              301
