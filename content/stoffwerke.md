@@ -22,10 +22,10 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden. Sie finden zu jeder Ar
 </div>
 
 <div class="gallery">
-    <a href="/images/stoffwerke/Stoffwerk3-gr.jpg" rel="lightbox" title="Stoffpuppen mit Halterung">
-		<img src="/images/stoffwerke/Stoffwerk3-kl.jpg" alt="Stoffpuppen mit Halterung" width="300" height="200">
+    <a href="/images/stoffwerke/Stoffwerk3-gr.jpg" rel="lightbox" title="Stoffpuppen in weiß mit Halterung und Accessoires">
+		<img src="/images/stoffwerke/Stoffwerk3-kl.jpg" alt="Stoffpuppen in weiß mit Halterung und Accessoires" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffpuppen mit Halterung</div>
+    <div class="desc">Stoffpuppen in weiß mit Halterung und Accessoires</div>
 </div>
 
 <div class="gallery">
