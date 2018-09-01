@@ -3,7 +3,7 @@ date = "2018-05-16T17:15:27+02:00"
 title = "Gutscheine"
 type = "portfolio"
 +++
-Hier sind Gutscheine für Workshops zu sehen.
+Hier sind Gutscheine für Workshops zu sehen. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
     <a href="/images/gutscheine/Gutscheine-gr.jpg" rel="lightbox" title="Gutscheine für Malkurse oder Workshops bei Maria Frank">
