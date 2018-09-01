@@ -1,0 +1,9 @@
+/portfolio/malerei /malerie
+/portfolio/illustrationen /illustrationen
+/portfolio/gutscheine /gutscheine
+/portfolio/lettering /lettering
+/portfolio/gravuren /gravuren
+/portfolio/stoffwerke /stoffwerke
+/contact /kontakt
+/uebermich /about
+/ueber_mich /about
