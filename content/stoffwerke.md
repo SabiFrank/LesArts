@@ -8,17 +8,17 @@ url = ""
 Hier sind alle mit Stoff entstandenen Arbeiten zu finden. Sie finden zu jeder Arbeit den Titel sowie in einigen Fällen einen Preis. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
-    <a href="/images/stoffwerke/Stoffwerk1-gr.jpg" rel="lightbox" title="Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"">
-		<img src="/images/stoffwerke/Stoffwerk1-kl.jpg" alt="Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"" width="300" height="200">
+    <a href="/images/stoffwerke/Stoffwerk1-gr.jpg" rel="lightbox" title="Stoffpuppen, ausgestellt in dem Juweliergeschäft "Mia&Liz"">
+		<img src="/images/stoffwerke/Stoffwerk1-kl.jpg" alt="Stoffpuppen, ausgestellt in dem Juweliergeschäft "Mia&Liz"" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"</div>
+    <div class="desc">Stoffpuppen, ausgestellt in dem Juweliergeschäft "Mia&Liz"</div>
 </div>
 
 <div class="gallery">
-    <a href="/images/stoffwerke/Stoffwerk2-gr.jpg" rel="lightbox" title="Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"">
-		<img src="/images/stoffwerke/Stoffwerk2-kl.jpg" alt="Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"" width="300" height="200">
+    <a href="/images/stoffwerke/Stoffwerk2-gr.jpg" rel="lightbox" title="Stoffpuppen, ausgestellt in dem Juweliergeschäft "Mia&Liz"">
+		<img src="/images/stoffwerke/Stoffwerk2-kl.jpg" alt="Stoffpuppen, ausgestellt in dem Juweliergeschäft "Mia&Liz"" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffpuppen, ausgestellt in den Schaufenstern des Juweliergeschäfts "Mia&Liz"</div>
+    <div class="desc">Stoffpuppen, ausgestellt in dem Juweliergeschäft "Mia&Liz"</div>
 </div>
 
 <div class="gallery">
