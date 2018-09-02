@@ -3,7 +3,7 @@ date = "2018-05-16T17:15:55+02:00"
 title = "Gravuren"
 type = "portfolio"
 +++
-Hier sind alle bisher entstandenen Gravuren und vereinzelt deren Preise zu finden. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können. 
+Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können. 
 
 <div class="gallery">
     <a href="/images/gravuren/Gravur1-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">

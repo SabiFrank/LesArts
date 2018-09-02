@@ -3,7 +3,7 @@ date = "2018-05-16T17:14:54+02:00"
 title = "Illustrationen"
 type = "portfolio"
 +++
-Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie finden zu jedem Bild den Titel sowie die verwendete Technik und in einigen Fällen einen Preis.
+Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie finden zu jedem Bild den Titel sowie die verwendete Technik. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
     <a href="/images/illustrationen/Illustration1-gr.jpg" rel="lightbox" title="Beschreibung">

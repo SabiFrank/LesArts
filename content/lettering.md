@@ -5,7 +5,7 @@ type = "portfolio"
 url = ""
 
 +++
-Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Einige Bilder wurden digital nachgearbeitet.
+Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
     <a href="/images/lettering/Lettering1-gr.jpg" rel="lightbox" title="Beschreibung">
