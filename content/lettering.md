@@ -2,13 +2,11 @@
 date = "2018-05-16T17:17:21+02:00"
 title = "Lettering"
 type = "portfolio"
-url = ""
-
 +++
 Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
-    <a href="/images/lettering/Lettering1-gr.jpg" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung durch Sabrina Frank>
+    <a href="/images/lettering/Lettering1-gr.jpg" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung durch Sabrina Frank">
 		<img src="/images/lettering/Lettering1-kl.jpg" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung durch Sabrina Frank" width="300" height="200">
 	</a>		
     <div class="desc">Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung durch <a href="https://www.ArtCommissions-SabrinaFrank.de/" title="Weiterleitung zu der externen Website ArtCommissions-SabrinaFrank"> Sabrina Frank</a></div>
