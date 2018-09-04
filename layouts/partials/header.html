@@ -38,7 +38,6 @@
     {{ else }}
         <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=inline-share-buttons"></script>
     {{ end }}
-		<script src="js/jquery.cookie.js"></script>
 
 </head>
 <body class="home">
@@ -56,9 +55,4 @@
 
     {{ partial "menu.html" . }}
 	
-	<div id="cookieConsent">
-		<div id="closeCookieConsent">x</div>
-		Diese Webseite verwendet Cookies, um bestmögliche Funktionalität bieten zu können. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie <a href="https://dsgvo-gesetz.de/art-95-dsgvo/" title="Weiterleitung zu der externen Website dsgvo-gesetz.de">hier</a>.<a class="cookieConsentOK">Verstanden</a>
-	</div>
-
 </header>
