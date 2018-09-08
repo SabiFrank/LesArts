@@ -188,15 +188,15 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 </div>
 
 <div class="gallery">
-    <a href="/images/illustrationen/Frau_mit_Shirt-gr.jpg" rel="lightbox" title="Beschreibung">
-		<img src="/images/illustrationen/Frau_mit_Shirt-kl.jpg" alt="Beschreibung" width="300" height="200">
+    <a href="/images/illustrationen/Frau_mit_Shirt-gr.png" rel="lightbox" title="Beschreibung">
+		<img src="/images/illustrationen/Frau_mit_Shirt-kl.png" alt="Beschreibung" width="300" height="200">
 	</a>		
     <div class="desc">Beschreibung</div>
 </div>
 
 <div class="gallery">
-    <a href="/images/illustrationen/Frau_mit_Vogel-gr.jpg" rel="lightbox" title="Beschreibung">
-		<img src="/images/illustrationen/Frau_mit_Vogel-kl.jpg" alt="Beschreibung" width="300" height="200">
+    <a href="/images/illustrationen/Frau_mit_Vogel-gr.png" rel="lightbox" title="Beschreibung">
+		<img src="/images/illustrationen/Frau_mit_Vogel-kl.png" alt="Beschreibung" width="300" height="200">
 	</a>		
     <div class="desc">Beschreibung</div>
 </div>
@@ -286,8 +286,8 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 </div>
 
 <div class="gallery">
-    <a href="/images/illustrationen/Ratiopharm_Häuschen-gr.jpg" rel="lightbox" title="Beschreibung">
-		<img src="/images/illustrationen/Ratiopharm_Häuschen-kl.jpg" alt="Beschreibung" width="300" height="200">
+    <a href="/images/illustrationen/Ratiopharm_Häuschen-gr.png" rel="lightbox" title="Beschreibung">
+		<img src="/images/illustrationen/Ratiopharm_Häuschen-kl.png" alt="Beschreibung" width="300" height="200">
 	</a>		
     <div class="desc">Beschreibung</div>
 </div>
