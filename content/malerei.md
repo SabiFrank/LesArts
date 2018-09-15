@@ -72,7 +72,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 <div class="gallery">
     <a href="/images/malerei/Carneval2_gr.jpg" rel="lightbox" title="Titel: Carneval 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-		<img src="/images/malerei/Carneval1_k2.jpg" alt="Titel: Carneval 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
+		<img src="/images/malerei/Carneval2_kl.jpg" alt="Titel: Carneval 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
     <div class="desc">Titel: Carneval 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
 </div>
@@ -318,8 +318,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </div>
 
 <div class="gallery">
-    <a href="/images/malerei/Mole_von_St.Blas_gr.jpg" rel="lightbox" title="Titel: Mole von St.Blas, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-		<img src="/images/malerei/Mole_von_St.Blas_kl.jpg" alt="Titel: Mole von St.Blas, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
+    <a href="/images/malerei/Mole_gr.jpg" rel="lightbox" title="Titel: Mole von St.Blas, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
+		<img src="/images/malerei/Mole_kl.jpg" alt="Titel: Mole von St.Blas, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
     <div class="desc">Titel: Mole von St.Blas, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
 </div>
