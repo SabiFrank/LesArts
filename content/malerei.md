@@ -514,10 +514,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </div>
 </p>
 
-&nbsp; <br>
-&nbsp; <br>
-&nbsp; <br>
-
 <h2>Mischtechnik</h2> <br>
 
 <p>
@@ -542,8 +538,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <div class="desc">Titel: The World <br> Technik: Mischtechnik</div>
 </div>
 </p>
-
-&nbsp; <br>
 
 <h2>Zeichnungen</h2> <br>
 
@@ -590,8 +584,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <div class="desc">Titel: Svetlana <br> Technik: Graphit auf Papier</div>
 </div>
 </p>
-
-&nbsp; <br>
 
 <h2>Wandmalerei</h2> <br>
 
