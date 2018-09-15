@@ -324,21 +324,21 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Schunk4-gr.jpg" rel="lightbox" title="Titel: Schunk 4, Technik: Copicmarker">
 		<img src="/images/illustrationen/Schunk4-kl.jpg" alt="Titel: Schunk 4, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Schunk 4 <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Schunk 4 <br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
-    <a href="/images/illustrationen/Schunk-gr.jpg" rel="lightbox" title="Titel: AOK Party, Technik: Copicmarker">
-		<img src="/images/illustrationen/Schunk-kl.jpg" alt="Titel: AOK Party, Technik: Copicmarker" width="300" height="200">
+    <a href="/images/illustrationen/Schunk-gr.jpg" rel="lightbox" title="Titel: Schunk 5, Technik: Copicmarker">
+		<img src="/images/illustrationen/Schunk-kl.jpg" alt="Titel: Schunk 5, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: AOK Party <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Schunk 5 <br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Schwein,_Katze_und_Mond-gr.jpg" rel="lightbox" title="Titel: Schwein, Katze und Mond, Technik: Pastellkreide, Quelle: Unbekannt">
 		<img src="/images/illustrationen/Schwein,_Katze_und_Mond-kl.jpg" alt="Titel: Schwein, Katze und Mondy, Technik: Pastellkreide, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Schwein, Katze und Mond <br> Technik: Pastellkreide, Quelle: Unbekannt"</div>
+    <div class="desc">Titel: Schwein, Katze und Mond <br> Technik: Pastellkreide <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
@@ -352,7 +352,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Spielebrett-gr.jpg" rel="lightbox" title="Titel: Spielebrett, Technik: Copicmarker">
 		<img src="/images/illustrationen/Spielebrett-kl.jpg" alt="Titel: Spielebrett, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Spielebrett <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Spielebrett <br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -373,14 +373,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Tripsdrill_Comicfigur-gr.jpg" rel="lightbox" title="Titel: Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill">
 		<img src="/images/illustrationen/Tripsdrill_Comicfigur-kl.jpg" alt="Titel: Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Tripsdrill Comicfigur <br> Technik: Filzstift <br> Quelle: Tripsdrill</div>
+    <div class="desc">Titel: Tripsdrill Comicfigur <br> Technik: Filzstift <br> Quelle: Tripsdrill <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Tripsdrill-gr.jpg" rel="lightbox" title="Titel: Tripsdrill, Technik: Mischtechnik, Quelle: Tripsdrill">
 		<img src="/images/illustrationen/Tripsdrill-kl.jpg" alt="Titel: Tripsdrill, Technik: Mischtechnik, Quelle: Tripsdrill" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Tripsdrill <br> Technik: Mischtechnik <br> Quelle: Tripsdrill</div>
+    <div class="desc">Titel: Tripsdrill <br> Technik: Mischtechnik <br> Quelle: Tripsdrill <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
