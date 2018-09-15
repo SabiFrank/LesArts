@@ -7,6 +7,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 <h2>Acryl</h2> <br>
 
+<p>
 <div class="gallery">
     <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Abschied_kl.jpg" alt="Titel: Abschied, Technik: Acryl auf Leinwand" width="300" height="200">
@@ -512,6 +513,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</a>		
     <div class="desc">Titel: Zwilling, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
 </div>
+</p>
+
 <br>
 
 <h2>Mischtechnik</h2> <br>
