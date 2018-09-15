@@ -292,14 +292,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Mama_gr.jpg" rel="lightbox" title="Titel: Mama, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Mama_kl.jpg" alt="Titel: Mama, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Mama <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Mama <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Mama_weiß_gr.jpg" rel="lightbox" title="Titel: Mama weiß, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Mama_weiß_kl.jpg" alt="Titel: Mama weiß, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Mama weiß <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Mama weiß <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 
@@ -307,7 +307,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Mein_Weg_gr.jpg" rel="lightbox" title="Titel: Mein Weg, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Mein_Weg_kl.jpg" alt="Titel: Mein Weg, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Mein Weg <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Mein Weg <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -328,7 +328,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Momo_gr.jpg" rel="lightbox" title="Titel: Momo, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Momo_kl.jpg" alt="Titel: Momo, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Momo <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Momo <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -356,7 +356,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Rinaldo_gr.jpg" rel="lightbox" title="Titel: Rinaldo, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Rinaldo_kl.jpg" alt="Titel: Rinaldo, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Rinaldo <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Rinaldo <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
