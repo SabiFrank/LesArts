@@ -515,6 +515,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </p>
 
 &nbsp; <br>
+&nbsp; <br>
+&nbsp; <br>
 
 <h2>Mischtechnik</h2> <br>
 
