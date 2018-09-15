@@ -93,7 +93,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Europapark_Rust_gr.jpg" rel="lightbox" title="Titel: Europapark Rusty, Technik: Mischtechnik">
 		<img src="/images/illustrationen/Europapark_Rust_kl.jpg" alt="Titel: Europapark Rust, Technik: Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Europapark Rust <br> Technik: Mischtechnik</div>
+    <div class="desc">Titel: Europapark Rust <br> Technik: Mischtechnik <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -121,7 +121,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Eventmanagement4-gr.jpg" rel="lightbox" title="Titel: Eventmanagement 4, Technik: Copicmarker">
 		<img src="/images/illustrationen/Eventmanagement4-kl.jpg" alt="Titel: Eventmanagement 4, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Eventmanagement Modeillustration Felicitas4 <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Eventmanagement 4 <br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
