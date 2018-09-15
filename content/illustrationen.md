@@ -135,7 +135,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Flight-gr.jpg" rel="lightbox" title="Titel: Storyboard Flight, Technik: Copicmarker">
 		<img src="/images/illustrationen/Flight-kl.jpg" alt="Titel: Storyboard Flight, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Storyboard Flight<br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Storyboard Flight<br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -205,7 +205,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Grüner_Punkt-gr.jpg" rel="lightbox" title="Titel: Grüner Punkt, Technik: Copicmarker">
 		<img src="/images/illustrationen/Grüner_Punkt-kl.jpg" alt="Titel: Grüner Punkt, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Grüner Punkt <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Grüner Punkt <br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -226,14 +226,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/ITT_Electric-gr.jpg" rel="lightbox" title="Titel: ITT, Technik: Copicmarker">
 		<img src="/images/illustrationen/ITT_Electric-kl.jpg" alt="Titel: ITT, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: ITT <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: ITT <br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Männermode1-gr.jpg" rel="lightbox" title="Titel: Männermode 1, Technik: Copicmarker">
 		<img src="/images/illustrationen/Männermode1-kl.jpg" alt="Titel: Männermode 1, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Männermode 1 <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Männermode 1 <br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -296,7 +296,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Schmetterlinge-gr.jpg" rel="lightbox" title="Titel: Schmetterlinge, Technik: Airbrushr">
 		<img src="/images/illustrationen/Schmetterlinge-kl.jpg" alt="Titel: Schmetterlinge, Technik: Airbrush" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Schmetterlinge <br> Technik: Airbrush</div>
+    <div class="desc">Titel: Schmetterlinge <br> Technik: Airbrush <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
