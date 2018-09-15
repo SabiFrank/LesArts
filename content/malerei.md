@@ -123,14 +123,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Dunningen_gr.jpg" rel="lightbox" title="Titel: Dunningen, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Dunningen_kl.jpg" alt="Titel: Dunningen, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Dunningen <br> Technik: Acryl auf Leinwand<br> &nbsp;</div>
+    <div class="desc">Titel: Dunningen <br> Technik: Acryl auf Leinwand</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Empty_gr.jpg" rel="lightbox" title="Titel: Empty, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Empty_kl.jpg" alt="Titel: Empty, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Empty <br> Technik: Acryl auf Leinwand<br> &nbsp;</div>
+    <div class="desc">Titel: Empty <br> Technik: Acryl auf Leinwand</div>
 </div>
 
 <div class="gallery">
@@ -151,14 +151,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Familienportrait1_gr.jpg" rel="lightbox" title="Titel: Familienportrait 1, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Familienportrait1_kl.jpg" alt="Titel: Familienportrait 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Familienportrait 1 <br> Technik: Acryl auf Leinwand <br></div>
+    <div class="desc">Titel: Familienportrait 1 <br> Technik: Acryl auf Leinwand<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Familienportrait2_gr.jpg" rel="lightbox" title="Titel: Familienportrait 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Familienportrait2_kl.jpg" alt="Titel: Familienportrait 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Familienportrait 2 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br></div>
+    <div class="desc">Titel: Familienportrait 2 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -172,7 +172,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Follow_the_leader_gr.jpg" rel="lightbox" title="Titel: Follow the Leader, Technik: Acryl auf Leinwand, Quelle: Artwork für Album 'Follow the Leader' der Band Korn von Todd McFarlane">
 		<img src="/images/malerei/Follow_the_leader_kl.jpg" alt="Titel: Follow the Leader, Technik: Acryl auf Leinwand, Quelle: Artwork für Album 'Follow the Leader' der Band Korn von Todd McFarlane" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Follow the Leader <br> Technik: Acryl auf Leinwand, Quelle: Album 'Follow the Leader' von Korn</div>
+    <div class="desc">Titel: Follow the Leader <br> Technik: Acryl auf Leinwand <br> Quelle: 'Follow the Leader' von Korn</div>
 </div>
 
 <div class="gallery">
