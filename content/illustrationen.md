@@ -324,14 +324,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Schunk4-gr.jpg" rel="lightbox" title="Titel: Schunk 4, Technik: Copicmarker">
 		<img src="/images/illustrationen/Schunk4-kl.jpg" alt="Titel: Schunk 4, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Schunk 4 <br> Technik: Copicmarker <br> &nbsp;</div>
+    <div class="desc">Titel: Schunk 4 <br> Technik: Copicmarker <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Schunk-gr.jpg" rel="lightbox" title="Titel: Schunk 5, Technik: Copicmarker">
 		<img src="/images/illustrationen/Schunk-kl.jpg" alt="Titel: Schunk 5, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Schunk 5 <br> Technik: Copicmarker <br> &nbsp;</div>
+    <div class="desc">Titel: Schunk 5 <br> Technik: Copicmarker <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -387,7 +387,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Uhrwerk-gr.jpg" rel="lightbox" title="Titel: Uhrwerk, Technik: Mischtechnik">
 		<img src="/images/illustrationen/Uhrwerk-kl.jpg" alt="Titel: Uhrwerk, Technik: Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Uhrwerk <br> Technik: Mischtechnik</div>
+    <div class="desc">Titel: Uhrwerk <br> Technik: Mischtechnik <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
