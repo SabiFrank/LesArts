@@ -7,8 +7,6 @@ url = ""
 +++
 Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden. Sie finden zu jedem Bild den Titel und die verwendete Technik. Eventuell genutzte Vorlagen von anderen Künstlern sind vermerkt. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
-**Acryl
-
 <div class="gallery">
     <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Abschied_kl.jpg" alt="Titel: Abschied, Technik: Acryl auf Leinwand" width="300" height="200">
@@ -38,8 +36,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </div>
 
 <div class="gallery">
-    <a href="/images/malerei/Atelier_l‘étoile_gr.jpg" rel="lightbox" title="Titel: Atelier l‘étoile, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-		<img src="/images/malerei/Atelier_l‘étoile_kl.jpg" alt="Titel: Titel: Atelier l‘étoile, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
+    <a href="/images/malerei/Atelier_letoile_gr.jpg" rel="lightbox" title="Titel: Atelier l‘étoile, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
+		<img src="/images/malerei/Atelier_letoile_kl.jpg" alt="Titel: Titel: Atelier l‘étoile, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
     <div class="desc">Titel: Atelier l‘étoile, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
 </div>
@@ -515,7 +513,9 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <div class="desc">Titel: Zwilling, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
 </div>
 
-**Mischtechnik
+
+
+
 
 <div class="gallery">
     <a href="/images/malerei/_gr.jpg" rel="lightbox" title="Titel: , Technik: Acryl auf Leinwand, Quelle: Unbekannt">
