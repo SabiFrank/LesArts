@@ -514,19 +514,78 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </div>
 </p>
 
-<br>
+&nbsp; <br>
 
 <h2>Mischtechnik</h2> <br>
 
-
+<p>
 <div class="gallery">
-    <a href="/images/malerei/_gr.jpg" rel="lightbox" title="Titel: , Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-		<img src="/images/malerei/_kl.jpg" alt="Titel: , Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
+    <a href="/images/malerei/daheim_im_Blau_gr.jpg" rel="lightbox" title="Titel: Daheim im Blau, Technik: Mischtechnik">
+		<img src="/images/malerei/daheim_im_Blau_kl.jpg" alt="Titel: Daheim im Blau, Technik: Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: , Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Daheim im Blau <br> Technik: Mischtechnik</div>
 </div>
 
+<div class="gallery">
+    <a href="/images/malerei/Jeans_gr.jpg" rel="lightbox" title="Titel: Jeans, Technik: Mischtechnik">
+		<img src="/images/malerei/Jeans_kl.jpg" alt="Titel: Jeans, Technik: Mischtechnik" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Jeans <br> Technik: Mischtechnik</div>
+</div>
 
+<div class="gallery">
+    <a href="/images/malerei/The_World_gr.jpg" rel="lightbox" title="Titel: The World, Technik: Mischtechnik">
+		<img src="/images/malerei/The_World_kl.jpg" alt="Titel: The World, Technik: Mischtechnik" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: The World <br> Technik: Mischtechnik</div>
+</div>
+</p>
+
+&nbsp; <br>
+
+<h2>Zeichnungen</h2> <br>
+
+<div class="gallery">
+    <a href="/images/malerei/Alter_Mann_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
+		<img src="/images/malerei/Alter_Mann_kl.jpg" alt="Titel: Alter Mann, Technik: Graphit auf Papier" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Alter Mann <br> Technik: Graphit auf Papier</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/malerei/Naila_gr.jpg" rel="lightbox" title="Titel: Naila, Technik: Graphit auf Papier">
+		<img src="/images/malerei/Naila_kl.jpg" alt="Titel: Naila, Technik: Graphit auf Papier" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Naila <br> Technik: Graphit auf Papier</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/malerei/Sabrina_Cosplay_gr.jpg" rel="lightbox" title="Titel: Sabrina Cosplay, Technik: Graphit auf Papier">
+		<img src="/images/malerei/Sabrina_Cosplay_kl.jpg" alt="Titel: Sabrina Cosplay, Technik: Graphit auf Papier" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Sabrina Cosplay <br> Technik: Graphit auf Papier</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/malerei/Sabrina_gr.jpg" rel="lightbox" title="Titel: Sabrina, Technik: Graphit auf Papier">
+		<img src="/images/malerei/Sabrina_kl.jpg" alt="Titel: Sabrina, Technik: Graphit auf Papier" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Sabrina <br> Technik: Graphit auf Papier</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/malerei/Sina_gr.jpg" rel="lightbox" title="Titel: Sina, Technik: Graphit auf Papier, Airbrush">
+		<img src="/images/malerei/Sina_kl.jpg" alt="Titel: Sina, Technik: Graphit auf Papier, Airbrush" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Sina <br> Technik: Graphit auf Papier, Airbrush</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/malerei/Svetlana_gr.jpg" rel="lightbox" title="Titel: Svetlana, Technik: Graphit auf Papier">
+		<img src="/images/malerei/Svetlana_kl.jpg" alt="Titel: Svetlana, Technik: Graphit auf Papier" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Svetlana <br> Technik: Graphit auf Papier</div>
+</div>
 
 <style>
 	div.gallery {
