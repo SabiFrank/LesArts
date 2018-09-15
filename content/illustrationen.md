@@ -163,14 +163,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Forum_Ludwigsburg1-gr.jpg" rel="lightbox" title="Titel: Forum Ludwigsburg 1, Technik: Filzstift">
 		<img src="/images/illustrationen/Forum_Ludwigsburg1-kl.jpg" alt="Titel: Forum Ludwigsburg 1, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Forum Ludwigsburg 1 <br> Technik: Filzstift</div>
+    <div class="desc">Titel: Forum Ludwigsburg 1 <br> Technik: Filzstift <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Forum_Ludwigsburg2-gr.jpg" rel="lightbox" title="Titel: Forum Ludwigsburg 2, Technik: Filzstift">
 		<img src="/images/illustrationen/Forum_Ludwigsburg2-kl.jpg" alt="Titel: Forum Ludwigsburg 2, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Forum Ludwigsburg 2 <br> Technik: Filzstift</div>
+    <div class="desc">Titel: Forum Ludwigsburg 2 <br> Technik: Filzstift <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -184,21 +184,21 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Frau_mit_Netz-gr.jpg" rel="lightbox" title="Titel: Frau mit Netz, Technik: Pastellkreide, Quelle: Unbekannt">
 		<img src="/images/illustrationen/Frau_mit_Netz-kl.jpg" alt="Titel: Frau mit Netz, Technik: Pastellkreide, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Frau mit Netz <br> Technik: Pastellkreide, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Frau mit Netz <br> Technik: Pastellkreide <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Frau_mit_Shirt-gr.png" rel="lightbox" title="Titel: Frau mit Shirt, Technik: Pastellkreide, Quelle: Unbekannt">
 		<img src="/images/illustrationen/Frau_mit_Shirt-kl.png" alt="Titel: Frau mit Shirt, Technik: Pastellkreide, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Frau mit Shirt <br> Technik: Pastellkreide, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Frau mit Shirt <br> Technik: Pastellkreide <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Frau_mit_Vogel-gr.png" rel="lightbox" title="Titel: Frau mit Vogel, Technik: Pastellkreide, Quelle: Unbekannt">
 		<img src="/images/illustrationen/Frau_mit_Vogel-kl.png" alt="Titel: Frau mit Vogel, Technik: Pastellkreide, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Frau mit Vogel <br> Technik: Pastellkreide, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Frau mit Vogel <br> Technik: Pastellkreide <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
