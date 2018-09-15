@@ -545,6 +545,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 <h2>Zeichnungen</h2> <br>
 
+<p>
 <div class="gallery">
     <a href="/images/malerei/Alter_Mann_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
 		<img src="/images/malerei/Alter_Mann_kl.jpg" alt="Titel: Alter Mann, Technik: Graphit auf Papier" width="300" height="200">
@@ -585,6 +586,18 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		<img src="/images/malerei/Svetlana_kl.jpg" alt="Titel: Svetlana, Technik: Graphit auf Papier" width="300" height="200">
 	</a>		
     <div class="desc">Titel: Svetlana <br> Technik: Graphit auf Papier</div>
+</div>
+</p>
+
+&nbsp; <br>
+
+<h2>Wandmalerei</h2> <br>
+
+<div class="gallery">
+    <a href="/images/malerei/Japanische_Stadt_gr.jpg" rel="lightbox" title="Titel: Japanische Stadt, Technik: Acryl auf Rauhfaser, Quelle: Unbekannt">
+		<img src="/images/malerei/Japanische_Stadt_kl.jpg" alt="Titel: Japanische Stadt, Technik: Acryl auf Rauhfaser, Quelle: Unbekannt" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Japanische Stadt <br> Technik: Acryl auf Rauhfaser <br> Quelle: Unbekannt</div>
 </div>
 
 <style>
