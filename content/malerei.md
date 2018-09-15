@@ -440,14 +440,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Toscana_gr.jpg" rel="lightbox" title="Titel: Toscana, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Toscana_kl.jpg" alt="Titel: Toscana, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Toscana <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
+    <div class="desc">Titel: Toscana <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Wein1_gr.jpg" rel="lightbox" title="Titel: Wein 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Wein1_kl.jpg" alt="Titel: Wein 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Wein 1 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
+    <div class="desc">Titel: Wein 1 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
