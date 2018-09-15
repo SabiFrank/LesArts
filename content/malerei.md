@@ -11,14 +11,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Abschied_kl.jpg" alt="Titel: Abschied, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Abschied <br> Technik: Acryl auf Leinwand <br> Quelle:</div>
+    <div class="desc">Titel: Abschied <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Abstrakt_Blau_gr.jpg" rel="lightbox" title="Titel: Abstrakt Blau, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Abstrakt_Blau_kl.jpg" alt="Titel: Abstrakt Blau, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>
-    <div class="desc">Titel: Abstrakt Blau <br> Technik: Acryl auf Leinwand <br> </div>
+    <div class="desc">Titel: Abstrakt Blau <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
