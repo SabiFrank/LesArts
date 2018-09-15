@@ -121,7 +121,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Eventmanagement4-gr.jpg" rel="lightbox" title="Titel: Eventmanagement 4, Technik: Copicmarker">
 		<img src="/images/illustrationen/Eventmanagement4-kl.jpg" alt="Titel: Eventmanagement 4, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Eventmanagement 4 <br> Technik: Copicmarker <br> &nbsp;</div>
+    <div class="desc">Titel: Eventmanagement 4 <br> Technik: Copicmarker</div>
 </div>
 
 <div class="gallery">
@@ -132,10 +132,10 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 </div>
 
 <div class="gallery">
-    <a href="/images/illustrationen/Flight-gr.jpg" rel="lightbox" title="Titel: Storyboard FlightFood 1, Technik: Copicmarker">
-		<img src="/images/illustrationen/Flight-kl.jpg" alt="Titel: Storyboard FlightFood 1, Technik: Copicmarker" width="300" height="200">
+    <a href="/images/illustrationen/Flight-gr.jpg" rel="lightbox" title="Titel: Storyboard Flight, Technik: Copicmarker">
+		<img src="/images/illustrationen/Flight-kl.jpg" alt="Titel: Storyboard Flight, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Storyboard FlightFood 1 <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Storyboard Flight<br> Technik: Copicmarker</div>
 </div>
 
 <div class="gallery">
