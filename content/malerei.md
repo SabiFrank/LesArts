@@ -398,7 +398,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Stairway_gr.jpg" rel="lightbox" title="Titel: Stairway, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Stairway_kl.jpg" alt="Titel: Stairway, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Stairway <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Stairway <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -419,7 +419,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Stilleben_gr.jpg" rel="lightbox" title="Titel: Stilleben, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Stilleben_kl.jpg" alt="Titel: Stilleben, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Stilleben <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Stilleben <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -433,7 +433,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/The_Flood_gr.jpg" rel="lightbox" title="Titel: The Flood, Technik: Acryl auf Leinwand, Quelle: Album Cover Peter Gabriel">
 		<img src="/images/malerei/The_Flood_kl.jpg" alt="Titel: The Flood, Technik: Acryl auf Leinwand, Quelle: Album Cover Peter Gabriel" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: The Flood <br> Technik: Acryl auf Leinwand <br> Quelle: Album Cover Peter Gabriel</div>
+    <div class="desc">Titel: The Flood <br> Technik: Acryl auf Leinwand <br> Quelle: Cover Peter Gabriel</div>
 </div>
 
 <div class="gallery">
@@ -475,7 +475,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Weingläser_gr.jpg" rel="lightbox" title="Titel: Weingläser, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Weingläser_kl.jpg" alt="Titel: Weingläser, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Weingläser <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Weingläser <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
