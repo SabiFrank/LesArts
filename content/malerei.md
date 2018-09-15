@@ -88,14 +88,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Chi_gr.jpg" rel="lightbox" title="Titel: Chi, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Chi_kl.jpg" alt="Titel: Chi, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Chi <br> Technik: Acryl auf Leinwand<br></div>
+    <div class="desc">Titel: Chi <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Clockwerk_Orange_gr.jpg" rel="lightbox" title="Titel: Clockwerk Orange, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Clockwerk_Orange_kl.jpg" alt="Titel: Clockwerk Orange, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Clockwerk Orange <br> Technik: Acryl auf Leinwand <br></div>
+    <div class="desc">Titel: Clockwerk Orange <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -109,7 +109,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Daheim_in_Blau_gr.jpg" rel="lightbox" title="Titel: Daheim in Blau, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Daheim_in_Blau_kl.jpg" alt="Titel: Daheim in Blau, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Daheim in Blau <br> Technik: Acryl auf Leinwand <br></div>
+    <div class="desc">Titel: Daheim in Blau <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -123,21 +123,21 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Dunningen_gr.jpg" rel="lightbox" title="Titel: Dunningen, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Dunningen_kl.jpg" alt="Titel: Dunningen, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Dunningen <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Dunningen <br> Technik: Acryl auf Leinwand<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Empty_gr.jpg" rel="lightbox" title="Titel: Empty, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Empty_kl.jpg" alt="Titel: Empty, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Empty <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Empty <br> Technik: Acryl auf Leinwand<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Engel_gr.jpg" rel="lightbox" title="Titel:Engel , Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Engel_kl.jpg" alt="Titel: Engel, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Engel <br> Technik: Acryl auf Leinwand <br></div>
+    <div class="desc">Titel: Engel <br> Technik: Acryl auf Leinwand<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
