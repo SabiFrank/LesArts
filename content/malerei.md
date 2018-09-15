@@ -46,7 +46,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Atomzeit_gr.jpg" rel="lightbox" title="Titel: Atomzeit, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Atomzeit_kl.jpg" alt="Titel: Atomzeit, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Atomzeit <br> Technik: Acryl auf Leinwand<br></div>
+    <div class="desc">Titel: Atomzeit <br> Technik: Acryl auf Leinwand <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
