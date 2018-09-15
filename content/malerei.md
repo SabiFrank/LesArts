@@ -512,7 +512,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</a>		
     <div class="desc">Titel: Zwilling, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
 </div>
-
+<br>
 
 <h2>Mischtechnik</h2> <br>
 
