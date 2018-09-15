@@ -37,21 +37,21 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Beilstein-gr.jpg" rel="lightbox" title="Titel: Beilstein, Technik: Aquarell">
 		<img src="/images/illustrationen/Beilstein-kl.jpg" alt="Titel: Beilstein, Technik: Aquarell" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Beilstein <br> Technik: Aquarell</div>
+    <div class="desc">Titel: Beilstein <br> Technik: Aquarell <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Bergsteiger-gr.jpg" rel="lightbox" title="Titel: Bergsteiger, Technik: Copicmarker">
 		<img src="/images/illustrationen/Bergsteiger-kl.jpg" alt="Titel: Bergsteiger, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Bergsteiger <br> Technik: Copicmarker</div>
+    <div class="desc">Titel: Bergsteiger <br> Technik: Copicmarker <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Bio-Teich-gr.jpg" rel="lightbox" title="Titel: Bioteich, Technik: Copicmarker, Tusche">
 		<img src="/images/illustrationen/Bio-Teich-kl.jpg" alt="Titel: Bioteich, Technik: Copicmarker, Tusche" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Bioteich <br> Technik: Copicmarker,Tusche</div>
+    <div class="desc">Titel: Bioteich <br> Technik: Copicmarker, Tusche</div>
 </div>
 
 <div class="gallery">
