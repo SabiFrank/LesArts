@@ -7,215 +7,214 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 <h2>Acryl</h2> <br>
 
-<p>
 <div class="gallery">
     <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Abschied_kl.jpg" alt="Titel: Abschied, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Abschied <br> Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Abschied <br> Technik: Acryl auf Leinwand<br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Abstrakt_Blau_gr.jpg" rel="lightbox" title="Titel: Abstrakt Blau, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Abstrakt_Blau_kl.jpg" alt="Titel: Abstrakt Blau, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>
-    <div class="desc">Titel: Abstrakt Blau, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Abstrakt Blau <br> Technik: Acryl auf Leinwand<br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/alter_Mann_Kaffeesack_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italen)">
 		<img src="/images/malerei/alter_Mann_Kaffeesack_kl.jpg" alt="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italen)" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italen)</div>
+    <div class="desc">Titel: Alter Mann <br> Technik: Acryl auf Kaffeesack <br> Quelle: Raffaelo (Italen)</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Asphaltrose_gr.jpg" rel="lightbox" title="Titel: Asphaltrose, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Asphaltrose_kl.jpg" alt="Titel: Asphaltrose, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Asphaltrose, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Asphaltrose <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Atelier_letoile_gr.jpg" rel="lightbox" title="Titel: Atelier l‘étoile, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Atelier_letoile_kl.jpg" alt="Titel: Titel: Atelier l‘étoile, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Atelier l‘étoile, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Atelier l‘étoile <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Atomzeit_gr.jpg" rel="lightbox" title="Titel: Atomzeit, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Atomzeit_kl.jpg" alt="Titel: Atomzeit, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Atomzeit, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Atomzeit <br> Technik: Acryl auf Leinwand<br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Bacardi_gr.jpg" rel="lightbox" title="Titel: Bacardi, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Bacardi_kl.jpg" alt="Titel: Bacardi, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Bacardi, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Bacardi <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Brazil_Woman_gr.jpg" rel="lightbox" title="Titel: Brazil Woman, Technik: Acryl auf Kaffeesack, Quelle: Unbekannt">
 		<img src="/images/malerei/Brazil_Woman_kl.jpg" alt="Titel: Brazil Woman, Technik: Acryl auf Kaffeesack, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Brazil Woman, Technik: Acryl auf Kaffeesack, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Brazil Woman <br> Technik: Acryl auf Kaffeesack <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Carneval1_gr.jpg" rel="lightbox" title="Titel: Carneval 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Carneval1_kl.jpg" alt="Titel: Carneval 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Carneval 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Carneval 1 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Carneval2_gr.jpg" rel="lightbox" title="Titel: Carneval 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Carneval2_kl.jpg" alt="Titel: Carneval 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Carneval 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Carneval 2 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Carneval3_gr.jpg" rel="lightbox" title="Titel: Carneval 3, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Carneval3_kl.jpg" alt="Titel: Carneval 3, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Carneval 3, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Carneval 3 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Chi_gr.jpg" rel="lightbox" title="Titel: Chi, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Chi_kl.jpg" alt="Titel: Chi, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Chi, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Chi <br> Technik: Acryl auf Leinwand<br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Clockwerk_Orange_gr.jpg" rel="lightbox" title="Titel: Clockwerk Orange, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Clockwerk_Orange_kl.jpg" alt="Titel: Clockwerk Orange, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Clockwerk Orange, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Clockwerk Orange <br> Technik: Acryl auf Leinwand <br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Collage_gr.jpg" rel="lightbox" title="Titel: Collage, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Collage_kl.jpg" alt="Titel: Collage, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Collage, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Collage <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Daheim_in_Blau_gr.jpg" rel="lightbox" title="Titel: Daheim in Blau, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Daheim_in_Blau_kl.jpg" alt="Titel: Daheim in Blau, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Daheim in Blau, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Daheim in Blau <br> Technik: Acryl auf Leinwand <br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Das_letzte_Einhorn_gr.jpg" rel="lightbox" title="Titel: Das letzte Einhorn, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Das_letzte_Einhorn_kl.jpg" alt="Titel: Das letzte Einhorn, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Das letzte Einhorn, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Das letzte Einhorn <br> Technik: Acryl auf Leinwand</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Dunningen_gr.jpg" rel="lightbox" title="Titel: Dunningen, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Dunningen_kl.jpg" alt="Titel: Dunningen, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Dunningen, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Dunningen <br> Technik: Acryl auf Leinwand</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Empty_gr.jpg" rel="lightbox" title="Titel: Empty, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Empty_kl.jpg" alt="Titel: Empty, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Empty, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Empty <br> Technik: Acryl auf Leinwand</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Engel_gr.jpg" rel="lightbox" title="Titel:Engel , Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Engel_kl.jpg" alt="Titel: Engel, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Engel, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Engel <br> Technik: Acryl auf Leinwand <br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Erbschleicher_gr.jpg" rel="lightbox" title="Titel: Erbschleicher, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Erbschleicher_kl.jpg" alt="Titel: Erbschleicher, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Erbschleicher, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Erbschleicher <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Familienportrait1_gr.jpg" rel="lightbox" title="Titel: Familienportrait 1, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Familienportrait1_kl.jpg" alt="Titel: Familienportrait 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Familienportrait 1, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Familienportrait 1 <br> Technik: Acryl auf Leinwand <br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Familienportrait2_gr.jpg" rel="lightbox" title="Titel: Familienportrait 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Familienportrait2_kl.jpg" alt="Titel: Familienportrait 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Familienportrait 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Familienportrait 2 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Flamenco_gr.jpg" rel="lightbox" title="Titel: Flamenco, Technik: Acryl auf Leinwand, Quelle: Fotographie von Naila Adraibi">
 		<img src="/images/malerei/Flamenco_kl.jpg" alt="Titel: Flamenco , Technik: Acryl auf Leinwand, Quelle: Fotographie von Naila Adraibi" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Flamenco, Technik: Acryl auf Leinwand, Quelle: Fotographie von Naila Adraibi</div>
+    <div class="desc">Titel: Flamenco <br> Technik: Acryl auf Leinwand <br> Quelle: Fotographie von Naila Adraibi</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Follow_the_leader_gr.jpg" rel="lightbox" title="Titel: Follow the Leader, Technik: Acryl auf Leinwand, Quelle: Artwork für Album 'Follow the Leader' der Band Korn von Todd McFarlane">
 		<img src="/images/malerei/Follow_the_leader_kl.jpg" alt="Titel: Follow the Leader, Technik: Acryl auf Leinwand, Quelle: Artwork für Album 'Follow the Leader' der Band Korn von Todd McFarlane" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Follow the Leader, Technik: Acryl auf Leinwand, Quelle: Artwork für Album 'Follow the Leader' der Band Korn von Todd McFarlane</div>
+    <div class="desc">Titel: Follow the Leader <br> Technik: Acryl auf Leinwand, Quelle: Album 'Follow the Leader' von Korn</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Freundin_gr.jpg" rel="lightbox" title="Titel: Freundin, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Freundin_kl.jpg" alt="Titel: Freundin, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Freundin, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Freundin <br> Technik: Acryl auf Leinwand <br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Gänse_gr.jpg" rel="lightbox" title="Titel: Gänse, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Gänse_kl.jpg" alt="Titel: Gänse, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Gänse, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Gänse <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Glas_gr.jpg" rel="lightbox" title="Titel: Glas, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Glas_kl.jpg" alt="Titel: Glas, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Glas, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Glas <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Granatapfel_gr.jpg" rel="lightbox" title="Titel: Granatapfel, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Granatapfel_kl.jpg" alt="Titel: Granatapfel, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Granatapfel, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Granatapfel <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Grapefruit_gr.jpg" rel="lightbox" title="Titel: Grapefruit, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Grapefruit_kl.jpg" alt="Titel: Grapefruit, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Grapefruit, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Grapefruit <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Griechenland_gr.jpg" rel="lightbox" title="Titel: Griechenland, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Griechenland_kl.jpg" alt="Titel: Griechenland, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Griechenland, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Griechenland <br> Technik: Acryl auf Leinwand <br></div>
 </div>
 
 
@@ -223,42 +222,42 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Helgoland_gr.jpg" rel="lightbox" title="Titel: Helgoland, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Helgoland_kl.jpg" alt="Titel: Helgoland, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Helgoland, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Helgoland <br> Technik: Acryl auf Leinwand <br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Himbeeren_gr.jpg" rel="lightbox" title="Titel: Himbeeren, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Himbeeren_kl.jpg" alt="Titel: Himbeeren, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Himbeeren, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Himbeeren <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Hummer_gr.jpg" rel="lightbox" title="Titel: Hummer, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Hummer_kl.jpg" alt="Titel: Hummer, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Hummer, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Hummer <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Ich_gr.jpg" rel="lightbox" title="Titel: Ich, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/Ich_kl.jpg" alt="Titel: Ich, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Ich, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: Ich <br> Technik: Acryl auf Leinwand <br></div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/In_the_middle_of_the_street_gr.jpg" rel="lightbox" title="Titel: In the Middle of the Street, Technik: Acryl auf Leinwand">
 		<img src="/images/malerei/In_the_middle_of_the_street_kl.jpg" alt="Titel: In the Middle of the Street, Technik: Acryl auf Leinwand" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: In the Middle of the Street, Technik: Acryl auf Leinwand</div>
+    <div class="desc">Titel: In the Middle of the Street <br> Technik: Acryl auf Leinwand</div>
 </div>
 
 <div class="gallery">
     <a href="/images/malerei/Judo_gr.jpg" rel="lightbox" title="Titel: Judo, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Judo_kl.jpg" alt="Titel: Judo, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Judo, Technik: Acryl auf Leinwand, Quelle: Unbekannt</div>
+    <div class="desc">Titel: Judo <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
 
 <div class="gallery">
