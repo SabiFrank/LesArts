@@ -153,10 +153,10 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 </div>
 
 <div class="gallery">
-    <a href="/images/illustrationen/Forum_Ludwigsburg_Karte-gr.jpg" rel="lightbox" title="Titel: Forum Ludwigsburg Karte, Technik: Copicmarker, FilzstiftForum Ludwigsburg 1">
-		<img src="/images/illustrationen/Forum_Ludwigsburg_Karte-kl.jpg" alt="Titel:Forum Ludwigsburg Karte Forum Ludwigsburg Karte, Technik: Copicmarker, FilzstiftForum Ludwigsburg 1" width="300" height="200">
+    <a href="/images/illustrationen/Forum_Ludwigsburg_Karte-gr.jpg" rel="lightbox" title="Titel: Forum Ludwigsburg Karte, Technik: Copicmarker, Filzstift">
+		<img src="/images/illustrationen/Forum_Ludwigsburg_Karte-kl.jpg" alt="Titel:Forum Ludwigsburg Karte Forum Ludwigsburg Karte, Technik: Copicmarker, Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Forum Ludwigsburg Karte <br> Technik: Copicmarker, FilzstiftForum Ludwigsburg 1</div>
+    <div class="desc">Titel: Forum Ludwigsburg Karte <br> Technik: Copicmarker, Filzstift</div>
 </div>
 
 <div class="gallery">
