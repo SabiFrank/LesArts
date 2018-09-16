@@ -373,14 +373,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Tripsdrill_Comicfigur-gr.jpg" rel="lightbox" title="Titel: Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill">
 		<img src="/images/illustrationen/Tripsdrill_Comicfigur-kl.jpg" alt="Titel: Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Tripsdrill Comicfigur <br> Technik: Filzstift <br> Quelle: Tripsdrill <br> &nbsp;</div>
+    <div class="desc">Titel: Tripsdrill Comicfigur <br> Technik: Filzstift <br> Quelle: <a href="https://tripsdrill.de/" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a> <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Tripsdrill-gr.jpg" rel="lightbox" title="Titel: Tripsdrill, Technik: Mischtechnik, Quelle: Tripsdrill">
 		<img src="/images/illustrationen/Tripsdrill-kl.jpg" alt="Titel: Tripsdrill, Technik: Mischtechnik, Quelle: Tripsdrill" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Tripsdrill <br> Technik: Mischtechnik <br> Quelle: Tripsdrill <br> &nbsp; <br> &nbsp;</div>
+    <div class="desc">Titel: Tripsdrill <br> Technik: Mischtechnik <br> Quelle: <a href="https://tripsdrill.de/" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a> <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -394,7 +394,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Vitruvianischer_Mensch-gr.jpg" rel="lightbox" title="Titel: Vitruvianischer Mensch, Technik: Filzstift, Quelle: Komet">
 		<img src="/images/illustrationen/Vitruvianischer_Mensch-kl.jpg" alt="Titel: Vitruvianischer Mensch, Technik: Filzstift, Quelle: Komet" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Vitruvianischer Mensch <br> Technik: Filzstift<br> Quelle: Komet</div>
+    <div class="desc">Titel: Vitruvianischer Mensch <br> Technik: Filzstift<br> Quelle: <a href="https://www.kometgroup.com/komet-tools-plus-ideas/" title="Weiterleitung zur der externen Website von Komet">Komet</a></div>
 </div>
 
 <style>
