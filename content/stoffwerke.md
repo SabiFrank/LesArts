@@ -32,14 +32,14 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Stoffwerk4-gr.jpg" rel="lightbox" title="Verschiedene Stoffpuppen">
 		<img src="/images/stoffwerke/Stoffwerk4-kl.jpg" alt="Verschiedene Stoffpuppen" width="300" height="200">
 	</a>		
-    <div class="desc">Verschiedene Stoffpuppen</div>
+    <div class="desc">Verschiedene Stoffpuppen <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/stoffwerke/Stoffwerk5-gr.jpg" rel="lightbox" title="Gesicht einer Stoffpuppe im Detail">
 		<img src="/images/stoffwerke/Stoffwerk5-kl.jpg" alt="Gesicht einer Stoffpuppe im Detail" width="300" height="200">
 	</a>		
-    <div class="desc">Gesicht einer Stoffpuppe im Detail</div>
+    <div class="desc">Gesicht einer Stoffpuppe im Detail <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -95,14 +95,14 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Stoffwerk13-gr.jpg" rel="lightbox" title="Sitzender Stoffhase mit Blume">
 		<img src="/images/stoffwerke/Stoffwerk13-kl.jpg" alt="Sitzender Stoffhase mit Blume" width="300" height="200">
 	</a>		
-    <div class="desc">Sitzender Stoffhase mit Blume</div>
+    <div class="desc">Sitzender Stoffhase mit Blume <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/stoffwerke/Stoffwerk14-gr.jpg" rel="lightbox" title="Stehender Stoffhase">
 		<img src="/images/stoffwerke/Stoffwerk14-kl.jpg" alt="Stehender Stoffhase" width="300" height="200">
 	</a>		
-    <div class="desc">Stehender Stoffhase</div>
+    <div class="desc">Stehender Stoffhase <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -116,7 +116,7 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Stoffwerk16-gr.jpg" rel="lightbox" title="Stoffkuh mit Flügeln">
 		<img src="/images/stoffwerke/Stoffwerk16-kl.jpg" alt="Stoffkuh mit Flügeln" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffkuh mit Flügeln</div>
+    <div class="desc">Stoffkuh mit Flügeln <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
