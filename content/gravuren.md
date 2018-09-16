@@ -58,14 +58,14 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Gravur8-gr.jpg" rel="lightbox" title="Gravur auf Weinflasche">
 		<img src="/images/gravuren/Gravur8-kl.jpg" alt="Gravur auf Weinflasche" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Weinflasche</div>
+    <div class="desc">Gravur auf Weinflasche <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Gravur9-gr.jpg" rel="lightbox" title="Gravur auf Weinflasche">
 		<img src="/images/gravuren/Gravur9-kl.jpg" alt="Gravur auf Weinflasche" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Weinflasche</div>
+    <div class="desc">Gravur auf Weinflasche <br> &nbsp;</div>
 </div>
 
 <style>
