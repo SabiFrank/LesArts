@@ -1,6 +1,5 @@
 baseURL = "https://LesArts-MariaFrank.de/"
 canonifyURLs = true
-[blackfriday] hrefTargetBlank = true
 languageCode = "de-de"
 publishDir = "public"
 theme = ""
