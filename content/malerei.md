@@ -53,7 +53,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Bacardi_gr.jpg" rel="lightbox" title="Titel: Bacardi, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Bacardi_kl.jpg" alt="Titel: Bacardi, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Bacardi <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
+    <div class="desc">Titel: Bacardi <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -67,7 +67,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="/images/malerei/Carneval1_gr.jpg" rel="lightbox" title="Titel: Carneval 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 		<img src="/images/malerei/Carneval1_kl.jpg" alt="Titel: Carneval 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Carneval 1 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
+    <div class="desc">Titel: Carneval 1 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br> &nbsp; <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
