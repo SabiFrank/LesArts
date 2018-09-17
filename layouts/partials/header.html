@@ -32,6 +32,29 @@
 	
 	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/lightbox.css">
 
+	<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+		<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+		<script>
+		window.addEventListener("load", function(){
+		window.cookieconsent.initialise({
+		"palette": {
+			"popup": {
+			"background": "#e4e4e4"
+			},
+			"button": {
+			"background": "#b6b6b6"
+			}
+		},
+		"theme": "edgeless",
+		"position": "top",
+		"content": {
+			"message": "Diese Webseite verwendet Cookies, um bestmögliche Funktionalität bieten zu können. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von Cookies zu. Weitere Informationen zu Cookies erhalten Sie",
+			"dismiss": "Verstanden.",
+			"link": "hier."
+		}
+		})});
+		</script>
+		
 	<!--[if lt IE 9]> <script src="js/html5shiv.js"></script> <![endif]-->
 
     {{ if .Site.Params.customsharethis }}
