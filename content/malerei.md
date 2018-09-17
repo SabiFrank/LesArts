@@ -57,10 +57,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </div>
 
 <div class="gallery">
-    <a href="/images/malerei/Brazil_Woman_gr.jpg" rel="lightbox" title="Titel: Brazil Woman, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italien)">
-		<img src="/images/malerei/Brazil_Woman_kl.jpg" alt="Titel: Brazil Woman, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italien)" width="300" height="200">
+    <a href="/images/malerei/Brazil_Woman_gr.jpg" rel="lightbox" title="Titel: Brazil Woman, Technik: Acryl auf Kaffeesack, Quelle: Artwork für Album 'Wait till the Morning' der Band Mojo Makers">
+		<img src="/images/malerei/Brazil_Woman_kl.jpg" alt="Titel: Brazil Woman, Technik: Acryl auf Kaffeesack, Quelle: Artwork für Album 'Wait till the Morning' der Band Mojo Makers" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Brazil Woman <br> Technik: Acryl auf Kaffeesack <br> Quelle: Raffaelo (Italien)</div>
+    <div class="desc">Titel: Brazil Woman <br> Technik: Acryl auf Kaffeesack <br> Quelle: Album 'Wait till the Morning' von Mojo Makers (Italien)</div>
 </div>
 
 <div class="gallery">
