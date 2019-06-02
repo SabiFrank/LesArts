@@ -512,6 +512,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</a>		
     <div class="desc">Titel: Zwilling <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 </div>
+
+<div class="gallery">
+    <a href="/images/malerei/Seerosen_gr.jpg" rel="lightbox" title="Titel: Seerosen, Technik: Acryl auf Leinwand, Quelle: Fotografie von Ute Schulz">
+		<img src="/images/malerei/Seerosen_kl.jpg" alt="Titel: Seerosen, Technik: Acryl auf Leinwand, Quelle: Fotografie von Ute Schulz" width="300" height="200">
+	</a>		
+    <div class="desc">Titel: Seerosen <br> Technik: Acryl auf Leinwand <br> Quelle: Fotografie von Ute Schulz</div>
+</div>
+
 </p>
 
 <h2>Mischtechnik</h2> <br>
