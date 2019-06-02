@@ -93,7 +93,7 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Gravur13-gr.jpg" rel="lightbox" title="Maria Frank bei Gravuraktionen im Breuningerland">
 		<img src="/images/gravuren/Gravur13-kl.jpg" alt="Maria Frank bei Gravuraktionen im Breuningerland" width="300" height="200">
 	</a>		
-    <div class="desc">Maria Frank bei Gravuraktionen im Breuningerland<br> &nbsp;</div>
+    <div class="desc">Maria Frank bei Gravuraktionen im Breuningerland </div>
 </div>
 
 <style>
