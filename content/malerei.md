@@ -514,15 +514,17 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </div>
 
 <div class="gallery">
-    <a href="/images/malerei/Seerosen_gr.jpg" rel="lightbox" title="Titel: Seerosen, Technik: Acryl auf Leinwand, Quelle: Fotografie von Ute Schulz">
-		<img src="/images/malerei/Seerosen_kl.jpg" alt="Titel: Seerosen, Technik: Acryl auf Leinwand, Quelle: Fotografie von Ute Schulz" width="300" height="200">
+    <a href="/images/malerei/Seerosen-gr.jpg" rel="lightbox" title="Titel: Seerosen, Technik: Acryl auf Leinwand, Quelle: Fotografie von Ute Schulz">
+		<img src="/images/malerei/Seerosen-kl.jpg" alt="Titel: Seerosen, Technik: Acryl auf Leinwand, Quelle: Fotografie von Ute Schulz" width="300" height="200">
 	</a>		
     <div class="desc">Titel: Seerosen <br> Technik: Acryl auf Leinwand <br> Quelle: Fotografie von Ute Schulz</div>
 </div>
 </p>
-<br>
 
-<p><h2>Mischtechnik</h2></p><br>
+&nbsp;<br>
+&nbsp;<br>
+
+<h2>Mischtechnik</h2> <br>
 
 <p>
 <div class="gallery">
