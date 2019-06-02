@@ -51,14 +51,14 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Gravur10-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
 		<img src="/images/gravuren/Gravur10-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Parfum-Flacon<br> &nbsp;</div>
+    <div class="desc">Gravur auf Parfum-Flacon &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Gravur11-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
 		<img src="/images/gravuren/Gravur11-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Parfum-Flacon<br> &nbsp;</div>
+    <div class="desc">Gravur auf Parfum-Flacon &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -87,20 +87,6 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 		<img src="/images/gravuren/Gravur9-kl.jpg" alt="Gravur auf Weinflasche" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Weinflasche <br> &nbsp;</div>
-</div>
-
-<div class="gallery">
-    <a href="/images/gravuren/Gravur10-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
-		<img src="/images/gravuren/Gravur10-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
-	</a>		
-    <div class="desc">Gravur auf Parfum-Flacon<br> &nbsp;</div>
-</div>
-
-<div class="gallery">
-    <a href="/images/gravuren/Gravur11-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
-		<img src="/images/gravuren/Gravur11-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
-	</a>		
-    <div class="desc">Gravur auf Parfum-Flacon<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
