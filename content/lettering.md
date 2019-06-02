@@ -6,24 +6,24 @@ type = "portfolio"
 Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
-    <a href="/images/lettering/Lettering1-gr.png" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung: Sabrina Frank">
-		<img src="/images/lettering/Lettering1-kl.png" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung: Sabrina Frank" width="300" height="200">
+    <a href="/images/lettering/Lettering1-gr.png" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung: <a href="https://www.ArtCommissions-SabrinaFrank.de/" title="Weiterleitung zu der externen Website ArtCommissions-SabrinaFrank"> Sabrina Frank</a>">
+		<img src="/images/lettering/Lettering1-kl.png" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung: <a href="https://www.ArtCommissions-SabrinaFrank.de/" title="Weiterleitung zu der externen Website ArtCommissions-SabrinaFrank"> Sabrina Frank</a>" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering für Mitarbeiter des Breunigerland Ludiwgsburg. Digitale Nachbearbeitung durch <a href="https://www.ArtCommissions-SabrinaFrank.de/" title="Weiterleitung zu der externen Website ArtCommissions-SabrinaFrank"> Sabrina Frank</a></div>
+    <div class="desc">Lettering für Mitarbeiter des Breunigerland Ludiwgsburg.</div>
 </div>
 
 <div class="gallery">
     <a href="/images/lettering/Lettering2-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
 		<img src="/images/lettering/Lettering2-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering auf Tafel mit Flüssigkreide <br> &nbsp; <br> &nbsp; <br> &nbsp;</div>
+    <div class="desc">Lettering auf Tafel mit Flüssigkreide <br> &nbsp; <br> &nbsp; </div>
 </div>
 
 <div class="gallery">
     <a href="/images/lettering/Lettering3-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
 		<img src="/images/lettering/Lettering3-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering auf Tafel mit Flüssigkreide <br> &nbsp; <br> &nbsp; <br> &nbsp;</div>
+    <div class="desc">Lettering auf Tafel mit Flüssigkreide <br> &nbsp; <br> &nbsp; </div>
 </div>
 
 <div class="gallery">
