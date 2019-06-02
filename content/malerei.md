@@ -525,14 +525,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
     <a href="" rel="lightbox" title="">
 		<img src="" alt="" width="300" height="200">
 	</a>		
-    <div class="desc"> <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; </div>
+    <div class="desc"> <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp;  <br> &nbsp; <br> &nbsp; </div>
 </div>
 
 <div class="gallery">
     <a href="" rel="lightbox" title="">
 		<img src="" alt="" width="300" height="200">
 	</a>		
-    <div class="desc"> <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; </div>
+    <div class="desc"> <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp; <br> &nbsp;  <br> &nbsp; <br> &nbsp; </div>
 </div>
 
 <h2>Mischtechnik</h2> <br>
