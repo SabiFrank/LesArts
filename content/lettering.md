@@ -6,8 +6,8 @@ type = "portfolio"
 Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
-    <a href="/images/lettering/Lettering1-gr.jpg" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg">
-		<img src="/images/lettering/Lettering1-kl.jpg" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg" width="300" height="200">
+    <a href="/images/lettering/Lettering1-gr.png" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg">
+		<img src="/images/lettering/Lettering1-kl.png" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg" width="300" height="200">
 	</a>		
     <div class="desc">Lettering für Mitarbeiter des Breunigerland Ludiwgsburg </div>
 </div>
