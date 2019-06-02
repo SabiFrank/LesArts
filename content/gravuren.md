@@ -48,8 +48,29 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 </div>
 
 <div class="gallery">
+    <a href="/images/gravuren/Gravur10-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
+		<img src="/images/gravuren/Gravur10-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
+	</a>		
+    <div class="desc">Gravur auf Parfum-Flacon<br> &nbsp;</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur11-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
+		<img src="/images/gravuren/Gravur11-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
+	</a>		
+    <div class="desc">Gravur auf Parfum-Flacon<br> &nbsp;</div>
+</div>
+
+<div class="gallery">
     <a href="/images/gravuren/Gravur7-gr.jpg" rel="lightbox" title="Diverse Parfum-Flacons mit Gravur">
 		<img src="/images/gravuren/Gravur7-kl.jpg" alt="Diverse Parfum-Flacons mit Gravur" width="300" height="200">
+	</a>		
+    <div class="desc">Diverse Parfum-Flacons mit Gravur</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur12-gr.jpg" rel="lightbox" title="Diverse Parfum-Flacons mit Gravur">
+		<img src="/images/gravuren/Gravur12-kl.jpg" alt="Diverse Parfum-Flacons mit Gravur" width="300" height="200">
 	</a>		
     <div class="desc">Diverse Parfum-Flacons mit Gravur</div>
 </div>
@@ -66,6 +87,27 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 		<img src="/images/gravuren/Gravur9-kl.jpg" alt="Gravur auf Weinflasche" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Weinflasche <br> &nbsp;</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur10-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
+		<img src="/images/gravuren/Gravur10-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
+	</a>		
+    <div class="desc">Gravur auf Parfum-Flacon<br> &nbsp;</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur11-gr.jpg" rel="lightbox" title="Gravur auf Parfum-Flacon">
+		<img src="/images/gravuren/Gravur11-kl.jpg" alt="Gravur auf Parfum-Flacon" width="300" height="200">
+	</a>		
+    <div class="desc">Gravur auf Parfum-Flacon<br> &nbsp;</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur13-gr.jpg" rel="lightbox" title="Maria Frank bei Gravuraktionen im Breuningerland">
+		<img src="/images/gravuren/Gravur13-kl.jpg" alt="Maria Frank bei Gravuraktionen im Breuningerland" width="300" height="200">
+	</a>		
+    <div class="desc">Maria Frank bei Gravuraktionen im Breuningerland<br> &nbsp;</div>
 </div>
 
 <style>
