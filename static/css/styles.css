@@ -830,7 +830,7 @@ footer.entry-meta .meta-in {
 
 /*Cookie Consent Begin*/
 #cookieConsent {
-    background-color: rgba(192,192,192,0.3);
+    background-color: rgba(192,192,192);
     min-height: 26px;
     font-size: 14px;
     color: #222222;
