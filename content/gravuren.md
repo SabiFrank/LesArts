@@ -96,6 +96,48 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <div class="desc">Maria Frank bei Gravuraktionen im Breuningerland </div>
 </div>
 
+<div class="gallery">
+    <a href="/images/gravuren/Gravur14-gr.jpg" rel="lightbox" title="Parfum-Flacon mit Gravur im Breuningerland">
+		<img src="/images/gravuren/Gravur14-kl.jpg" alt="Parfum-Flacon mit Gravur im Breuningerland" width="300" height="200">
+	</a>		
+    <div class="desc">Parfum-Flacon mit Gravur im Breuningerland </div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur15-gr.jpg" rel="lightbox" title="Parfum-Flacon mit Gravur im Breuningerland">
+		<img src="/images/gravuren/Gravur15-kl.jpg" alt="Parfum-Flacon mit Gravur im Breuningerland" width="300" height="200">
+	</a>		
+    <div class="desc">Parfum-Flacon mit Gravur im Breuningerland </div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur16-gr.jpg" rel="lightbox" title="Parfum-Flacon mit Gravur im Breuningerland">
+		<img src="/images/gravuren/Gravur16-kl.jpg" alt="Parfum-Flacon mit Gravur im Breuningerland" width="300" height="200">
+	</a>		
+    <div class="desc">Parfum-Flacon mit Gravur im Breuningerland </div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur17-gr.jpg" rel="lightbox" title="Parfum-Flacon mit Gravur im Breuningerland">
+		<img src="/images/gravuren/Gravur17-kl.jpg" alt="Parfum-Flacon mit Gravur im Breuningerland" width="300" height="200">
+	</a>		
+    <div class="desc">Parfum-Flacon mit Gravur im Breuningerland </div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur19-gr.jpg" rel="lightbox" title="Parfum-Flacon mit Gravur im Breuningerland">
+		<img src="/images/gravuren/Gravur19-kl.jpg" alt="Parfum-Flacon mit Gravur im Breuningerland" width="300" height="200">
+	</a>		
+    <div class="desc">Parfum-Flacon mit Gravur im Breuningerland </div>
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Gravur18-gr.jpg" rel="lightbox" title="Gravur auf Ginglas">
+		<img src="/images/gravuren/Gravur18-kl.jpg" alt="Gravur auf Ginglas" width="300" height="200">
+	</a>		
+    <div class="desc">Gravur auf Ginglas </div>
+</div>
+
 <style>
 	div.gallery {
 		margin: 5px;
