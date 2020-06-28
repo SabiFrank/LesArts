@@ -173,6 +173,48 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
     <div class="desc">Lettering auf Tafel mit Flüssigkreide</div>
 </div>
 
+<div class="gallery">
+    <a href="/images/lettering/Lettering25-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
+		<img src="/images/lettering/Lettering25-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
+	</a>		
+    <div class="desc">Lettering auf Tafel mit Flüssigkreide</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/lettering/Lettering26-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
+		<img src="/images/lettering/Lettering26-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
+	</a>		
+    <div class="desc">Lettering auf Tafel mit Flüssigkreide</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/lettering/Lettering29-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
+		<img src="/images/lettering/Lettering29-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
+	</a>		
+    <div class="desc">Lettering auf Tafel mit Flüssigkreide</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/lettering/Lettering30-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
+		<img src="/images/lettering/Lettering30-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
+	</a>		
+    <div class="desc">Lettering auf Tafel mit Flüssigkreide</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/lettering/Lettering27-gr.jpg" rel="lightbox" title="Lettering für Weihnachtskarten">
+		<img src="/images/lettering/Lettering27-kl.jpg" alt="Lettering für Weihnachtskarten" width="300" height="200">
+	</a>		
+    <div class="desc">Lettering für Weihnachtskarten</div>
+</div>
+
+<div class="gallery">
+    <a href="/images/lettering/Lettering28-gr.jpg" rel="lightbox" title="Lettering für Hochzeitsdeko">
+		<img src="/images/lettering/Lettering28-kl.jpg" alt="Lettering für Hochzeitsdeko" width="300" height="200">
+	</a>		
+    <div class="desc">Lettering für Hochzeitsdeko</div>
+</div>
+
 <style>
 	div.gallery {
 		margin: 5px;
