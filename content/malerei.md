@@ -538,7 +538,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 
 <div>
-	<p><br></p>
+	<p>&nbsp;<br></p>
+	<p>&nbsp;<br></p>
 	<h2>Mischtechnik</h2> <br>
 
 <p>
@@ -568,7 +569,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 
 <div>
-	<p><br></p>
+	<p>&nbsp;<br></p>
+	<p>&nbsp;<br></p>
 	<h2>Zeichnungen</h2> <br>
 <p>
 <div class="gallery">
@@ -618,7 +620,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 
 <div>
-	<p><br></p>
+	<p>&nbsp;<br></p>
+	<p>&nbsp;<br></p>
 	<h2>Wandmalerei</h2> <br>
 	
 <div class="gallery">
