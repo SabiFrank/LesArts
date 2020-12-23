@@ -6,7 +6,8 @@ type = "portfolio"
 Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden. Sie finden zu jedem Bild den Titel und die verwendete Technik. Eventuell genutzte Vorlagen von anderen Künstlern sind vermerkt. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div>
-	<h2>Acryl</h2> <br>
+	<h2>Acryl</h2> 
+	<p><br></p>
 
 <div class="gallery">
 	    <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
@@ -534,7 +535,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 </div>
 
+
+
 <div>
+	<p><br></p>
 	<h2>Mischtechnik</h2> <br>
 
 <p>
@@ -558,12 +562,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Titel: The World <br> Technik: Mischtechnik</div>
 	</div>
-	</p>
+</p>
 </div>
 
-<div>
-	<h2>Zeichnungen</h2> <br>
 
+
+<div>
+	<p><br></p>
+	<h2>Zeichnungen</h2> <br>
 <p>
 <div class="gallery">
 	    <a href="/images/malerei/Alter_Mann_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
@@ -606,12 +612,15 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Titel: Svetlana <br> Technik: Graphit auf Papier</div>
 	</div>
-	</p>
+</p>
 </div>
 
-<div>
-	<h2>Wandmalerei</h2> <br>
 
+
+<div>
+	<p><br></p>
+	<h2>Wandmalerei</h2> <br>
+	
 <div class="gallery">
 	    <a href="/images/malerei/Japanische_Stadt_gr.jpg" rel="lightbox" title="Titel: Japanische Stadt, Technik: Acryl auf Rauhfaser, Quelle: Unbekannt">
 			<img src="/images/malerei/Japanische_Stadt_kl.jpg" alt="Titel: Japanische Stadt, Technik: Acryl auf Rauhfaser, Quelle: Unbekannt" width="300" height="200">
