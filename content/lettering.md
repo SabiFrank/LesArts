@@ -216,15 +216,15 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 </div>
 
 <div class="gallery">
-    <a href="/images/lettering/Lettering31-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
-		<img src="/images/lettering/Lettering31-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
+    <a href="/images/lettering/tafel31-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
+		<img src="/images/lettering/tafel31-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
 	</a>		
     <div class="desc">Lettering auf Tafel mit Flüssigkreide</div>
 </div>
 
 <div class="gallery">
-    <a href="/images/lettering/Lettering32-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
-		<img src="/images/lettering/Lettering32-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
+    <a href="/images/lettering/tafel32-gr.jpg" rel="lightbox" title="Lettering auf Tafel mit Flüssigkreide">
+		<img src="/images/lettering/tafel32-kl.jpg" alt="Lettering auf Tafel mit Flüssigkreide" width="300" height="200">
 	</a>		
     <div class="desc">Lettering auf Tafel mit Flüssigkreide</div>
 </div>
