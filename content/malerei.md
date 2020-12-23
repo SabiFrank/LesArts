@@ -535,6 +535,15 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 	
 <div class="gallery">
+	<p>&nbsp;<br></p>
+	</div>
+	
+<div class="gallery">
+	<p>&nbsp;<br></p>
+	</div>
+	
+<div class="gallery">
+	<p>&nbsp;<br></p>
 	</div>
 	
 </div>
@@ -568,6 +577,15 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 	
 <div class="gallery">
+	<p>&nbsp;<br></p>
+	</div>
+	
+<div class="gallery">
+	<p>&nbsp;<br></p>
+	</div>
+	
+<div class="gallery">
+	<p>&nbsp;<br></p>
 	</div>
 	
 </p>
@@ -622,7 +640,17 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 	
 <div class="gallery">
+	<p>&nbsp;<br></p>
 	</div>
+	
+<div class="gallery">
+	<p>&nbsp;<br></p>
+	</div>
+	
+<div class="gallery">
+	<p>&nbsp;<br></p>
+	</div>
+	
 	
 </p>
 </div>
@@ -641,6 +669,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 	
 <div class="gallery">
+	<p>&nbsp;<br></p>
 	</div>
 	
 </div>
