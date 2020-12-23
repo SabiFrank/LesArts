@@ -198,7 +198,7 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Gravur28-gr.jpg" rel="lightbox" title="Glasgravur">
 		<img src="/images/gravuren/Gravur28-kl.jpg" alt="Glasgravur" width="300" height="200">
 	</a>		
-    <div class="desc">Glasgravur</div>
+    <div class="desc">Glasgravur <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -212,14 +212,14 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Gravur30-gr.jpg" rel="lightbox" title="Glasgravur">
 		<img src="/images/gravuren/Gravur30-kl.jpg" alt="Glasgravur" width="300" height="200">
 	</a>		
-    <div class="desc">Glasgravur</div>
+    <div class="desc">Glasgravur <br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Gravur31-gr.jpg" rel="lightbox" title="Glasgravur">
 		<img src="/images/gravuren/Gravur31-kl.jpg" alt="Glasgravur" width="300" height="200">
 	</a>		
-    <div class="desc">Glasgravur</div>
+    <div class="desc">Glasgravur <br> &nbsp; </div>
 </div>
 
 
@@ -227,7 +227,7 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Gravur32-gr.jpg" rel="lightbox" title="Glasgravur">
 		<img src="/images/gravuren/Gravur32-kl.jpg" alt="Glasgravur" width="300" height="200">
 	</a>		
-    <div class="desc">Glasgravur</div>
+    <div class="desc">Glasgravur <br> &nbsp; </div>
 </div>
 
 
