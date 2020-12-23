@@ -232,8 +232,8 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 
 
 <div class="gallery">
-    <a href="/images/gravuren/Gravur33-gr.jpg" rel="lightbox" title="Glasgravuraktion im Breuningerland">
-		<img src="/images/gravuren/Gravur33-kl.jpg" alt="Glasgravuraktion im Breuningerland" width="300" height="200">
+    <a href="/images/gravuren/Gravur33-gr.png" rel="lightbox" title="Glasgravuraktion im Breuningerland">
+		<img src="/images/gravuren/Gravur33-kl.png" alt="Glasgravuraktion im Breuningerland" width="300" height="200">
 	</a>		
     <div class="desc">Glasgravuraktion im Breuningerland</div>
 </div>
