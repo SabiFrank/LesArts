@@ -533,12 +533,15 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc"> Titel: Joannas Kitchen, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
 	</div>
+	
+<div class="gallery">
+	</div>
+	
 </div>
 
 
 
 <div>
-	<p>&nbsp;<br></p>
 	<p>&nbsp;<br></p>
 	<h2>Mischtechnik</h2> <br>
 
@@ -563,13 +566,16 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Titel: The World <br> Technik: Mischtechnik</div>
 	</div>
+	
+<div class="gallery">
+	</div>
+	
 </p>
 </div>
 
 
 
 <div>
-	<p>&nbsp;<br></p>
 	<p>&nbsp;<br></p>
 	<h2>Zeichnungen</h2> <br>
 <p>
@@ -614,13 +620,16 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Titel: Svetlana <br> Technik: Graphit auf Papier</div>
 	</div>
+	
+<div class="gallery">
+	</div>
+	
 </p>
 </div>
 
 
 
 <div>
-	<p>&nbsp;<br></p>
 	<p>&nbsp;<br></p>
 	<h2>Wandmalerei</h2> <br>
 	
@@ -630,6 +639,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Titel: Japanische Stadt <br> Technik: Acryl auf Rauhfaser <br> Quelle: Unbekannt</div>
 	</div>
+	
+<div class="gallery">
+	</div>
+	
 </div>
 
 <style>
