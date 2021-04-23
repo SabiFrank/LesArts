@@ -635,6 +635,24 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	
 </div>
 
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+	
+</div>
+
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+	
+</div>
+
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+	
+</div>
+
 
 
 <div>
@@ -755,6 +773,30 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <div class="desc">Titel: Japanische Stadt <br> Technik: Acryl auf Rauhfaser <br> Quelle: Unbekannt</div>
 	</div>
 	
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+	
+</div>
+
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+	
+</div>
+
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+	
+</div>
+
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+	
+</div>
+
 <div class="gallery" style="border-color: transparent;">
 	<p>&nbsp;<br></p>
 	</div>
