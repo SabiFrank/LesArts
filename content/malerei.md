@@ -535,6 +535,97 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 	
 <div class="gallery">
+	    <a href="/images/malerei/Schiff-gr.jpg" rel="lightbox" title="Titel: Am Bodensee, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Schiff-kl.jpg" alt="Titel: Am Bodensee, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Am Bodensee, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>	
+	
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente1-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente1-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>	
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente2-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente2-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>	
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente3-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente3-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente4-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente4-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente5-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente5-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente6-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente6-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente7-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente7-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente8-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente8-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente9-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente9-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente10-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente10-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/Sukkulente11-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulente11-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>
+
+<div class="gallery">
+	    <a href="/images/malerei/SukkulenteUebersicht-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/SukkulenteUebersicht-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	</div>	
+
+<div class="gallery">
 	<p>&nbsp;<br></p>
 	</div>
 	
