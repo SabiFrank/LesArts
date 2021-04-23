@@ -137,14 +137,14 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Haase1-gr.jpg" rel="lightbox" title="Stoffhase mit originalen Stoffkleidern">
 		<img src="/images/stoffwerke/Haase1-kl.jpg" alt="Stoffhase mit originalen Stoffkleidern" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffblumen als Dekorationsgegenstände</div>
+    <div class="desc">Stoffhase mit originalen Stoffkleidern <br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/stoffwerke/Haase2-gr.jpg" rel="lightbox" title="Stoffhase mit originalen Stoffkleidern">
 		<img src="/images/stoffwerke/Haase2-kl.jpg" alt="Stoffhase mit originalen Stoffkleidern" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffblumen als Dekorationsgegenstände</div>
+    <div class="desc">Stoffhase mit originalen Stoffkleidern</div>
 </div>
 
 <style>
