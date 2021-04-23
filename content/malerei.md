@@ -538,7 +538,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/Schiff-gr.jpg" rel="lightbox" title="Titel: Am Bodensee, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
 			<img src="/images/malerei/Schiff-kl.jpg" alt="Titel: Am Bodensee, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
 		</a>		
-	    <div class="desc"> Titel: Am Bodensee, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	    <div class="desc"> Titel: Am Bodensee, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank <br> &nbsp; </div>
 	</div>	
 	
 <div class="gallery">
@@ -626,15 +626,11 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>	
 
 <div class="gallery">
-	<p>&nbsp;<br></p>
+	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
 <div class="gallery">
-	<p>&nbsp;<br></p>
-	</div>
-	
-<div class="gallery">
-	<p>&nbsp;<br></p>
+	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
 </div>
