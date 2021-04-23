@@ -633,14 +633,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 <div class="gallery" style="border-color: transparent;">
 	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
-	
-</div>
 
 <div class="gallery" style="border-color: transparent;">
 	<p>&nbsp;<br></p>
 	</div>
-	
-</div>
 
 <div class="gallery" style="border-color: transparent;">
 	<p>&nbsp;<br></p>
