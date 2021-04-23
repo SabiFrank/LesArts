@@ -626,11 +626,11 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>	
 
 <div class="gallery">
-	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
+	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
 <div class="gallery">
-	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
+	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
 </div>
