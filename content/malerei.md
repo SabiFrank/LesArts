@@ -9,6 +9,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	<h2>Acryl</h2> 
 	<p><br></p>
 
+<p>
 <div class="gallery">
 	    <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
 			<img src="/images/malerei/Abschied_kl.jpg" alt="Titel: Abschied, Technik: Acryl auf Leinwand" width="300" height="200">
@@ -640,6 +641,17 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 	
 </div>
+
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+	
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+</p>
+</div>
+
 
 
 
