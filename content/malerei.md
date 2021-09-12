@@ -567,7 +567,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/people_gr.png" rel="lightbox" title="Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: Alexander Sokht">
 			<img src="/images/malerei/people_kl.png" alt="Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: Alexander Sokht" width="300" height="200">
 		</a>		
-	    <div class="desc"> Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: <a href="https://xpgallery.com/pages/alexander-sokht-bio" title="Alexander Sokht XPGallery" alt="Weiterleitung zu der externen Seite XPGallery Alexander Sokht">Alexander Sokht</a> </div>
+	    <div class="desc"> Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: <a href="https://xpgallery.com/pages/alexander-sokht-bio" title="Alexander Sokht XPGallery" target="_blank" alt="Weiterleitung zu der externen Seite XPGallery Alexander Sokht">Alexander Sokht</a> &nbsp;<br> &nbsp;<br></div>
 	</div>
 
 
@@ -575,21 +575,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
-	</div>
-
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br></p>
-	</div>
-
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br></p>
-	</div>
-	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br></p>
-	</div>
 </p>
 </div>
 
