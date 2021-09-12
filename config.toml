@@ -40,7 +40,7 @@ icon = "fa-envelope"
 network = "email"
 sharethis = true
 title = "E-Mail"
-url = "mariafrank57@gmail.com"
+url = "mailto:mariafrank57@gmail.com"
 [[params.social]]
 footer = true
 icon = "fa-facebook-square"
