@@ -543,88 +543,33 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>	
 	
 <div class="gallery">
-	    <a href="/images/malerei/Sukkulente1-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente1-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+	    <a href="/images/malerei/Sukkulenten-gr.png" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
+			<img src="/images/malerei/Sukkulenten-kl.png" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
 		</a>		
 	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
 	</div>	
 
 <div class="gallery">
-	    <a href="/images/malerei/Sukkulente2-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente2-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+	    <a href="/images/malerei/abstrakt-grau_gr.png" rel="lightbox" title="Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt">
+			<img src="/images/malerei/abstrakt-grau_kl.png" alt="Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>	
-
+	    <div class="desc"> Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt </div>
+	</div>
+	
 <div class="gallery">
-	    <a href="/images/malerei/Sukkulente3-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente3-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
+	    <a href="/images/malerei/affen_gr.png" rel="lightbox" title="Titel: Schimpansenliebe, Technik: Acryl Open auf Leinwand">
+			<img src="/images/malerei/affen_kl.png" alt="Titel: Schimpansenliebe, Technik: Acryl Open auf Leinwand" width="300" height="200">
 		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
+	    <div class="desc"> Titel: Schimpansenliebe, Technik: Acryl Open auf Leinwand </div>
+	</div>
+	
+<div class="gallery">
+	    <a href="/images/malerei/people_gr.png" rel="lightbox" title="Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: Alexander Sokht">
+			<img src="/images/malerei/people_kl.png" alt="Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: Alexander Sokht" width="300" height="200">
+		</a>		
+	    <div class="desc"> Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: <a href="https://xpgallery.com/pages/alexander-sokht-bio" title="Alexander Sokht XPGallery" alt="Weiterleitung zu der externen Seite XPGallery Alexander Sokht">Alexander Sokht</a> </div>
 	</div>
 
-<div class="gallery">
-	    <a href="/images/malerei/Sukkulente4-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente4-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Sukkulente5-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente5-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Sukkulente6-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente6-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Sukkulente7-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente7-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Sukkulente8-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente8-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Sukkulente9-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente9-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Sukkulente10-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente10-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Sukkulente11-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/Sukkulente11-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/SukkulenteUebersicht-gr.jpg" rel="lightbox" title="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
-			<img src="/images/malerei/SukkulenteUebersicht-kl.jpg" alt="Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank" width="300" height="200">
-		</a>		
-	    <div class="desc"> Titel: Sukkulentengarten, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank </div>
-	</div>	
 
 <div class="gallery" style="border-color: transparent;">
 	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
