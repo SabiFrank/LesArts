@@ -553,7 +553,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/abstrakt-grau_gr.png" rel="lightbox" title="Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt">
 			<img src="/images/malerei/abstrakt-grau_kl.png" alt="Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 		</a>		
-	    <div class="desc"> Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt &nbsp;<br> &nbsp;<br></div>
+	    <div class="desc"> Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt &nbsp;<br> &nbsp;<br> &nbsp;<br></div>
 	</div>
 	
 <div class="gallery">
