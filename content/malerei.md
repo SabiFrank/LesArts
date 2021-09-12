@@ -391,7 +391,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/Sky_gr.jpg" rel="lightbox" title="Titel: Sky, Technik: Acryl auf Leinwand, Quelle: Yuumei">
 			<img src="/images/malerei/Sky_kl.jpg" alt="Titel: Sky, Technik: Acryl auf Leinwand, Quelle: Yuumei" width="300" height="200">
 		</a>		
-	    <div class="desc">Titel: Sky <br> Technik: Acryl auf Leinwand <br> Quelle: <a href="https://www.yuumeiart.com/" title="Weiterleitung zur der externen Website von Yuumei">Yuumei</a></div>
+	    <div class="desc">Titel: Sky <br> Technik: Acryl auf Leinwand <br> Quelle: <a href="https://www.yuumeiart.com/" title="Weiterleitung zur der externen Website von Yuumei" target="_blank" alt="Weiterleitung zur der externen Website von Yuumei">Yuumei</a></div>
 	</div>
 
 <div class="gallery">
@@ -426,7 +426,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/Submerge_gr.jpg" rel="lightbox" title="Titel: Submerge, Technik: Acryl auf Leinwand, Quelle: Yuumei">
 			<img src="/images/malerei/Submerge_kl.jpg" alt="Titel: Submerge, Technik: Acryl auf Leinwand, Quelle: Yuumei" width="300" height="200">
 		</a>		
-	    <div class="desc">Titel: Submerge <br> Technik: Acryl auf Leinwand <br> Quelle: <a href="https://www.yuumeiart.com/" title="Weiterleitung zur der externen Website von Yuumei">Yuumei</a></div>
+	    <div class="desc">Titel: Submerge <br> Technik: Acryl auf Leinwand <br> Quelle: <a href="https://www.yuumeiart.com/" title="Weiterleitung zur der externen Website von Yuumei" target="_blank" alt="Weiterleitung zur der externen Website von Yuumei">Yuumei</a></div>
 	</div>
 
 <div class="gallery">
@@ -553,7 +553,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/abstrakt-grau_gr.png" rel="lightbox" title="Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt">
 			<img src="/images/malerei/abstrakt-grau_kl.png" alt="Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 		</a>		
-	    <div class="desc"> Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt </div>
+	    <div class="desc"> Titel: Abstrakt Grau, Technik: Acryl Open auf Leinwand, Quelle: Unbekannt &nbsp;<br> &nbsp;<br></div>
 	</div>
 	
 <div class="gallery">
@@ -567,7 +567,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/people_gr.png" rel="lightbox" title="Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: Alexander Sokht">
 			<img src="/images/malerei/people_kl.png" alt="Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: Alexander Sokht" width="300" height="200">
 		</a>		
-	    <div class="desc"> Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: <a href="https://xpgallery.com/pages/alexander-sokht-bio" title="Alexander Sokht XPGallery" target="_blank" alt="Weiterleitung zu der externen Seite XPGallery Alexander Sokht">Alexander Sokht</a> &nbsp;<br> &nbsp;<br></div>
+	    <div class="desc"> Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: <a href="https://xpgallery.com/pages/alexander-sokht-bio" title="Alexander Sokht XPGallery" target="_blank" alt="Weiterleitung zu der externen Seite XPGallery Alexander Sokht">Alexander Sokht</a></div>
 	</div>
 
 
