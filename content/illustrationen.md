@@ -373,7 +373,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Tripsdrill_Comicfigur-gr.jpg" rel="lightbox" title="Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill">
 		<img src="/images/illustrationen/Tripsdrill_Comicfigur-kl.jpg" alt="Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill" width="300" height="200">
 	</a>		
-    <div class="desc">Tripsdrill Comicfigur <br> Technik: Filzstift <br> Quelle: <a href="https://tripsdrill.de/" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a> <br> &nbsp;</div>
+    <div class="desc">Tripsdrill Comicfigur <br> Technik: Filzstift <br> Quelle: <a href="https://tripsdrill.de/" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a> <br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -387,7 +387,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Uhrwerk-gr.jpg" rel="lightbox" title="Uhrwerk, Technik: Mischtechnik">
 		<img src="/images/illustrationen/Uhrwerk-kl.jpg" alt="Uhrwerk, Technik: Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Uhrwerk <br> Technik: Mischtechnik <br> &nbsp; <br> &nbsp;</div>
+    <div class="desc">Uhrwerk <br> Technik: Mischtechnik<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
