@@ -25,7 +25,7 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Flacon1_gr.png" rel="lightbox" title="Gravierte Parfum-Flacons einer Aktion im Breunigerland">
 		<img src="/images/gravuren/Flacon1_kl.png" alt="Gravierte Parfum-Flacons einer Aktion im Breunigerland" width="300" height="200">
 	</a>		
-    <div class="desc">Gravierte Parfum-Flacons einer Aktion im Breunigerland</div>
+    <div class="desc">Gravierte Parfum-Flacons einer Aktion im Breunigerland<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -82,14 +82,14 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Glas1_gr.png" rel="lightbox" title="Gravur auf Glas">
 		<img src="/images/gravuren/Glas1_gr.png" alt="Gravur auf Glas" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Glas</div>
+    <div class="desc">Gravur auf Glas<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Glas2_gr.png" rel="lightbox" title="Gravur auf Gläsern">
 		<img src="/images/gravuren/Glas2_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Gläsern</div>
+    <div class="desc">Gravur auf Gläsern<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -117,14 +117,14 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Glas6_gr.png" rel="lightbox" title="Gravur auf Gläsern">
 		<img src="/images/gravuren/Glas6_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Gläsern</div>
+    <div class="desc">Gravur auf Gläsern<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Glas7_gr.png" rel="lightbox" title="Gravur auf Gläsern">
 		<img src="/images/gravuren/Glas7_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Gläsern</div>
+    <div class="desc">Gravur auf Gläsern<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 
@@ -134,6 +134,7 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 		<img src="/images/gravuren/Gravuraktion_kl.png" alt="Maria Frank bei Gravuraktionen im Breuningerland" width="300" height="200">
 	</a>		
     <div class="desc">Maria Frank bei Gravuraktionen im Breuningerland </div>
+</div>
 
 
 <!-- Flaschen -->
@@ -141,7 +142,7 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
     <a href="/images/gravuren/Wein1_gr.png" rel="lightbox" title="Gravur auf Weinflasche">
 		<img src="/images/gravuren/Wein1_kl.png" alt="Gravur auf Weinflasche" width="300" height="200">
 	</a>		
-    <div class="desc">Gravur auf Weinflasche<br> &nbsp;</div>
+    <div class="desc">Gravur auf Weinflasche</div>
 </div>
 
 
