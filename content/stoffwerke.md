@@ -12,14 +12,14 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Puppe1_gr.png" rel="lightbox" title="Stoffpuppe nach Tilda mit Engelsflügeln">
 		<img src="/images/stoffwerke/Puppe1_kl.png" alt="Stoffpuppe nach Tilda mit Engelsflügeln" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffpuppe nach Tilda mit Engelsflügeln</div>
+    <div class="desc">Stoffpuppe nach Tilda mit Engelsflügeln<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/stoffwerke/Puppe2_gr.png" rel="lightbox" title="Stoffpuppe nach Tilda mit Engelsflügeln">
 		<img src="/images/stoffwerke/Puppe2_kl.png" alt="Stoffpuppe nach Tilda mit Engelsflügeln" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffpuppe nach Tilda mit Engelsflügeln</div>
+    <div class="desc">Stoffpuppe nach Tilda mit Engelsflügeln<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -40,14 +40,14 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Puppe4_gr.png" rel="lightbox" title="Stoffpuppen nach Tilda">
 		<img src="/images/stoffwerke/Puppe4_kl.png" alt="Stoffpuppen nach Tilda" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffpuppen nach Tilda </div>
+    <div class="desc">Stoffpuppen nach Tilda<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/stoffwerke/Puppe6_gr.png" rel="lightbox" title="Stoffpuppen nach Tilda">
 		<img src="/images/stoffwerke/Puppe6_kl.png" alt="Stoffpuppen nach Tilda" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffpuppen nach Tilda </div>
+    <div class="desc">Stoffpuppen nach Tilda<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -69,7 +69,7 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Hase2_gr.png" rel="lightbox" title="Stoffhase  nach Tilda">
 		<img src="/images/stoffwerke/Hase2_kl.png" alt="Stoffhase nach Tilda" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffhase nach Tilda</div>
+    <div class="desc">Stoffhase nach Tilda<br> &nbsp;<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 
@@ -99,7 +99,7 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Kuh_gr.png" rel="lightbox" title="Stoffkühe mit Flügeln">
 		<img src="/images/stoffwerke/Kuh_kl.png" alt="Stoffkühe mit Flügeln" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffkühe mit Flügeln<br> &nbsp;</div>
+    <div class="desc">Stoffkühe mit Flügeln</div>
 </div>
 
 <div class="gallery">
