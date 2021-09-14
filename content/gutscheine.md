@@ -6,61 +6,56 @@ type = "portfolio"
 Hier sind Gutscheine für Workshops zu sehen. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <div class="gallery">
-    <a href="/images/gutscheine/Gutscheine-gr.jpg" rel="lightbox" title="Gutscheine für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutscheine-kl.jpg" alt="Gutscheine für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
+    <a href="/images/gutscheine/Gutschein1_gr.png" rel="lightbox" title="Gutschein für Workshops bei Maria Frank">
+		<img src="/images/gutscheine/Gutschein1_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
 	</a>		
-    <div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
+    <div class="desc">Gutschein für Workshops bei Maria Frank</div>
 </div>
 
 <div class="gallery">
-	<a href="/images/gutscheine/Gutschein1-gr.jpg" rel="lightbox" title="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutschein1-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-	</a>
-	<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
+    <a href="/images/gutscheine/Gutschein2_gr.png" rel="lightbox" title="Gutschein für Workshops bei Maria Frank">
+		<img src="/images/gutscheine/Gutschein2_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
+	</a>		
+    <div class="desc">Gutschein für Workshops bei Maria Frank</div>
 </div>
 
 <div class="gallery">
-	<a href="/images/gutscheine/Gutschein3-gr.jpg" rel="lightbox" title="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutschein3-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-	</a>
-	<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
+    <a href="/images/gutscheine/Gutschein3_gr.png" rel="lightbox" title="Gutschein für Workshops bei Maria Frank">
+		<img src="/images/gutscheine/Gutschein3_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
+	</a>		
+    <div class="desc">Gutschein für Workshops bei Maria Frank</div>
 </div>
 
 <div class="gallery">
-	<a href="/images/gutscheine/Gutschein4-gr.jpg" rel="lightbox" title="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutschein4-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-	</a>
-	<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
+    <a href="/images/gutscheine/Gutschein4_gr.png" rel="lightbox" title="Gutschein für Workshops bei Maria Frank">
+		<img src="/images/gutscheine/Gutschein4_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
+	</a>		
+    <div class="desc">Gutschein für Workshops bei Maria Frank</div>
 </div>
 
 <div class="gallery">
-	<a href="/images/gutscheine/Gutschein5-gr.jpg" rel="lightbox" title="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutschein5-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-	</a>
-	<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
+    <a href="/images/gutscheine/Gutschein5_gr.png" rel="lightbox" title="Gutschein für Workshops bei Maria Frank">
+		<img src="/images/gutscheine/Gutschein5_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
+	</a>		
+    <div class="desc">Gutschein für Workshops bei Maria Frank</div>
 </div>
 
 <div class="gallery">
-	<a href="/images/gutscheine/Gutschein6-gr.jpg" rel="lightbox" title="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutschein6-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-	</a>
-	<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
+    <a href="/images/gutscheine/Gutschein6_gr.png" rel="lightbox" title="Gutschein für Workshops bei Maria Frank">
+		<img src="/images/gutscheine/Gutschein6_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
+	</a>		
+    <div class="desc">Gutschein für Workshops bei Maria Frank</div>
 </div>
 
 <div class="gallery">
-	<a href="/images/gutscheine/Gutschein7-gr.jpg" rel="lightbox" title="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutschein7-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-	</a>
-	<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
+    <a href="/images/gutscheine/Gutschein7_gr.png" rel="lightbox" title="Gutschein für Workshops bei Maria Frank">
+		<img src="/images/gutscheine/Gutschein7_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
+	</a>		
+    <div class="desc">Gutschein für Workshops bei Maria Frank</div>
 </div>
 
-<div class="gallery">
-	<a href="/images/gutscheine/Gutschein8-gr.jpg" rel="lightbox" title="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank">
-		<img src="/images/gutscheine/Gutschein8-kl.jpg" alt="Gutschein-Beispiel für Malkurse oder Workshops bei Maria Frank" width="300" height="200">
-	</a>
-	<div class="desc">Gutscheine für Malkurse oder Workshops bei Maria Frank</div>
-</div>
 
+<!-- CSS Inline -->
 <style>
 	div.gallery {
 		margin: 5px;
