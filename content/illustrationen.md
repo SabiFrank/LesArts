@@ -356,10 +356,10 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 </div>
 
 <div class="gallery">
-    <a href="/images/illustrationen/Tattoo-gr.jpg" rel="lightbox" title="Titel: Tattoo, Technik: Graphit, Copicmarker">
-		<img src="/images/illustrationen/Tattoo-kl.jpg" alt="Titel: Tattoo, Technik: Graphit, Copicmarker" width="300" height="200">
+    <a href="/images/illustrationen/Tattoo1_gr.jpg" rel="lightbox" title="Titel: Technisches Tattoo, Technik: Graphit, Copicmarker">
+		<img src="/images/illustrationen/Tattoo1_kl.jpg" alt="Titel: Technisches Tattoo, Technik: Graphit, Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Titel: Tattoo <br> Technik: Graphit, Copicmarker</div>
+    <div class="desc">Titel: Technisches Tattoo <br> Technik: Graphit, Copicmarker</div>
 </div>
 
 <div class="gallery">
@@ -397,6 +397,8 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <div class="desc">Titel: Vitruvianischer Mensch <br> Technik: Filzstift<br> Quelle: <a href="https://www.kometgroup.com/komet-tools-plus-ideas/" title="Weiterleitung zur der externen Website von Komet">Komet</a></div>
 </div>
 
+
+<!-- Inline CSS -->
 <style>
 	div.gallery {
 		margin: 5px;
