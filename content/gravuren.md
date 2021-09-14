@@ -80,7 +80,7 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 <!-- Gläser -->
 <div class="gallery">
     <a href="/images/gravuren/Glas1_gr.png" rel="lightbox" title="Gravur auf Glas">
-		<img src="/images/gravuren/Glas1_gr.png" alt="Gravur auf Glas" width="300" height="200">
+		<img src="/images/gravuren/Glas1_kl.png" alt="Gravur auf Glas" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Glas<br> &nbsp;<br> &nbsp;</div>
 </div>
