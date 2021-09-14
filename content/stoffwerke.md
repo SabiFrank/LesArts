@@ -99,7 +99,7 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
     <a href="/images/stoffwerke/Kuh_gr.png" rel="lightbox" title="Stoffkühe mit Flügeln">
 		<img src="/images/stoffwerke/Kuh_kl.png" alt="Stoffkühe mit Flügeln" width="300" height="200">
 	</a>		
-    <div class="desc">Stoffkühe mit Flügeln</div>
+    <div class="desc">Stoffkühe mit Flügeln<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -108,7 +108,6 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
 	</a>		
     <div class="desc">Stoffblumen als Dekorationsgegenstände</div>
 </div>
-
 
 <!-- CSS Style -->
 <style>
