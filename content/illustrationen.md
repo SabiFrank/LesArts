@@ -163,14 +163,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Forum_Ludwigsburg1-gr.jpg" rel="lightbox" title="Forum Ludwigsburg 1, Technik: Filzstift">
 		<img src="/images/illustrationen/Forum_Ludwigsburg1-kl.jpg" alt="Forum Ludwigsburg 1, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Forum Ludwigsburg 1 <br> Technik: Filzstift <br> &nbsp;</div>
+    <div class="desc">Forum Ludwigsburg 1 <br> Technik: Filzstift <br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Forum_Ludwigsburg2-gr.jpg" rel="lightbox" title="Forum Ludwigsburg 2, Technik: Filzstift">
 		<img src="/images/illustrationen/Forum_Ludwigsburg2-kl.jpg" alt="Forum Ludwigsburg 2, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Forum Ludwigsburg 2 <br> Technik: Filzstift <br> &nbsp;</div>
+    <div class="desc">Forum Ludwigsburg 2 <br> Technik: Filzstift <br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -296,7 +296,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Schmetterlinge-gr.jpg" rel="lightbox" title="Schmetterlinge, Technik: Airbrushr">
 		<img src="/images/illustrationen/Schmetterlinge-kl.jpg" alt="Schmetterlinge, Technik: Airbrush" width="300" height="200">
 	</a>		
-    <div class="desc">Schmetterlinge <br> Technik: Airbrush <br> &nbsp; <br> &nbsp;</div>
+    <div class="desc">Schmetterlinge <br> Technik: Airbrush<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
