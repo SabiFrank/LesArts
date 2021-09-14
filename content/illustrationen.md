@@ -65,7 +65,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Comic_Straßenfeger-gr.jpg" rel="lightbox" title="Comic Straßenfeger, Technik: Filzstift">
 		<img src="/images/illustrationen/Comic_Straßenfeger-kl.jpg" alt="Comic Straßenfeger, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Comic Straßenfeger <br> Technik: Filzstift</div>
+    <div class="desc">Comic Straßenfeger <br> Technik: Filzstift<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -93,7 +93,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Europapark_Rust_gr.jpg" rel="lightbox" title="Europapark Rusty, Technik: Mischtechnik">
 		<img src="/images/illustrationen/Europapark_Rust_kl.jpg" alt="Europapark Rust, Technik: Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Europapark Rust <br> Technik: Mischtechnik <br> &nbsp;</div>
+    <div class="desc">Europapark Rust <br> Technik: Mischtechnik</div>
 </div>
 
 <div class="gallery">
@@ -114,14 +114,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Eventmanagement3-gr.jpg" rel="lightbox" title="Eventmanagement 3, Technik: Copicmarker">
 		<img src="/images/illustrationen/Eventmanagement3-kl.jpg" alt="Eventmanagement 3, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Eventmanagement 3 <br> Technik: Copicmarker</div>
+    <div class="desc">Eventmanagement 3 <br> Technik: Copicmarker<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Eventmanagement4-gr.jpg" rel="lightbox" title="Eventmanagement 4, Technik: Copicmarker">
 		<img src="/images/illustrationen/Eventmanagement4-kl.jpg" alt="Eventmanagement 4, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Eventmanagement 4 <br> Technik: Copicmarker</div>
+    <div class="desc">Eventmanagement 4 <br> Technik: Copicmarker<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -163,21 +163,21 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Forum_Ludwigsburg1-gr.jpg" rel="lightbox" title="Forum Ludwigsburg 1, Technik: Filzstift">
 		<img src="/images/illustrationen/Forum_Ludwigsburg1-kl.jpg" alt="Forum Ludwigsburg 1, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Forum Ludwigsburg 1 <br> Technik: Filzstift <br> &nbsp;</div>
+    <div class="desc">Forum Ludwigsburg 1 <br> Technik: Filzstift <br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Forum_Ludwigsburg2-gr.jpg" rel="lightbox" title="Forum Ludwigsburg 2, Technik: Filzstift">
 		<img src="/images/illustrationen/Forum_Ludwigsburg2-kl.jpg" alt="Forum Ludwigsburg 2, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Forum Ludwigsburg 2 <br> Technik: Filzstift <br> &nbsp;</div>
+    <div class="desc">Forum Ludwigsburg 2 <br> Technik: Filzstift <br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Forum_Ludwigsburg-gr.jpg" rel="lightbox" title="Forum Ludwigsburg 3, Technik: Filzstift">
 		<img src="/images/illustrationen/Forum_Ludwigsburg-kl.jpg" alt="Forum Ludwigsburg 3, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Forum Ludwigsburg 3 <br> Technik: Filzstift</div>
+    <div class="desc">Forum Ludwigsburg 3 <br> Technik: Filzstift<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -296,7 +296,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Schmetterlinge-gr.jpg" rel="lightbox" title="Schmetterlinge, Technik: Airbrushr">
 		<img src="/images/illustrationen/Schmetterlinge-kl.jpg" alt="Schmetterlinge, Technik: Airbrush" width="300" height="200">
 	</a>		
-    <div class="desc">Schmetterlinge <br> Technik: Airbrush <br> &nbsp; <br> &nbsp;</div>
+    <div class="desc">Schmetterlinge <br> Technik: Airbrush<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -373,7 +373,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Tripsdrill_Comicfigur-gr.jpg" rel="lightbox" title="Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill">
 		<img src="/images/illustrationen/Tripsdrill_Comicfigur-kl.jpg" alt="Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill" width="300" height="200">
 	</a>		
-    <div class="desc">Tripsdrill Comicfigur <br> Technik: Filzstift <br> Quelle: <a href="https://tripsdrill.de/" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a> <br> &nbsp;</div>
+    <div class="desc">Tripsdrill Comicfigur <br> Technik: Filzstift <br> Quelle: <a href="https://tripsdrill.de/" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a> <br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -387,7 +387,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Uhrwerk-gr.jpg" rel="lightbox" title="Uhrwerk, Technik: Mischtechnik">
 		<img src="/images/illustrationen/Uhrwerk-kl.jpg" alt="Uhrwerk, Technik: Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Uhrwerk <br> Technik: Mischtechnik <br> &nbsp; <br> &nbsp;</div>
+    <div class="desc">Uhrwerk <br> Technik: Mischtechnik<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
