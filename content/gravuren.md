@@ -87,42 +87,42 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 
 <div class="gallery">
     <a href="/images/gravuren/Glas2_gr.png" rel="lightbox" title="Gravur auf Gläsern">
-		<img src="/images/gravuren/Glas2_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
+		<img src="/images/gravuren/Glas2_kl.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Gläsern<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Glas3_gr.png" rel="lightbox" title="Gravur auf Gläsern">
-		<img src="/images/gravuren/Glas3_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
+		<img src="/images/gravuren/Glas3_kl.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Gläsern</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Glas4_gr.png" rel="lightbox" title="Gravur auf Gläsern">
-		<img src="/images/gravuren/Glas4_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
+		<img src="/images/gravuren/Glas4_kl.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Gläsern</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Glas5_gr.png" rel="lightbox" title="Gravur auf Gläsern">
-		<img src="/images/gravuren/Glas5_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
+		<img src="/images/gravuren/Glas5_kl.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Gläsern</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Glas6_gr.png" rel="lightbox" title="Gravur auf Gläsern">
-		<img src="/images/gravuren/Glas6_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
+		<img src="/images/gravuren/Glas6_kl.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Gläsern<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/gravuren/Glas7_gr.png" rel="lightbox" title="Gravur auf Gläsern">
-		<img src="/images/gravuren/Glas7_gr.png" alt="Gravur auf Gläsern" width="300" height="200">
+		<img src="/images/gravuren/Glas7_kl.png" alt="Gravur auf Gläsern" width="300" height="200">
 	</a>		
     <div class="desc">Gravur auf Gläsern<br> &nbsp;<br> &nbsp;</div>
 </div>
