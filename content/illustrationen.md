@@ -362,6 +362,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <div class="desc">Technisches Tattoo <br> Technik: Graphit, Copicmarker</div>
 </div>
 
+
+<div class="gallery">
+    <a href="/images/illustrationen/Tattoo2_gr.png" rel="lightbox" title="Technisches Tattoo, Technik: Graphit, Copicmarker">
+		<img src="/images/illustrationen/Tattoo2_kl.png" alt="Technisches Tattoo, Technik: Graphit, Copicmarker" width="300" height="200">
+	</a>		
+    <div class="desc">Technisches Tattoo <br> Technik: Graphit, Copicmarker</div>
+</div>
+
 <div class="gallery">
     <a href="/images/illustrationen/Toscana_Tisch-gr.jpg" rel="lightbox" title="Toskana, Technik: Acryl, Polychromos auf Leinwand, Quelle: Leslie Forbes">
 		<img src="/images/illustrationen/Toscana_Tisch-kl.jpg" alt="Toskana, Technik: Acryl, Polychromos auf Leinwand, Quelle: Leslie Forbes" width="300" height="200">
