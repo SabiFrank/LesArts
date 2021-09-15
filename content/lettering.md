@@ -15,17 +15,17 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 </div>
 
 <div class="gallery">
-    <a href="/images/lettering/Lettering2_gr.jpg" rel="lightbox" title="Lettering auf einem Richtungsweiser">
-		<img src="/images/lettering/Lettering2_kl.jpg" alt="Lettering auf einem Richtungsweiser" width="300" height="200">
+    <a href="/images/lettering/Lettering2_gr.png" rel="lightbox" title="Lettering auf einem Richtungsweiser">
+		<img src="/images/lettering/Lettering2_kl.png" alt="Lettering auf einem Richtungsweiser" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering auf einem Richtungsweiser<br> &nbsp;</div>
+    <div class="desc">Lettering auf einem Richtungsweiser<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering für Hochzeitsdeko">
 		<img src="/images/lettering/Lettering3_kl.png" alt="Lettering für Hochzeitsdeko" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering für Hochzeitsdeko<br> &nbsp;</div>
+    <div class="desc">Lettering für Hochzeitsdeko<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 
