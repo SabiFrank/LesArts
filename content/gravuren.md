@@ -143,25 +143,3 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 	</a>		
     <div class="desc">Gravur auf Weinflasche</div>
 </div>
-
-
-<!-- Inline CSS -->
-<style>
-	div.gallery {
-		margin: 5px;
-		border: 1px solid #ccc;
-		float: left;
-		width: 200px;
-	}
-	div.gallery:hover {
-		border: 1px solid #777;
-	}
-	div.gallery img {
-        width: 100%;
-        height: auto;
-	}
-	div.desc {
-		padding: 15px;
-		text-align: center;
-	}
-</style>
