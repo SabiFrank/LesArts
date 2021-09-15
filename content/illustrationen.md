@@ -404,25 +404,3 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 	</a>		
     <div class="desc">Vitruvianischer Mensch <br> Technik: Filzstift<br> Quelle: <a href="https://www.kometgroup.com/komet-tools-plus-ideas/" target="_blank" title="Weiterleitung zur der externen Website von Komet">Komet</a></div>
 </div>
-
-
-<!-- Inline CSS -->
-<style>
-	div.gallery {
-		margin: 5px;
-		border: 1px solid #ccc;
-		float: left;
-		width: 200px;
-	}
-	div.gallery:hover {
-		border: 1px solid #777;
-	}
-	div.gallery img {
-        width: 100%;
-        height: auto;
-	}
-	div.desc {
-		padding: 15px;
-		text-align: center;
-	}
-</style>
