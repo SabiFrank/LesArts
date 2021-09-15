@@ -655,7 +655,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 <div>
 	<p>&nbsp;<br></p>
 	<h2>Wandmalerei</h2> <br>
-	
+
+<p>
 <div class="gallery">
 	    <a href="/images/malerei/Japanische_Stadt_gr.jpg" rel="lightbox" title="Titel: Japanische Stadt, Technik: Acryl auf Rauhfaser, Quelle: Unbekannt">
 			<img src="/images/malerei/Japanische_Stadt_kl.jpg" alt="Titel: Japanische Stadt, Technik: Acryl auf Rauhfaser, Quelle: Unbekannt" width="300" height="200">
@@ -666,17 +667,17 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 <div class="gallery" style="border-color: transparent;">
 	<p>&nbsp;<br></p>
 	</div>
-	
 </div>
 
 <div class="gallery" style="border-color: transparent;">
 	<p>&nbsp;<br></p>
 	</div>
-	
 </div>
 
 <div class="gallery" style="border-color: transparent;">
 	<p>&nbsp;<br></p>
 	</div>
-	
+</div>
+
+</p>
 </div>
