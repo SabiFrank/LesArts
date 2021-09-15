@@ -828,7 +828,13 @@ footer.entry-meta .meta-in {
    }
 }
 
-/*Cookie Consent Begin*/
+/*********************************************************************
+
+
+                            Cookie Consent
+
+
+**********************************************************************/
 #cookieConsent {
     background-color: rgba(192,192,192);
     min-height: 26px;
@@ -873,4 +879,12 @@ footer.entry-meta .meta-in {
 #cookieConsent a.cookieConsentOK:hover {
     background-color: #acacac;
 }
-/*Cookie Consent End*/
+
+
+/*********************************************************************
+
+
+                            Gallery Lightbox Style
+
+
+**********************************************************************/
