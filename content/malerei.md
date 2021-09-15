@@ -25,10 +25,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 
 <div class="gallery">
-	    <a href="/images/malerei/alter_Mann_Kaffeesack_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italen)">
-			<img src="/images/malerei/alter_Mann_Kaffeesack_kl.jpg" alt="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italen)" width="300" height="200">
+	    <a href="/images/malerei/alter_Mann_Kaffeesack_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italien)">
+			<img src="/images/malerei/alter_Mann_Kaffeesack_kl.jpg" alt="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italien)" width="300" height="200">
 		</a>		
-	    <div class="desc">Titel: Alter Mann <br> Technik: Acryl auf Kaffeesack <br> Quelle: Raffaelo (Italen)</div>
+	    <div class="desc">Titel: Alter Mann <br> Technik: Acryl auf Kaffeesack <br> Quelle: Raffaelo (Italien)</div>
 	</div>
 
 <div class="gallery">
@@ -638,11 +638,11 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 	
 <div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
+	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
 <div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
+	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
 	
