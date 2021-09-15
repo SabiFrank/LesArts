@@ -367,7 +367,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Tattoo2_gr.png" rel="lightbox" title="Technisches Tattoo, Technik: Graphit, Copicmarker">
 		<img src="/images/illustrationen/Tattoo2_kl.png" alt="Technisches Tattoo, Technik: Graphit, Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Technisches Tattoo <br> Technik: Graphit, Copicmarker</div>
+    <div class="desc">Technisches Tattoo<br> Technik: Graphit, Copicmarker<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -388,7 +388,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Tripsdrill-gr.jpg" rel="lightbox" title="Tripsdrill, Technik: Mischtechnik, Quelle: Tripsdrill">
 		<img src="/images/illustrationen/Tripsdrill-kl.jpg" alt="Tripsdrill, Technik: Mischtechnik, Quelle: Tripsdrill" width="300" height="200">
 	</a>		
-    <div class="desc">Tripsdrill <br> Technik: Mischtechnik <br> Quelle: <a href="https://tripsdrill.de/" target="_blank" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a> <br> &nbsp; <br> &nbsp;</div>
+    <div class="desc">Tripsdrill <br> Technik: Mischtechnik <br> Quelle: <a href="https://tripsdrill.de/" target="_blank" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a></div>
 </div>
 
 <div class="gallery">
