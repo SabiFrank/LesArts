@@ -25,10 +25,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 
 <div class="gallery">
-	    <a href="/images/malerei/alter_Mann_Kaffeesack_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italen)">
-			<img src="/images/malerei/alter_Mann_Kaffeesack_kl.jpg" alt="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italen)" width="300" height="200">
+	    <a href="/images/malerei/alter_Mann_Kaffeesack_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italien)">
+			<img src="/images/malerei/alter_Mann_Kaffeesack_kl.jpg" alt="Titel: Alter Mann, Technik: Acryl auf Kaffeesack, Quelle: Raffaelo (Italien)" width="300" height="200">
 		</a>		
-	    <div class="desc">Titel: Alter Mann <br> Technik: Acryl auf Kaffeesack <br> Quelle: Raffaelo (Italen)</div>
+	    <div class="desc">Titel: Alter Mann <br> Technik: Acryl auf Kaffeesack <br> Quelle: Raffaelo (Italien)</div>
 	</div>
 
 <div class="gallery">
@@ -444,32 +444,12 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 
 <div class="gallery">
-	    <a href="/images/malerei/Wein1_gr.jpg" rel="lightbox" title="Titel: Wein 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-			<img src="/images/malerei/Wein1_kl.jpg" alt="Titel: Wein 1, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
+	    <a href="/images/malerei/Wein_gr.png" rel="lightbox" title="Titel: Wein, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
+			<img src="/images/malerei/Wein_kl.png" alt="Titel: Wein, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 		</a>		
-	    <div class="desc">Titel: Wein 1 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br> &nbsp;</div>
+	    <div class="desc">Titel: Wein<br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt <br> &nbsp;</div>
 	</div>
 
-<div class="gallery">
-	    <a href="/images/malerei/Wein2_gr.jpg" rel="lightbox" title="Titel: Wein 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-			<img src="/images/malerei/Wein2_kl.jpg" alt="Titel: Wein 2, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
-		</a>		
-	    <div class="desc">Titel: Wein 2 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Wein3_gr.jpg" rel="lightbox" title="Titel: Wein 3, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-			<img src="/images/malerei/Wein3_kl.jpg" alt="Titel: Wein 3, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
-		</a>		
-	    <div class="desc">Titel: Wein 3 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Wein4_gr.jpg" rel="lightbox" title="Titel: Wein 4, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-			<img src="/images/malerei/Wein4_kl.jpg" alt="Titel: Wein 4, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
-		</a>		
-	    <div class="desc">Titel: Wein 4 <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
-	</div>
 
 <div class="gallery">
 	    <a href="/images/malerei/Weingläser_gr.jpg" rel="lightbox" title="Titel: Weingläser, Technik: Acryl auf Leinwand">
@@ -486,10 +466,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 
 <div class="gallery">
-	    <a href="/images/malerei/Wüste_gr.jpg" rel="lightbox" title="Titel: Wüste, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
-			<img src="/images/malerei/Wüste_kl.jpg" alt="Titel: Wüste, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
+	    <a href="/images/malerei/Wüste_gr.png" rel="lightbox" title="Titel: Wüste, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
+			<img src="/images/malerei/Wüste_kl.png" alt="Titel: Wüste, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 		</a>		
-	    <div class="desc">Titel: Wüste <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
+	    <div class="desc">Titel: Wüste<br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
 	</div>
 
 <div class="gallery">
@@ -572,7 +552,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 
 <div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br><br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
+	<p><br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
 </p>
@@ -623,38 +603,25 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </div>
 
 
-
+<!-- Zeichnungen -->
 <div>
 	<p>&nbsp;<br></p>
 	<h2>Zeichnungen</h2> <br>
 <p>
 <div class="gallery">
-	    <a href="/images/malerei/Alter_Mann_gr.jpg" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
-			<img src="/images/malerei/Alter_Mann_kl.jpg" alt="Titel: Alter Mann, Technik: Graphit auf Papier" width="300" height="200">
+	    <a href="/images/malerei/Alter_Mann_gr.png" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
+			<img src="/images/malerei/Alter_Mann_kl.png" alt="Titel: Alter Mann, Technik: Graphit auf Papier" width="300" height="200">
 		</a>		
 	    <div class="desc">Titel: Alter Mann <br> Technik: Graphit auf Papier</div>
 	</div>
 
 <div class="gallery">
-	    <a href="/images/malerei/Naila_gr.jpg" rel="lightbox" title="Titel: Naila, Technik: Graphit auf Papier">
-			<img src="/images/malerei/Naila_kl.jpg" alt="Titel: Naila, Technik: Graphit auf Papier" width="300" height="200">
+	    <a href="/images/malerei/Naila_Portrait_gr.png" rel="lightbox" title="Titel: Naila, Technik: Graphit auf Papier">
+			<img src="/images/malerei/Naila_Portrait_kl.png" alt="Titel: Naila, Technik: Graphit auf Papier" width="300" height="200">
 		</a>		
 	    <div class="desc">Titel: Naila <br> Technik: Graphit auf Papier</div>
 	</div>
 
-<div class="gallery">
-	    <a href="/images/malerei/Sabrina_Cosplay_gr.jpg" rel="lightbox" title="Titel: Sabrina Cosplay, Technik: Graphit auf Papier">
-			<img src="/images/malerei/Sabrina_Cosplay_kl.jpg" alt="Titel: Sabrina Cosplay, Technik: Graphit auf Papier" width="300" height="200">
-		</a>		
-	    <div class="desc">Titel: Sabrina Cosplay <br> Technik: Graphit auf Papier</div>
-	</div>
-
-<div class="gallery">
-	    <a href="/images/malerei/Sabrina_gr.jpg" rel="lightbox" title="Titel: Sabrina, Technik: Graphit auf Papier">
-			<img src="/images/malerei/Sabrina_kl.jpg" alt="Titel: Sabrina, Technik: Graphit auf Papier" width="300" height="200">
-		</a>		
-	    <div class="desc">Titel: Sabrina <br> Technik: Graphit auf Papier</div>
-	</div>
 
 <div class="gallery">
 	    <a href="/images/malerei/Sina_gr.jpg" rel="lightbox" title="Titel: Sina, Technik: Graphit auf Papier, Airbrush">
@@ -664,30 +631,27 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	</div>
 
 <div class="gallery">
-	    <a href="/images/malerei/Svetlana_gr.jpg" rel="lightbox" title="Titel: Svetlana, Technik: Graphit auf Papier">
-			<img src="/images/malerei/Svetlana_kl.jpg" alt="Titel: Svetlana, Technik: Graphit auf Papier" width="300" height="200">
+	    <a href="/images/malerei/Svetlana_Portrait_gr.png" rel="lightbox" title="Titel: Svetlana, Technik: Graphit auf Papier">
+			<img src="/images/malerei/Svetlana_Portrait_kl.png" alt="Titel: Svetlana, Technik: Graphit auf Papier" width="300" height="200">
 		</a>		
 	    <div class="desc">Titel: Svetlana <br> Technik: Graphit auf Papier</div>
 	</div>
 	
 <div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br></p>
+	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
 <div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br></p>
+	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br></p>
-	</div>
 	
 	
 </p>
 </div>
 
 
-
+<!-- Wandmalerei -->
 <div>
 	<p>&nbsp;<br></p>
 	<h2>Wandmalerei</h2> <br>
