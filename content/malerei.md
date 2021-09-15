@@ -645,9 +645,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	<p>&nbsp;<br></p>
 	</div>
 	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br></p>
-	</div>
 	
 	
 </p>
