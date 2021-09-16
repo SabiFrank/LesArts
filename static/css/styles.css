@@ -841,7 +841,7 @@ footer.entry-meta .meta-in {
     font-size: 14px;
     color: #222222;
     line-height: 26px;
-    padding: 8px 30px 8px 30px;
+    padding: 10px 30px 10px 30px;
     font-family: "Trebuchet MS",Helvetica,sans-serif;
     position: fixed;
     bottom: 0;
@@ -865,7 +865,7 @@ footer.entry-meta .meta-in {
 }
 #closeCookieConsent:hover {
     color: #FFF;
-}
+}*/
 #cookieConsent a.cookieConsentOK {
     background-color: #989898;
     color: #fafafa;
@@ -877,19 +877,6 @@ footer.entry-meta .meta-in {
     margin: 0 60px 0 10px;
 }
 #cookieConsent a.cookieConsentOK:hover {
-    background-color: #acacac;
-}*/
-#cookieConsent cookieConsentOK {
-    background-color: #989898;
-    color: #fafafa;
-    display: inline-block;
-    border-radius: 5px;
-    padding: 0 30px;
-    cursor: pointer;
-    float: right;
-    margin: 0 60px 0 10px;
-}
-#cookieConsent cookieConsentOK:hover {
     background-color: #acacac;
 }
 
