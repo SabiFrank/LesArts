@@ -19,8 +19,8 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 
 ### Ausstellungen
 
-* 2005 Galerie im Rundturm, GKN Neckarwestheim
-* 2006 Kulturscheuer, Bönnigheim
+* 2005 &nbsp; Galerie im Rundturm, GKN Neckarwestheim
+* 2006 emsp   Kulturscheuer, Bönnigheim
 * 2007 Gesundbrunnen, Heilbronn
 * 2008 Sympra, Stuttgart
 * 2009 Galerie Pfeil, Heilbronn
