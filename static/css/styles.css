@@ -860,9 +860,8 @@ footer.entry-meta .meta-in {
     cursor: pointer;
     height: 20px;
     width: 20px;
-    margin: -15px 0 0 0;
+    margin: -15px 2px 2px 2px;
     font-weight: bold;
-    margin: 2px;
 }
 #closeCookieConsent:hover {
     color: #FFF;
