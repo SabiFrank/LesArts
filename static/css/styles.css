@@ -841,7 +841,7 @@ footer.entry-meta .meta-in {
     font-size: 14px;
     color: #222222;
     line-height: 26px;
-    padding: 8px 0 8px 30px;
+    padding: 8px 10px 8px 30px;
     font-family: "Trebuchet MS",Helvetica,sans-serif;
     position: fixed;
     bottom: 0;
@@ -862,7 +862,7 @@ footer.entry-meta .meta-in {
     width: 20px;
     margin: -15px 0 0 0;
     font-weight: bold;
-    margin: 2px;
+    margin-top: 1px;
 }
 #closeCookieConsent:hover {
     color: #FFF;
