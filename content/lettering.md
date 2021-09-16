@@ -28,7 +28,7 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 </div>
 	
 <div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br></p>
+	<p>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br></p>
 	</div>
 </div>
 
@@ -222,7 +222,6 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
     <a href="/images/lettering/Winter2_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
 		<img src="/images/lettering/Winter2_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
-    <div class="desc"></div>
 </div>
 
 </p>
