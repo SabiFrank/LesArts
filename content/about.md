@@ -19,14 +19,14 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 
 ### Ausstellungen
 
-* 2005 &nbsp;&nbsp; Galerie im Rundturm, GKN Neckarwestheim
-* 2006 emsp emsp Kulturscheuer, Bönnigheim
-* 2007 emsp emsp Gesundbrunnen, Heilbronn
-* 2008 emsp emsp Sympra, Stuttgart
-* 2009 emsp emsp Galerie Pfeil, Heilbronn
-* 2009 emsp emsp Kassenärztliche Vereinigung Baden-Württemberg, Stuttgart
-* 2009 emsp emsp Rathaus, Neckarwestheim
-* 2010 - 2021 Dauerausstellung Gasthaus Krone, Neckarwestheim
+* 2005 Galerie im Rundturm, GKN Neckarwestheim
+* 2006 Kulturscheuer, Bönnigheim
+* 2007 Gesundbrunnen, Heilbronn
+* 2008 Sympra, Stuttgart
+* 2009 Galerie Pfeil, Heilbronn
+* 2009 Kassenärztliche Vereinigung Baden-Württemberg, Stuttgart
+* 2009 Rathaus, Neckarwestheim
+* 2010 - heute Dauerausstellung Gasthaus Krone, Neckarwestheim
 
 ### Arbeitserfahrung
 
