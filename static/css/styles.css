@@ -1064,6 +1064,7 @@ body {
   font-size: 14px;
 }
 
+/*
 .notfound-social {
   margin-bottom: 15px;
 }
@@ -1083,6 +1084,7 @@ body {
   color: #fff;
   background-color: #ff00b4;
 }
+*/
 
 @media only screen and (max-width: 480px) {
   .notfound .notfound-404 {
