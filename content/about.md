@@ -35,7 +35,7 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 * 1985 - 1987 &nbsp;Werbeagentur Klaiber & Partner, Stuttgart
 * 1987 - 1991 &nbsp;Werbeagentur Wensauer & Partner, Ludwigsburg
 * 1991 - 2021 &nbsp;Selbstständig als freie Malerin/Illustratorin
-* 2012 - 2013 &nbsp;Kunsttherapeutin, Universitätsklinikum Heidelberg, Kinderkardiologie & -onkologie
+* 2012 - 2013 &nbsp;Kunsttherapeutin, Uniklinik Heidelberg, Kinderkardiologie & -onkologie
 
 ### Ausbildung
 
