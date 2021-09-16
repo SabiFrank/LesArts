@@ -9,7 +9,6 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 <!-- Karten -->
 <div>
 	<h2>Tusche</h2> 
-
 <p>
 	
 <div class="gallery">
@@ -38,15 +37,12 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 <!-- Tafeln -->
 <div>
 	<h2>Flüssigkreide</h2> 
-	<p><br></p>
-
 <p>
 	
 <div class="gallery">
     <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering für Hochzeitsdeko">
 		<img src="/images/lettering/Lettering3_kl.png" alt="Lettering für Hochzeitsdeko" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering für Hochzeitsdeko</div>
 </div>
 
 <div class="gallery">
