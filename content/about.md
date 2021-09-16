@@ -19,7 +19,7 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 
 ### Ausstellungen
 
-* 2005 emsp emsp Galerie im Rundturm, GKN Neckarwestheim
+* 2005 &nbsp;&nbsp; Galerie im Rundturm, GKN Neckarwestheim
 * 2006 emsp emsp Kulturscheuer, Bönnigheim
 * 2007 emsp emsp Gesundbrunnen, Heilbronn
 * 2008 emsp emsp Sympra, Stuttgart
