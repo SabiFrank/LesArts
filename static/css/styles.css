@@ -862,7 +862,7 @@ footer.entry-meta .meta-in {
     width: 20px;
     margin: -15px 0 0 0;
     font-weight: bold;
-    margin-top: 1px;
+    margin: 2px;
 }
 #closeCookieConsent:hover {
     color: #FFF;
