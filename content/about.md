@@ -26,7 +26,7 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 * 2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Galerie Pfeil, Heilbronn
 * 2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kassenärztliche Vereinigung Baden-Württemberg, Stuttgart
 * 2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rathaus, Neckarwestheim
-* seit 2010 &nbsp;Dauerausstellung Gasthaus Krone, Neckarwestheim
+* seit 2010 &nbsp; Dauerausstellung Gasthaus Krone, Neckarwestheim
 
 ### Arbeitserfahrung
 
