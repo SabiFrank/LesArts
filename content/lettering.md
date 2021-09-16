@@ -7,6 +7,12 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 
 <!-- Karten -->
+<div>
+	<h2>Tusche</h2> 
+	<p><br></p>
+
+<p>
+	
 <div class="gallery">
     <a href="/images/lettering/Lettering1_gr.png" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg">
 		<img src="/images/lettering/Lettering1_kl.png" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg" width="300" height="200">
@@ -20,7 +26,23 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 	</a>		
     <div class="desc">Lettering auf einem Richtungsweiser<br> &nbsp;<br> &nbsp;</div>
 </div>
+	
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br></p>
+	</div>
+</div>
 
+</p>
+</div>
+
+
+<!-- Tafeln -->
+<div>
+	<h2>Flüssigkreide</h2> 
+	<p><br></p>
+
+<p>
+	
 <div class="gallery">
     <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering für Hochzeitsdeko">
 		<img src="/images/lettering/Lettering3_kl.png" alt="Lettering für Hochzeitsdeko" width="300" height="200">
@@ -28,8 +50,6 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
     <div class="desc">Lettering für Hochzeitsdeko<br> &nbsp;<br> &nbsp;</div>
 </div>
 
-
-<!-- Tafeln -->
 <div class="gallery">
     <a href="/images/lettering/Brazil1_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
 		<img src="/images/lettering/Brazil1_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
@@ -202,5 +222,8 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
     <a href="/images/lettering/Winter2_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
 		<img src="/images/lettering/Winter2_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering mit Flüssigkreide</div>
+    <div class="desc"></div>
+</div>
+
+</p>
 </div>
