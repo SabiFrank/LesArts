@@ -19,13 +19,13 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 
 ### Ausstellungen
 
-* 2005 &nbsp;&nbsp;&nbsp;&nbsp; Galerie im Rundturm, GKN Neckarwestheim
-* 2006 &nbsp;&nbsp;&nbsp;&nbsp; Kulturscheuer, Bönnigheim
-* 2007 &nbsp;&nbsp;&nbsp;&nbsp; Gesundbrunnen, Heilbronn
-* 2008 &nbsp;&nbsp;&nbsp;&nbsp; Sympra, Stuttgart
-* 2009 &nbsp;&nbsp;&nbsp;&nbsp; Galerie Pfeil, Heilbronn
-* 2009 &nbsp;&nbsp;&nbsp;&nbsp; Kassenärztliche Vereinigung Baden-Württemberg, Stuttgart
-* 2009 &nbsp;&nbsp;&nbsp;&nbsp; Rathaus, Neckarwestheim
+* 2005 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Galerie im Rundturm, GKN Neckarwestheim
+* 2006 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kulturscheuer, Bönnigheim
+* 2007 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gesundbrunnen, Heilbronn
+* 2008 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sympra, Stuttgart
+* 2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Galerie Pfeil, Heilbronn
+* 2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kassenärztliche Vereinigung Baden-Württemberg, Stuttgart
+* 2009 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rathaus, Neckarwestheim
 * 2010 - heute &nbsp;Dauerausstellung Gasthaus Krone, Neckarwestheim
 
 ### Arbeitserfahrung
