@@ -462,7 +462,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/Windmühle_gr.jpg" rel="lightbox" title="Titel: Windmühle, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 			<img src="/images/malerei/Windmühle_kl.jpg" alt="Titel: Windmühle, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
 		</a>		
-	    <div class="desc">Titel: Windmühle <br> Technik: Acryl auf Leinwand <br> Quelle: Unbekannt</div>
+	    <div class="desc">Titel: Windmühle<br>Quelle: Unbekannt</div>
 	</div>
 
 <div class="gallery">
