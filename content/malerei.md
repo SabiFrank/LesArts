@@ -555,10 +555,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Titel: Japanische Stadt<br>Quelle: Unbekannt</div>
 	</div>
-	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
-	</div>
 
 </p>
 </div>
@@ -589,9 +585,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <div class="desc">Titel: The World</div>
 	</div>
 	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
-	</div>
 </p>
 </div>
 
