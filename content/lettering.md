@@ -15,21 +15,21 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
     <a href="/images/lettering/Lettering1_gr.png" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg">
 		<img src="/images/lettering/Lettering1_kl.png" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering für Mitarbeiter des Breunigerland Ludiwgsburg</div>
+    <div class="desc">Lettering für Breunigerland Mitarbeiter</div>
 </div>
 
 <div class="gallery">
     <a href="/images/lettering/Lettering2_gr.png" rel="lightbox" title="Lettering auf einem Richtungsweiser">
 		<img src="/images/lettering/Lettering2_kl.png" alt="Lettering auf einem Richtungsweiser" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering für Richtungsweiser<br> &nbsp;<br> &nbsp;</div>
+    <div class="desc">Lettering für Richtungsweiser<br> &nbsp;</div>
 </div>
 	
 <div class="gallery">
     <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering LesArts Logo">
 		<img src="/images/lettering/Lettering3_kl.png" alt="Lettering LesArts Logo" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering für LesArts Logo<br> &nbsp;<br> &nbsp;</div>
+    <div class="desc">Lettering für LesArts Logo<br> &nbsp;</div>
 </div>
 
 </p>
