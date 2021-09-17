@@ -8,7 +8,7 @@ weight = 2
 +++
 ## Lebenslauf
 <p>
-<img src="/images/about.jpg" alt="Maria Frank, Künstlerin aus Neckarwestheim in ihrem Atelier während eines Workshops." style="float:right; width:auto; height:210px; margin:20px;">
+<img src="/images/about.jpg" alt="Maria Frank, Künstlerin aus Neckarwestheim in ihrem Atelier während eines Workshops." style="float:right; width:auto; height:210px; margin-left:20px;">
 
 
 Mein Name ist Maria Frank. Mit meinem Mann und meiner <a href="https://www.facebook.com/ArtCommissionsSabrinaFrank/?hc_ref=ARR9arXFIz3T4Er-GgksNx6qDZwJypIJJEXeZtxddSoqpGK_FbNH8HO1ToS0nVWu1iU&fref=nf" title="Weiterleitung zu der externen Facebook-Seite für Auftragsarbeiten (Bleistiftzeichnungen) von Sabrina Frank">Tochter</a> lebe und arbeite ich in Neckarwestheim. In meinem Atelier biete ich <a href="https://www.lesarts-mariafrank.de/service/workshops/" title="Weiterleitung zu den Angeboten &ldquo;Malkurse und Workshops&rdquo; dieser Website">Malkurse und Workshops</a> an, in denen ich individuell auf persönliche Vorstellungen eingehen kann.
