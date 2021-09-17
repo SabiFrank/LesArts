@@ -8,7 +8,7 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 <!-- Karten -->
 <div>
-	<h2>Tusche</h2> 
+	<h2 id="Tusche">Tusche</h2> 
 <p>
 	
 <div class="gallery">
@@ -38,7 +38,7 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 <!-- Tafeln -->
 <div>
-	<h2>Flüssigkreide</h2> 
+	<h2 id="Flüssigkreide">Flüssigkreide</h2> 
 <p>
 	
 <div class="gallery">
