@@ -1,5 +1,5 @@
 +++
-date = "2018-05-16T17:17:21+02:00"
+date = "2021-09-17T10:00:00+02:00"
 title = "Lettering"
 type = "portfolio"
 +++
@@ -22,12 +22,14 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
     <a href="/images/lettering/Lettering2_gr.png" rel="lightbox" title="Lettering auf einem Richtungsweiser">
 		<img src="/images/lettering/Lettering2_kl.png" alt="Lettering auf einem Richtungsweiser" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering auf einem Richtungsweiser<br> &nbsp;<br> &nbsp;</div>
+    <div class="desc">Lettering für Richtungsweiser<br> &nbsp;<br> &nbsp;</div>
 </div>
 	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br></p>
-	</div>
+<div class="gallery">
+    <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering LesArts Logo">
+		<img src="/images/lettering/Lettering3_kl.png" alt="Lettering LesArts Logo" width="300" height="200">
+	</a>		
+    <div class="desc">Lettering für LesArts Logo<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 </p>
@@ -106,11 +108,17 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 </div>
 
 <div class="gallery">
-    <a href="/images/lettering/Summer_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
-		<img src="/images/lettering/Summer_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+    <a href="/images/lettering/Summer1_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Summer1_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
 </div>
 
+<div class="gallery">
+    <a href="/images/lettering/Summer2_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Summer2_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+	</a>		
+</div>
+	
 <div class="gallery">
     <a href="/images/lettering/Tafel1_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
 		<img src="/images/lettering/Tafel1_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
@@ -170,6 +178,12 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 		<img src="/images/lettering/Tafel10_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
 </div>
+	
+<div class="gallery">
+    <a href="/images/lettering/Tafel11_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Tafel11_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+	</a>		
+</div>
 
 <div class="gallery">
     <a href="/images/lettering/Wellness1_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
@@ -182,6 +196,12 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 		<img src="/images/lettering/Wellness2_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
 </div>
+	
+<div class="gallery">
+    <a href="/images/lettering/Wellness3_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Wellness3_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+	</a>		
+</div>
 
 <div class="gallery">
     <a href="/images/lettering/Winter1_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
@@ -192,6 +212,12 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 <div class="gallery">
     <a href="/images/lettering/Winter2_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
 		<img src="/images/lettering/Winter2_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+	</a>		
+</div>
+	
+<div class="gallery">
+    <a href="/images/lettering/Winter3_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Winter3_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
 </div>
 
