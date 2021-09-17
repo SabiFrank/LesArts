@@ -10,16 +10,12 @@
         "url": "https://LesArts-MariaFrank.de/malerei#Acryl"
       },
       {
-        "name": "Graphit",
-        "url": "https://LesArts-MariaFrank.de/malerei#Graphit"
-      },
-      {
-        "name": "Pastellkreide",
-        "url": "https://LesArts-MariaFrank.de/malerei#Pastellkreide"
-      },
-      {
         "name": "Mischtechnik",
         "url": "https://LesArts-MariaFrank.de/malerei#Mischtechnik"
+      },
+      {
+        "name": "Graphit",
+        "url": "https://LesArts-MariaFrank.de/malerei#Graphit"
       }
     ]
   },
@@ -107,14 +103,6 @@
     "items": [
       {
         "name": "Stoffpuppen",
-        "url": "https://LesArts-MariaFrank.de/stoffwerke/"
-      },
-      {
-        "name": "Stofftiere",
-        "url": "https://LesArts-MariaFrank.de/stoffwerke/"
-      },
-      {
-        "name": "Stoffgegenstände",
         "url": "https://LesArts-MariaFrank.de/stoffwerke/"
       }
     ]
