@@ -26,8 +26,8 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 </div>
 	
 <div class="gallery">
-    <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering LesArts Logo">
-		<img src="/images/lettering/Lettering3_kl.png" alt="Lettering LesArts Logo" width="300" height="200">
+    <a href="/images/lettering/Lettering4_gr.png" rel="lightbox" title="Lettering LesArts Logo">
+		<img src="/images/lettering/Lettering4_kl.png" alt="Lettering LesArts Logo" width="300" height="200">
 	</a>		
     <div class="desc">Lettering für LesArts Logo<br> &nbsp;</div>
 </div>
