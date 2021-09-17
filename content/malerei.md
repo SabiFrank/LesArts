@@ -6,8 +6,7 @@ type = "portfolio"
 Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden, geordnet nach generell genutzter Technik. Sie finden zu jedem Bild den Titel und die Quelle der eventuell genutzte Vorlagen anderer Künstlern. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sowie die exakt verwendete Technik sehen zu können.
 
 <div>
-	<h2 id="Acryl">Acryl</h2> 
-	<p><br></p>
+	<h2 id="Acryl">Acryl</h2>
 
 <p>
 <div class="gallery">
@@ -49,7 +48,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/Atomzeit_gr.jpg" rel="lightbox" title="Titel: Atomzeit, Technik: Acryl auf Leinwand">
 			<img src="/images/malerei/Atomzeit_kl.jpg" alt="Titel: Atomzeit, Technik: Acryl auf Leinwand" width="300" height="200">
 		</a>		
-	    <div class="desc">Titel: Atomzeit<br><br>&nbsp;</div>
+	    <div class="desc">Titel: Atomzeit<br>&nbsp;</div>
 	</div>
 
 <div class="gallery">
@@ -540,7 +539,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/affen_gr.png" rel="lightbox" title="Titel: Schimpansenliebe, Technik: Acryl Open auf Leinwand">
 			<img src="/images/malerei/affen_kl.png" alt="Titel: Schimpansenliebe, Technik: Acryl Open auf Leinwand" width="300" height="200">
 		</a>		
-	    <div class="desc"> Titel: Schimpansenliebe</div>
+	    <div class="desc"> Titel: Schimpansenliebe<br>&nbsp;</div>
 	</div>
 	
 <div class="gallery">
@@ -563,7 +562,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 <div>
 	<p>&nbsp;<br></p>
-	<h2 id="Mischtechnik">Mischtechnik</h2> <br>
+	<p>&nbsp;<br></p>
+	<h2 id="Mischtechnik">Mischtechnik</h2>
 
 <p>
 <div class="gallery">
@@ -594,7 +594,9 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 <!-- Zeichnungen -->
 <div>
 	<p>&nbsp;<br></p>
-	<h2 id="Zeichnungen">Zeichnungen</h2> <br>
+	<p>&nbsp;<br></p>
+	<h2 id="Graphit">Graphit</h2>
+	
 <p>
 <div class="gallery">
 	    <a href="/images/malerei/Alter_Mann_gr.png" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
@@ -633,7 +635,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
 	</div>
 	
-	
-	
+
 </p>
 </div>
