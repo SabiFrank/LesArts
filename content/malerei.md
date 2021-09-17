@@ -555,14 +555,16 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Titel: Japanische Stadt<br>Quelle: Unbekannt</div>
 	</div>
+	
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
+	</div>
 
 </p>
 </div>
 
 
 <div>
-	<p>&nbsp;<br></p>
-	<p>&nbsp;<br></p>
 	<h2 id="Mischtechnik">Mischtechnik</h2>
 
 <p>
@@ -587,14 +589,15 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <div class="desc">Titel: The World</div>
 	</div>
 	
+<div class="gallery" style="border-color: transparent;">
+	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
+	</div>
 </p>
 </div>
 
 
 <!-- Zeichnungen -->
 <div>
-	<p>&nbsp;<br></p>
-	<p>&nbsp;<br></p>
 	<h2 id="Graphit">Graphit</h2>
 	
 <p>
