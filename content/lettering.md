@@ -7,7 +7,7 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 
 <!-- Karten -->
-<div class="gallery">
+<div class="row.section.topspace">
 	<h2 id="Tusche">Tusche</h2> 
 <p>
 	
@@ -37,7 +37,7 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 
 <!-- Tafeln -->
-<div class="gallery">
+<div class="row.section.topspace">
 	<h2 id="Flüssigkreide" style="margin-top: 20px;">Flüssigkreide</h2> 
 <p>
 	
