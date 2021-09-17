@@ -22,14 +22,14 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
     <a href="/images/lettering/Lettering2_gr.png" rel="lightbox" title="Lettering auf einem Richtungsweiser">
 		<img src="/images/lettering/Lettering2_kl.png" alt="Lettering auf einem Richtungsweiser" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering für Richtungsweiser<br> &nbsp;</div>
+    <div class="desc">Lettering für Richtungsweiser<br>&nbsp;</div>
 </div>
 	
 <div class="gallery">
     <a href="/images/lettering/Lettering4_gr.png" rel="lightbox" title="Lettering LesArts Logo">
 		<img src="/images/lettering/Lettering4_kl.png" alt="Lettering LesArts Logo" width="300" height="200">
 	</a>		
-    <div class="desc">Lettering für LesArts Logo<br> &nbsp;</div>
+    <div class="desc">Lettering für LesArts Logo<br>&nbsp;</div>
 </div>
 
 </p>
@@ -38,7 +38,7 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 <!-- Tafeln -->
 <div>
-	<p></p>
+	<p>&nbsp;<br></p>
 	<h2 id="Flüssigkreide">Flüssigkreide</h2> 
 <p>
 	
