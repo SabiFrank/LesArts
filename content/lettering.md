@@ -38,8 +38,7 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 <!-- Tafeln -->
 <div>
-	<p>&nbsp;<br></p>
-	<h2 id="Flüssigkreide">Flüssigkreide</h2> 
+	<h2 id="Flüssigkreide" style="margin-top: 20px;">Flüssigkreide</h2> 
 <p>
 	
 <div class="gallery">
