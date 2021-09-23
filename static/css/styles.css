@@ -290,11 +290,11 @@ img {
   text-transform: uppercase;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
-  -webkit-border-radius: 0px;
+  -webkit-border-radius: 0;
   -webkit-background-clip: padding-box;
-  -moz-border-radius: 0px;
+  -moz-border-radius: 0;
   -moz-background-clip: padding;
-  border-radius: 0px;
+  border-radius: 0;
   background-clip: padding-box;
   -webkit-transition-property: all;
   -moz-transition-property: all;
@@ -307,7 +307,7 @@ img {
   transition-duration: 0.2s;
   border: 0 none;
   padding: 12px 35px;
-  text-shadow: 0 1px 0px #780d33;
+  text-shadow: 0 1px 0 #780d33;
 }
 .btn-primary {
   color: #fff;
@@ -462,7 +462,7 @@ img {
   font-size: 12px;
   font-size: 0.75rem;
   text-transform: uppercase;
-  text-shadow: 0 1px 0px #780d33;
+  text-shadow: 0 1px 0 #780d33;
   background: #bd1550;
   color: white;
 }
@@ -514,7 +514,7 @@ img {
   display: block;
   width: 100%;
   overflow: hidden;
-  margin: 0px 0 25px;
+  margin: 0 0 25px;
   text-align: center;
   font-weight: 300;
   text-transform: uppercase;
@@ -658,7 +658,28 @@ footer.entry-meta .meta-in {
   margin-top: 0;
   margin-bottom: 30px;
 }
+/*********************************************************************
 
+                            Gallery Lightbox Style
+
+**********************************************************************/
+	.gallery {
+		margin: 5px;
+		border: 1px solid #ccc;
+		float: left;
+		width: 200px;
+	}
+	.gallery:hover {
+		border: 1px solid #777;
+	}
+	.gallery img {
+        width: 100%;
+        height: auto;
+	}
+	.desc {
+		padding: 15px;
+		text-align: center;
+	}
 /*********************************************************************
 
 
@@ -716,28 +737,26 @@ footer.entry-meta .meta-in {
 }
 /*********************************************************************
 
-
                                 SHARE THIS
-
 
 **********************************************************************/
 .st-custom-button[data-network] {
    background-color: #fff;
    display: inline-block;
-   padding: 0px 5px 20px 5px;
+   padding: 0 5px 20px 5px;
    cursor: pointer;
    font-weight: bold;
    color: #666666;
-   &:hover, &:focus {
+}
+.st-custom-button[data-network]:hover {
       color: #004488;
    }
-}
-
+.st-custom-button[data-network]:focus {
+      color: #004488;
+   }
 /*********************************************************************
 
-
                             Cookie Consent
-
 
 **********************************************************************/
 #cookieConsent {
@@ -772,43 +791,3 @@ footer.entry-meta .meta-in {
 #cookieConsent a.cookieConsentOK:hover {
     background-color: #acacac;
 }
-
-/*
-#closeCookieConsent {
-    float: right;
-    display: inline-block;
-    cursor: pointer;
-    height: 20px;
-    width: 20px;
-    margin: 10px 5px 5px 5px;
-    font-weight: bold;
-}
-#closeCookieConsent:hover {
-    color: #FFF;
-}
-*/
-
-/*********************************************************************
-
-
-                            Gallery Lightbox Style
-
-
-**********************************************************************/
-	.gallery {
-		margin: 5px;
-		border: 1px solid #ccc;
-		float: left;
-		width: 200px;
-	}
-	.gallery:hover {
-		border: 1px solid #777;
-	}
-	.gallery img {
-        width: 100%;
-        height: auto;
-	}
-	.desc {
-		padding: 15px;
-		text-align: center;
-	}
