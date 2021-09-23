@@ -32,11 +32,9 @@
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	<!-- Custom styles -->
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
-	
 	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/lightbox.css">
 		
 	<!--[if lt IE 9]> <script src="js/html5shiv.js"></script> <![endif]-->
-	
 	<!-- 404 -->
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -44,7 +42,6 @@
 		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
-
 
     {{ if .Site.Params.customsharethis }}
         <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=custom-share-buttons"></script>
@@ -62,7 +59,7 @@
 			<span class="title">{{ .Site.Params.name }}</span>
 			<span class="tagline">
 				{{ .Site.Params.description }}<br>
-				<a href="">{{ .Site.Params.email }}</a>
+				<!-- <a href="">{{ .Site.Params.email }}</a> -->
            		</span>
 		</h1>
 	</div>
