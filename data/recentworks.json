@@ -7,19 +7,15 @@
     "items": [
       {
         "name": "Acryl",
-        "url": "#"
-      },
-      {
-        "name": "Graphit",
-        "url": "#"
-      },
-      {
-        "name": "Pastellkreide",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/malerei#Acryl"
       },
       {
         "name": "Mischtechnik",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/malerei#Mischtechnik"
+      },
+      {
+        "name": "Graphit",
+        "url": "https://LesArts-MariaFrank.de/malerei#Graphit"
       }
     ]
   },
@@ -31,31 +27,31 @@
     "items": [
       {
         "name": "Acryl",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/illustrationen#Acryl"
       },
       {
         "name": "Aquarell",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/illustrationen#Aquarell"
       },
       {
         "name": "Airbrush",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/illustrationen#Airbrush"
       },
       {
         "name": "Mischtechnik",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/illustrationen#Mischtechnik"
       },
       {
         "name": "Pastellkreide",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/illustrationen#Pastellkreide"
       },
       {
         "name": "Polychromos",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/illustrationen#Polychromos"
       },
       {
         "name": "Tusche",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/illustrationen#Tusche"
       }
     ]
   },
@@ -67,7 +63,7 @@
     "items": [
       {
         "name": "Acryl",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/gutscheine"
       }
     ]
   },
@@ -79,11 +75,11 @@
     "items": [
       {
         "name": "Tusche",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/lettering#Tusche"
       },
       {
-        "name": "Kreide",
-        "url": "#"
+        "name": "Flüssigkreide",
+        "url": "https://LesArts-MariaFrank.de/lettering#Flüssigkreide"
       }
     ]
   },
@@ -95,7 +91,7 @@
     "items": [
       {
         "name": "Glasgravur",
-        "url": "#"
+        "url": "https://LesArts-MariaFrank.de/gravuren/"
       }
     ]
   },
@@ -106,16 +102,8 @@
     "url": "https://LesArts-MariaFrank.de/stoffwerke/",
     "items": [
       {
-        "name": "Stoffpuppen",
-        "url": "#"
-      },
-      {
-        "name": "Stofftiere",
-        "url": "#"
-      },
-      {
-        "name": "Stoffgegenstände",
-        "url": "#"
+        "name": "Stoffwerke",
+        "url": "https://LesArts-MariaFrank.de/stoffwerke/"
       }
     ]
   }
