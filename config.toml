@@ -13,7 +13,7 @@ address = "Heilbronner Straße 16, 74382 Neckarwestheim"
 background = ""
 dateform = ""
 description = "Artist // Freelancer // Art teacher"
-email = "mariafrank57@gmail.com"
+email = "lesarts.mariafrank@gmail.com"
 favicon = "/static/images/gt_favicon.png"
 footerenablecontact = true
 footerenablefollowme = true
@@ -38,7 +38,7 @@ icon = "fa-envelope"
 network = "email"
 sharethis = true
 title = "E-Mail"
-url = "mailto:mariafrank57@gmail.com"
+url = "mailto:lesarts.mariafrank@gmail.com"
 [[params.social]]
 footer = true
 icon = "fa-facebook-square"
