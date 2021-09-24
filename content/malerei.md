@@ -5,8 +5,10 @@ type = "portfolio"
 +++
 Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden, geordnet nach generell genutzter Technik. Sie finden zu jedem Bild den Titel und die Quelle der eventuell genutzte Vorlagen anderer Künstlern. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sowie die exakt verwendete Technik sehen zu können.
 
-<div>
+<div class="container">
+<p>
 	<h2 id="Acryl">Acryl</h2>
+</p>
 
 <p>
 <div class="gallery">
@@ -560,8 +562,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 </div>
 
 
-<div>
+<div class="container">
+<p>
 	<h2 id="Mischtechnik">Mischtechnik</h2>
+</p>
 
 <p>
 <div class="gallery">
@@ -590,9 +594,10 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 
 
 <!-- Zeichnungen -->
-<div>
+<div class="container">
+<p>
 	<h2 id="Graphit">Graphit</h2>
-	
+</p>
 <p>
 <div class="gallery">
 	    <a href="/images/malerei/Alter_Mann_gr.png" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
@@ -623,14 +628,5 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <div class="desc">Titel: Svetlana</div>
 	</div>
 	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
-	</div>
-	
-<div class="gallery" style="border-color: transparent;">
-	<p>&nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;<br> &nbsp;</p>
-	</div>
-	
-
 </p>
 </div>
