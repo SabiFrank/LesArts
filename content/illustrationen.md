@@ -330,7 +330,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Forum_Ludwigsburg-gr.jpg" rel="lightbox" title="Forum Ludwigsburg 3, Technik: Filzstift">
 		<img src="/images/illustrationen/Forum_Ludwigsburg-kl.jpg" alt="Forum Ludwigsburg 3, Technik: Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Forum Ludwigsburg 3</div>
+    <div class="desc">Forum Ludwigsburg 3<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -369,14 +369,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Sektfrau-gr.jpg" rel="lightbox" title="Frau mit Sekt, Technik: Airbrush, Mischtechnik">
 		<img src="/images/illustrationen/Sektfrau-kl.jpg" alt="Frau mit Sekt, Technik: Airbrush, Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Frau mit Sekt <br> Technik: Airbrush, Mischtechnik<br> &nbsp;<br> &nbsp;<br> &nbsp;</div>
+    <div class="desc">Frau mit Sekt <br> Technik: Airbrush, Mischtechnik<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Beilsteinetikett-gr.jpg" rel="lightbox" title="Beilstein Etikett, Technik: Aquarell, Filzstift">
 		<img src="/images/illustrationen/Beilsteinetikett-kl.jpg" alt="Beilstein Etikett, Technik: Aquarell, Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Beilstein Etikett <br> Technik: Aquarell, Filzstift<br> &nbsp;<br> &nbsp;<br> &nbsp;</div>
+    <div class="desc">Beilstein Etikett <br> Technik: Aquarell, Filzstift<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -453,14 +453,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Europapark_Rust_gr.jpg" rel="lightbox" title="Europapark Rusty, Technik: Mischtechnik">
 		<img src="/images/illustrationen/Europapark_Rust_kl.jpg" alt="Europapark Rust, Technik: Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Europapark Rust <br> Technik: Mischtechnik</div>
+    <div class="desc">Europapark Rust <br> Technik: Mischtechnik<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Neckarwestheim-gr.jpg" rel="lightbox" title="Neckarwestheim, Technik: Mischtechnik">
 		<img src="/images/illustrationen/Neckarwestheim-kl.jpg" alt="Neckarwestheim, Technik: Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Neckarwestheim <br> Technik: Mischtechnik</div>
+    <div class="desc">Neckarwestheim <br> Technik: Mischtechnik<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
