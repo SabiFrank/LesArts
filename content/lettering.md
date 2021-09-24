@@ -37,9 +37,9 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 
 <!-- Tafeln -->
-<div class="row.section.topspace">
-	<h2 id="Flüssigkreide" style="margin-top: 20px;">Flüssigkreide</h2> 
+<div class="container">  
 <p>
+	<h2 id="Flüssigkreide" style="margin-top: 20px;">Flüssigkreide</h2>
 	
 <div class="gallery">
     <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering für Hochzeitsdeko">
