@@ -154,14 +154,14 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Flight-gr.jpg" rel="lightbox" title="Storyboard Flight, Technik: Copicmarker">
 		<img src="/images/illustrationen/Flight-kl.jpg" alt="Storyboard Flight, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Storyboard Flight</div>
+    <div class="desc">Storyboard<br>Flight</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Grüner_Punkt-gr.jpg" rel="lightbox" title="Grüner Punkt, Technik: Copicmarker">
 		<img src="/images/illustrationen/Grüner_Punkt-kl.jpg" alt="Grüner Punkt, Technik: Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Grüner Punkt</div>
+    <div class="desc">Grüner<br>Punkt</div>
 </div>
 
 <div class="gallery">
@@ -337,7 +337,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Tripsdrill_Comicfigur-gr.jpg" rel="lightbox" title="Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill">
 		<img src="/images/illustrationen/Tripsdrill_Comicfigur-kl.jpg" alt="Tripsdrill Comicfigur, Technik: Filzstift, Quelle: Tripsdrill" width="300" height="200">
 	</a>		
-    <div class="desc">Tripsdrill Comicfigur<br>Quelle: <a href="https://tripsdrill.de/" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a> <br> &nbsp;<br> &nbsp;</div>
+    <div class="desc">Tripsdrill Comicfigur<br>Quelle: <a href="https://tripsdrill.de/" title="Weiterleitung zur der externen Website von Tripsdrill">Tripsdrill</a></div>
 </div>
 
 <div class="gallery">
@@ -369,28 +369,28 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Sektfrau-gr.jpg" rel="lightbox" title="Frau mit Sekt, Technik: Airbrush, Mischtechnik">
 		<img src="/images/illustrationen/Sektfrau-kl.jpg" alt="Frau mit Sekt, Technik: Airbrush, Mischtechnik" width="300" height="200">
 	</a>		
-    <div class="desc">Frau mit Sekt <br> Technik: Airbrush, Mischtechnik</div>
+    <div class="desc">Frau mit Sekt <br> Technik: Airbrush, Mischtechnik<br> &nbsp;<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Beilsteinetikett-gr.jpg" rel="lightbox" title="Beilstein Etikett, Technik: Aquarell, Filzstift">
 		<img src="/images/illustrationen/Beilsteinetikett-kl.jpg" alt="Beilstein Etikett, Technik: Aquarell, Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Beilstein Etikett <br> Technik: Aquarell, Filzstift</div>
+    <div class="desc">Beilstein Etikett <br> Technik: Aquarell, Filzstift<br> &nbsp;<br> &nbsp;<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Food1-gr.jpg" rel="lightbox" title="Food 1, Technik: Copicmarker, Filzstift">
 		<img src="/images/illustrationen/Food1-kl.jpg" alt="Food 1, Technik: Copicmarker, Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Food 1 <br> Technik: Copicmarker, Filzstift</div>
+    <div class="desc">Food 1 <br> Technik: Copicmarker, Filzstift<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
     <a href="/images/illustrationen/Food-gr.jpg" rel="lightbox" title="Food 2, Technik: Copicmarker, Filzstift">
 		<img src="/images/illustrationen/Food-kl.jpg" alt="Food 2, Technik: Copicmarker, Filzstift" width="300" height="200">
 	</a>		
-    <div class="desc">Food 2 <br> Technik: Copicmarker, Filzstift</div>
+    <div class="desc">Food 2 <br> Technik: Copicmarker, Filzstift<br> &nbsp;</div>
 </div>
 
 <div class="gallery">
@@ -446,7 +446,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
     <a href="/images/illustrationen/Tattoo2_gr.png" rel="lightbox" title="Technisches Tattoo, Technik: Graphit, Copicmarker">
 		<img src="/images/illustrationen/Tattoo2_kl.png" alt="Technisches Tattoo, Technik: Graphit, Copicmarker" width="300" height="200">
 	</a>		
-    <div class="desc">Technisches Tattoo<br> Technik: Graphit, Copicmarker<br> &nbsp;<br> &nbsp;</div>
+    <div class="desc">Technisches Tattoo<br> Technik: Graphit, Copicmarker</div>
 </div>
 
 <div class="gallery">
