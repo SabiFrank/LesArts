@@ -8,6 +8,8 @@ url = ""
 Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
 
 <!-- Puppen -->
+<div class="container">
+<p>
 <div class="gallery">
     <a href="/images/stoffwerke/Puppe1_gr.png" rel="lightbox" title="Stoffpuppe nach Tilda mit Engelsflügeln">
 		<img src="/images/stoffwerke/Puppe1_kl.png" alt="Stoffpuppe nach Tilda mit Engelsflügeln" width="300" height="200">
@@ -107,4 +109,7 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
 		<img src="/images/stoffwerke/Stoffblumen_kl.png" alt="Stoffblumen als Dekorationsgegenstände" width="300" height="200">
 	</a>		
     <div class="desc">Stoffblumen als Dekorationsgegenstände</div>
+</div>
+	
+</p>
 </div>

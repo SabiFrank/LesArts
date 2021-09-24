@@ -1,5 +1,4 @@
 jQuery(document).ready(function($) {
-
 	var my_nav = $('.navbar-sticky'); 
 	// grab the initial top offset of the navigation 
 	var sticky_navigation_offset_top = my_nav.offset().top;
@@ -24,7 +23,7 @@ jQuery(document).ready(function($) {
 				$(this).css( 'background-position', 'center ' + background_pos );
 			}
 		});
-	}
+	};
 	
 	// run our function on load
 	sticky_navigation();

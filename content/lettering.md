@@ -7,10 +7,11 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 
 <!-- Karten -->
-<div class="row.section.topspace">
-	<h2 id="Tusche">Tusche</h2> 
+<div class="container"> 
+<p> 
+	<h2 id="Tusche">Tusche</h2>
+</p>
 <p>
-	
 <div class="gallery">
     <a href="/images/lettering/Lettering1_gr.png" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg">
 		<img src="/images/lettering/Lettering1_kl.png" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg" width="300" height="200">
@@ -37,10 +38,11 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 
 <!-- Tafeln -->
-<div class="row.section.topspace">
-	<h2 id="Flüssigkreide" style="margin-top: 20px;">Flüssigkreide</h2> 
+<div class="container">  
 <p>
-	
+	<h2 id="Flüssigkreide">Flüssigkreide</h2>
+</p>
+<p>	
 <div class="gallery">
     <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering für Hochzeitsdeko">
 		<img src="/images/lettering/Lettering3_kl.png" alt="Lettering für Hochzeitsdeko" width="300" height="200">

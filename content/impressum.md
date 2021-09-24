@@ -19,7 +19,7 @@ Heilbronner Strasse 16 <br>
 
 Telefon: +49 176 81329681
 
-E-Mail: mariafrank57@gmail.com
+E-Mail: lesarts.mariafrank@gmail.com
 
 Quelle: <a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">_http://www.e-recht24.de_</a> _, Impressum Generator_
 
