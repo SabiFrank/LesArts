@@ -7,9 +7,9 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 
 <!-- Karten -->
-<div class="row.section.topspace">
-	<h2 id="Tusche">Tusche</h2> 
-<p>
+<div class="container"> 
+<p> 
+<h2 id="Tusche">Tusche</h2>
 	
 <div class="gallery">
     <a href="/images/lettering/Lettering1_gr.png" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg">
