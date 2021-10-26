@@ -6,7 +6,7 @@
         {{ range where .Data.Pages "Section" "service" }}
             <div class="col-sm-6 col-md-3">
                 <h3 class="text-center">{{ .Title }}</h3>
-                <p>{{ .Summary }}</p>
+                <p class="text-center">{{ .Summary }}</p>
                 <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action" title="Erfahren Sie mehr über die oben aufgeführte Dienstleistung">Mehr</a></p>
             </div>
         {{ end }}
