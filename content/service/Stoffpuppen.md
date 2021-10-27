@@ -3,7 +3,6 @@ title = "Stoffpuppen"
 type = "dienstleistungen"
 +++
 Verschönern und dekorieren Sie Ihr Zuhause oder Geschäft mit individuell erstellten hochwertigen Stoffpuppen.
-
 <!--more-->
 
 Sie suchen nach einer originellen Möglichkeit zur Dekoration Ihres Zuhauses oder Geschäfts? Dann sind <strong>hochwertig hergestellte Stoffpuppen</strong> eine besondere Möglichkeit für Sie.
@@ -13,6 +12,3 @@ Für die Puppen verwende ich unterschiedliche Vorlagen in Tier- und Menschenform
 Der Preis variiert je nach Stoff, Größe und Aufwand der Puppe und bewegt sich zwischen 80 und 150 Euro. Der Preis wird einzeln vereinbart, womit Abweichungen möglich sind.
 
 Wenn Sie Fragen oder einen Auftragswunsch haben, können Sie gerne <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo;">Kontakt aufnehmen</a>!
-
-
-> <a href="https://LesArts-MariaFrank.de/" title="Weiterleitung zu LesArts-MariaFrank">Home</a>
