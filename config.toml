@@ -3,7 +3,7 @@ canonifyURLs = true
 languageCode = "de-de"
 publishDir = "public"
 theme = ""
-title = "Übersetzen Sie ihre Ideen in Kunstwerke | LesArts-MariaFrank -Kunst, Design, Illustration-"
+title = "LesArts-MariaFrank | Übersetzen Sie ihre Ideen in Kunstwerke"
 [[menu.main]]
 name = "Home"
 url = "/"
