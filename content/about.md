@@ -1,5 +1,4 @@
 +++
-date = ""
 title = "Über mich"
 type = "übermich"
 [menu.main]
