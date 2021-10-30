@@ -7,10 +7,7 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 
 
 <div class="container">
-<p>
-	<h2 id="Acryl">Acryl</h2> 
-</p>
-<p>
+<h2 id="Acryl">Acryl</h2> 
 
 <div class="gallery">
     <a href="/images/illustrationen/Coke-gr.jpg" rel="lightbox" title="Coke, Technik: Acryl auf Leinwand">
@@ -18,35 +15,21 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 	</a>		
     <div class="desc">Coke</div>
 </div>
-	
-</p>
 </div>
-	
-
 
 <div class="container">
-<p>
-	<h2 id="Aquarell">Aquarell</h2> 
-</p>
-<p>
-	
+<h2 id="Aquarell">Aquarell</h2> 
+
 <div class="gallery">
     <a href="/images/illustrationen/Beilstein-gr.jpg" rel="lightbox" title="Beilstein, Technik: Aquarell">
 		<img src="/images/illustrationen/Beilstein-kl.jpg" alt="Beilstein, Technik: Aquarell" width="300" height="200">
 	</a>		
     <div class="desc">Beilstein</div>
 </div>
-
-</p>
 </div>
 
-
-
 <div class="container">
-<p>
-	<h2 id="Airbrush">Airbrush</h2> 
-</p>
-<p>
+<h2 id="Airbrush">Airbrush</h2> 
 
 <div class="gallery">
     <a href="/images/illustrationen/Dauphin-gr.jpg" rel="lightbox" title="Dauphin, Technik: Airbrush">
@@ -68,18 +51,11 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 	</a>		
     <div class="desc">Schmetterlinge</div>
 </div>
-
-</p>
 </div>
 
-
-
 <div class="container">
-<p>
-	<h2 id="Copicmarker">Copicmarker</h2> 
-</p>
-<p>	
-	
+<h2 id="Copicmarker">Copicmarker</h2> 
+
 <div class="gallery">
     <a href="/images/illustrationen/AOK_Food-gr.jpg" rel="lightbox" title="AOK Food, Technik: Copicmarker">
 		<img src="/images/illustrationen/AOK_Food-kl.jpg" alt="AOK Food, Technik: Copicmarker" width="300" height="200">
@@ -254,17 +230,10 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 	</a>		
     <div class="desc">Raabe</div>
 </div>
-
-</p>
 </div>
 
-
-
 <div class="container">
-<p>
-	<h2 id="Pastellkreide">Pastellkreide</h2> 
-</p>
-<p>
+<h2 id="Pastellkreide">Pastellkreide</h2> 
 
 <div class="gallery">
     <a href="/images/illustrationen/Frau_mit_Netz-gr.jpg" rel="lightbox" title="Frau mit Netz, Technik: Pastellkreide, Quelle: Unbekannt">
@@ -293,17 +262,10 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 	</a>		
     <div class="desc">Schwein, Katze und Mond<br>Quelle: Unbekannt</div>
 </div>
-
-</p>
 </div>
 
-
-
 <div class="container">
-<p>
-	<h2 id="Filzstift">Filzstift</h2> 
-</p>
-<p>
+<h2 id="Filzstift">Filzstift</h2> 
 
 <div class="gallery">
     <a href="/images/illustrationen/Comic_Straßenfeger-gr.jpg" rel="lightbox" title="Comic Straßenfeger, Technik: Filzstift">
@@ -346,17 +308,10 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 	</a>		
     <div class="desc">Vitruvianischer Mensch<br>Quelle: <a href="https://www.kometgroup.com/komet-tools-plus-ideas/" title="Weiterleitung zur der externen Website von Komet">Komet</a></div>
 </div>
-
-</p>
 </div>
 
-
-
 <div class="container">
-<p>
-	<h2 id="Mischtechnik">Mischtechnik</h2> 
-</p>
-<p>
+<h2 id="Mischtechnik">Mischtechnik</h2> 
 
 <div class="gallery">
     <a href="/images/illustrationen/Toscana_Tisch-gr.jpg" rel="lightbox" title="Toskana, Technik: Acryl, Polychromos auf Leinwand, Quelle: Leslie Forbes">
@@ -476,6 +431,4 @@ Hier sind alle Illustrationen mit primär technischer Umsetzung zu finden. Sie f
 	</a>		
     <div class="desc">Uhrwerk <br> Technik: Mischtechnik<br> &nbsp;</div>
 </div>
-
-</p>
 </div>
