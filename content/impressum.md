@@ -5,24 +5,29 @@ type = "impressum"
 weight = 4
 
 +++
-<h2>Angaben gem&auml;&szlig; &sect; 5 TMG</h2>
-<p>Maria Frank<br/>
-Les Arts - Maria Frank<br />
-Heilbronner Str. 16<br />
-74382 Neckarwestheim</p>
+## Angaben gem&auml;&szlig; &sect; 5 TMG:
 
-<h3>Kontakt</h3>
-<p>Telefon: +49 176 81329681<br/>
-E-Mail: lesarts.mariafrank@gmail.com</p>
+Maria Frank
+Les Arts - Maria Frank
+Heilbronner Str. 16
+74382 Neckarwestheim
 
-<h3>Umsatzsteuer-ID</h3>
-<p>Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect; 27 a Umsatzsteuergesetz:<br />
-65095 58272</p>
 
-<h3>Verbraucher&shy;streit&shy;beilegung/Universal&shy;schlichtungs&shy;stelle</h3>
-<p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
+### Kontakt
 
-<p>Quelle: <a href="https://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">_https://www.e-recht24.de_</a>_, Impressum Generator._</p>
+Telefon: +49 176 81329681
+E-Mail: lesarts.mariafrank@gmail.com
+
+
+### Umsatzsteuer-ID
+
+Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
+65095 58272
+
+
+### Verbraucher&shy;streit&shy;beilegung/Universal&shy;schlichtungs&shy;stelle
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+Quelle: _<a href="https://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">https://www.e-recht24.de</a>, Impressum Generator._
 
 
 ## Haftungsausschluss:
@@ -49,31 +54,37 @@ _Quellenangaben:_<a href="http://www.e-recht24.de" title="Weiterleitung zu der e
 
 <a href="https://www.e-recht24.de/muster-disclaimer.html" title="Weiterleitung zu dem Disclaimer der externen Seite e-recht24">_Disclaimer_</a> _von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert._
 
-<h2>Datenschutzerklärung</h2>
-<p>Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO). </br>
-</br> </p>
+## Datenschutzerklärung
 
-<h3 id="dsg-general-purpose">Kontakt Datenschutzbeauftragte</h3>
-<p> Sabrina Frank, </br>
-    E-Mail: frank.sabrina@outlook.com</p>
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
-<h3 id="dsg-general-datatype">Arten der verarbeiteten Daten</h3>
-<p> - Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br>
+
+#### Kontakt Datenschutzbeauftragte
+
+Sabrina Frank, </br>
+E-Mail: frank.sabrina@outlook.com
+
+
+#### Arten der verarbeiteten Daten
+
+- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br>
 -	Kontaktdaten (z.B., E-Mail, Telefonnummern).<br>
 -	Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).<br>
 -	Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).<br>
 -	Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).</p><h3 id="dsg-general-datasubjects">Kategorien betroffener Personen</h3><p>Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer“).
-</p>
 
-<h3 id="dsg-general-purpose">Zweck der Verarbeitung</h3>
-<p>-	Zurverfügungstellung des Onlineangebotes, seiner Funktionen und  Inhalte.<br>
+
+#### Zweck der Verarbeitung
+
+-	Zurverfügungstellung des Onlineangebotes, seiner Funktionen und  Inhalte.<br>
 -	Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.<br>
 -	Sicherheitsmaßnahmen.<br>
 -	Reichweitenmessung/Marketing
-</p>
 
-<h3 id="dsg-general-terms">Verwendete Begrifflichkeiten</h3>
-<p>„Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
+
+#### Verwendete Begrifflichkeiten
+
+„Personenbezogene Daten“ sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung (z.B. Cookie) oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind.
 <br>
 „Verarbeitung“ ist jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführte Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten. Der Begriff reicht weit und umfasst praktisch jeden Umgang mit Daten.
 <br>
@@ -84,10 +95,11 @@ _Quellenangaben:_<a href="http://www.e-recht24.de" title="Weiterleitung zu der e
 Als „Verantwortlicher“ wird die natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten entscheidet, bezeichnet.
 <br>
 „Auftragsverarbeiter“ eine natürliche oder juristische Person, Behörde, Einrichtung oder andere Stelle, die personenbezogene Daten im Auftrag des Verantwortlichen verarbeitet.
-</p>
 
-<h3 id="dsg-general-legalbasis">Maßgebliche Rechtsgrundlagen</h3>
-<p>Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Für Nutzer aus dem Geltungsbereich der Datenschutzgrundverordnung (DSGVO), d.h. der EU und des EWG gilt, sofern die Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, Folgendes: <br>
+
+#### Maßgebliche Rechtsgrundlagen
+
+Nach Maßgabe des Art. 13 DSGVO teilen wir Ihnen die Rechtsgrundlagen unserer Datenverarbeitungen mit. Für Nutzer aus dem Geltungsbereich der Datenschutzgrundverordnung (DSGVO), d.h. der EU und des EWG gilt, sofern die Rechtsgrundlage in der Datenschutzerklärung nicht genannt wird, Folgendes: <br>
 Die Rechtsgrundlage für die Einholung von Einwilligungen ist Art. 6 Abs. 1 lit. a und Art. 7 DSGVO;<br>
 Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer Leistungen und Durchführung vertraglicher Maßnahmen sowie Beantwortung von Anfragen ist Art. 6 Abs. 1 lit. b DSGVO;<br>
 Die Rechtsgrundlage für die Verarbeitung zur Erfüllung unserer rechtlichen Verpflichtungen ist Art. 6 Abs. 1 lit. c DSGVO;<br>
@@ -96,26 +108,30 @@ Die Rechtsgrundlage für die erforderliche Verarbeitung zur Wahrnehmung einer Au
 Die Rechtsgrundlage für die Verarbeitung zur Wahrung unserer berechtigten Interessen ist Art. 6 Abs. 1 lit. f DSGVO. <br>
 Die Verarbeitung von Daten zu anderen Zwecken als denen, zu denen sie ehoben wurden, bestimmt sich nach den Vorgaben des Art 6 Abs. 4 DSGVO. <br>
 Die Verarbeitung von besonderen Kategorien von Daten (entsprechend Art. 9 Abs. 1 DSGVO) bestimmt sich nach den Vorgaben des Art. 9 Abs. 2 DSGVO.
-</p>
 
-<h3 id="dsg-general-securitymeasures">Sicherheitsmaßnahmen</h3>
-<p>Wir treffen nach Maßgabe der gesetzlichen Vorgabenunter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten natürlicher Personen, geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
+
+#### Sicherheitsmaßnahmen
+
+Wir treffen nach Maßgabe der gesetzlichen Vorgabenunter Berücksichtigung des Stands der Technik, der Implementierungskosten und der Art, des Umfangs, der Umstände und der Zwecke der Verarbeitung sowie der unterschiedlichen Eintrittswahrscheinlichkeit und Schwere des Risikos für die Rechte und Freiheiten natürlicher Personen, geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
 <br>
 Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen Zugangs zu den Daten, als auch des sie betreffenden Zugriffs, der Eingabe, Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, Löschung von Daten und Reaktion auf Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung, bzw. Auswahl von Hardware, Software sowie Verfahren, entsprechend dem Prinzip des Datenschutzes durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
-</p>
 
-<h3 id="dsg-general-coprocessing">Zusammenarbeit mit Auftragsverarbeitern, gemeinsam Verantwortlichen und Dritten</h3>
-<p>Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und Unternehmen (Auftragsverarbeitern, gemeinsam Verantwortlichen oder Dritten) offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister, zur Vertragserfüllung erforderlich ist), Nutzer eingewilligt haben, eine rechtliche Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen (z.B. beim Einsatz von Beauftragten, Webhostern, etc.).
+
+#### Zusammenarbeit mit Auftragsverarbeitern, gemeinsam Verantwortlichen und Dritten
+
+Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und Unternehmen (Auftragsverarbeitern, gemeinsam Verantwortlichen oder Dritten) offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister, zur Vertragserfüllung erforderlich ist), Nutzer eingewilligt haben, eine rechtliche Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen (z.B. beim Einsatz von Beauftragten, Webhostern, etc.).
 <br>
 Sofern wir Daten anderen Unternehmen unserer Unternehmensgruppe offenbaren, übermitteln oder ihnen sonst den Zugriff gewähren, erfolgt dies insbesondere zu administrativen Zwecken als berechtigtes Interesse und darüberhinausgehend auf einer den gesetzlichen Vorgaben entsprechenden Grundlage.
-</p>
 
-<h3 id="dsg-general-thirdparty">Übermittlungen in Drittländer</h3>
-<p>Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR) oder der Schweizer Eidgenossenschaft) verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder Offenlegung, bzw. Übermittlung von Daten an andere Personen oder Unternehmen geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht. Vorbehaltlich gesetzlicher oder vertraglicher Erlaubnisse, verarbeiten oder lassen wir die Daten in einem Drittland nur beim Vorliegen der gesetzlichen Voraussetzungen. D.h. die Verarbeitung erfolgt z.B. auf Grundlage besonderer Garantien, wie der offiziell anerkannten Feststellung eines der EU entsprechenden Datenschutzniveaus (z.B. für die USA durch das „Privacy Shield“) oder Beachtung offiziell anerkannter spezieller vertraglicher Verpflichtungen.
-</p>
 
-<h3 id="dsg-general-rightssubject">Rechte der betroffenen Personen</h3>
-<p>Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.
+#### Übermittlungen in Drittländer
+
+Sofern wir Daten in einem Drittland (d.h. außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR) oder der Schweizer Eidgenossenschaft) verarbeiten oder dies im Rahmen der Inanspruchnahme von Diensten Dritter oder Offenlegung, bzw. Übermittlung von Daten an andere Personen oder Unternehmen geschieht, erfolgt dies nur, wenn es zur Erfüllung unserer (vor)vertraglichen Pflichten, auf Grundlage Ihrer Einwilligung, aufgrund einer rechtlichen Verpflichtung oder auf Grundlage unserer berechtigten Interessen geschieht. Vorbehaltlich gesetzlicher oder vertraglicher Erlaubnisse, verarbeiten oder lassen wir die Daten in einem Drittland nur beim Vorliegen der gesetzlichen Voraussetzungen. D.h. die Verarbeitung erfolgt z.B. auf Grundlage besonderer Garantien, wie der offiziell anerkannten Feststellung eines der EU entsprechenden Datenschutzniveaus (z.B. für die USA durch das „Privacy Shield“) oder Beachtung offiziell anerkannter spezieller vertraglicher Verpflichtungen.
+
+
+#### Rechte der betroffenen Personen
+
+Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.
 <br>
 Sie haben entsprechend. den gesetzlichen Vorgaben das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
 <br>
@@ -124,50 +140,61 @@ Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht zu verlangen, dass b
 Sie haben das Recht zu verlangen, dass die Sie betreffenden Daten, die Sie uns bereitgestellt haben nach Maßgabe der gesetzlichen Vorgaben zu erhalten und deren Übermittlung an andere Verantwortliche zu fordern.
 <br>
 Sie haben ferner nach Maßgabe der gesetzlichen Vorgaben das Recht, eine Beschwerde bei der zuständigen Aufsichtsbehörde einzureichen.<br>
-</p>
 
-<h3 id="dsg-general-revokeconsent">Widerrufsrecht</h3>
-<p>Sie haben das Recht, erteilte Einwilligungen mit Wirkung für die Zukunft zu widerrufen.</p>
 
-<h3 id="dsg-general-object">Widerspruchsrecht</h3>
-<p>Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe der gesetzlichen Vorgaben jederzeit widersprechen. Der Widerspruch kann insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.</p>
+#### Widerrufsrecht
 
-<h3 id="dsg-general-changes">Änderungen und Aktualisierungen der Datenschutzerklärung</h3>
-<p>Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
-</p>
+Sie haben das Recht, erteilte Einwilligungen mit Wirkung für die Zukunft zu widerrufen.
 
-<h3 id="dsg-commercialpurpose">Geschäftsbezogene Verarbeitung</h3>
-<p>Zusätzlich verarbeiten wir<br>
+
+#### Widerspruchsrecht
+
+Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe der gesetzlichen Vorgaben jederzeit widersprechen. Der Widerspruch kann insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.
+    
+
+#### Änderungen und Aktualisierungen der Datenschutzerklärung
+
+Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung zu informieren. Wir passen die Datenschutzerklärung an, sobald die Änderungen der von uns durchgeführten Datenverarbeitungen dies erforderlich machen. Wir informieren Sie, sobald durch die Änderungen eine Mitwirkungshandlung Ihrerseits (z.B. Einwilligung) oder eine sonstige individuelle Benachrichtigung erforderlich wird.
+
+
+#### Geschäftsbezogene Verarbeitung
+
+Zusätzlich verarbeiten wir<br>
 -	Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit, Kundenkategorie).<br>
 -	Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie)<br>
 von unseren Kunden, Interessenten und Geschäftspartner zwecks Erbringung vertraglicher Leistungen, Service und Kundenpflege, Marketing, Werbung und Marktforschung.
-</p>
 
-<h3 id="dsg-services-agency">Agenturdienstleistungen</h3>
-<p>Wir verarbeiten die Daten unserer Kunden im Rahmen unserer vertraglichen Leistungen zu denen konzeptionelle und strategische Beratung, Kampagnenplanung, Software- und Designentwicklung/-beratung oder Pflege, Umsetzung von Kampagnen und Prozessen/ Handling, Serveradministration, Datenanalyse/ Beratungsleistungen und Schulungsleistungen gehören.
+
+#### Agenturdienstleistungen
+
+Wir verarbeiten die Daten unserer Kunden im Rahmen unserer vertraglichen Leistungen zu denen konzeptionelle und strategische Beratung, Kampagnenplanung, Software- und Designentwicklung/-beratung oder Pflege, Umsetzung von Kampagnen und Prozessen/ Handling, Serveradministration, Datenanalyse/ Beratungsleistungen und Schulungsleistungen gehören.
 <br>
 Hierbei verarbeiten wir Bestandsdaten (z.B., Kundenstammdaten, wie Namen oder Adressen), Kontaktdaten (z.B., E-Mail, Telefonnummern), Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos), Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit), Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie), Nutzungs- und Metadaten (z.B. im Rahmen der Auswertung und Erfolgsmessung von Marketingmaßnahmen). Besondere Kategorien personenbezogener Daten verarbeiten wir grundsätzlich nicht, außer wenn diese Bestandteile einer beauftragten Verarbeitung sind. Zu den Betroffenen gehören unsere Kunden, Interessenten sowie deren Kunden, Nutzer, Websitebesucher oder Mitarbeiter sowie Dritte. Der Zweck der Verarbeitung besteht in der Erbringung von Vertragsleistungen, Abrechnung und unserem Kundenservice. Die Rechtsgrundlagen der Verarbeitung ergeben sich aus Art. 6 Abs. 1 lit. b DSGVO (vertragliche Leistungen), Art. 6 Abs. 1 lit. f DSGVO (Analyse, Statistik, Optimierung, Sicherheitsmaßnahmen). Wir verarbeiten Daten, die zur Begründung und Erfüllung der vertraglichen Leistungen erforderlich sind und weisen auf die Erforderlichkeit ihrer Angabe hin. Eine Offenlegung an Externe erfolgt nur, wenn sie im Rahmen eines Auftrags erforderlich ist. Bei der Verarbeitung der uns im Rahmen eines Auftrags überlassenen Daten handeln wir entsprechend den Weisungen der Auftraggeber sowie der gesetzlichen Vorgaben einer Auftragsverarbeitung gem. Art. 28 DSGVO und verarbeiten die Daten zu keinen anderen, als den auftragsgemäßen Zwecken.
 <br>
-Wir löschen die Daten nach Ablauf gesetzlicher Gewährleistungs- und vergleichbarer Pflichten. die Erforderlichkeit der Aufbewahrung der Daten wird alle drei Jahre überprüft; im Fall der gesetzlichen Archivierungspflichten erfolgt die Löschung nach deren Ablauf (6 J, gem. § 257 Abs. 1 HGB, 10 J, gem. § 147 Abs. 1 AO). Im Fall von Daten, die uns gegenüber im Rahmen eines Auftrags durch den Auftraggeber offengelegt wurden, löschen wir die Daten entsprechend den Vorgaben des Auftrags, grundsätzlich nach Ende des Auftrags.</p>
+Wir löschen die Daten nach Ablauf gesetzlicher Gewährleistungs- und vergleichbarer Pflichten. die Erforderlichkeit der Aufbewahrung der Daten wird alle drei Jahre überprüft; im Fall der gesetzlichen Archivierungspflichten erfolgt die Löschung nach deren Ablauf (6 J, gem. § 257 Abs. 1 HGB, 10 J, gem. § 147 Abs. 1 AO). Im Fall von Daten, die uns gegenüber im Rahmen eines Auftrags durch den Auftraggeber offengelegt wurden, löschen wir die Daten entsprechend den Vorgaben des Auftrags, grundsätzlich nach Ende des Auftrags.
     
-<h3 id="dsg-affiliate-general">Teilnahme an Affiliate-Partnerprogrammen</h3>
-<p>Innerhalb unseres Onlineangebotes setzen wir auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes) gem. Art. 6 Abs. 1 lit. f DSGVO branchenübliche Trackingmaßnahmen ein, soweit diese für den Betrieb des Affiliatesystems erforderlich sind. Nachfolgend klären wir die Nutzer über die technischen Hintergründe auf.
+    
+#### Teilnahme an Affiliate-Partnerprogrammen
+
+Innerhalb unseres Onlineangebotes setzen wir auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes) gem. Art. 6 Abs. 1 lit. f DSGVO branchenübliche Trackingmaßnahmen ein, soweit diese für den Betrieb des Affiliatesystems erforderlich sind. Nachfolgend klären wir die Nutzer über die technischen Hintergründe auf.
 <br>
 Die von unseren Vertragspartnern angebotene Leistungen können auch auf anderen Webseiten beworben und verlinkt werden (sog. Affiliate-Links oder After-Buy-Systeme, wenn z.B. Links oder Leistungen Dritter nach einem Vertragsschluss angeboten werden). Die Betreiber der jeweiligen Webseiten erhalten eine Provision, wenn Nutzer den Affiliate-Links folgen und anschließend die Angebote wahrnehmen.
 <br>
 Zusammenfassend, ist es für unser Onlineangebot erforderlich, dass wir nachverfolgen können, ob Nutzer, die sich für Affiliate-Links und/oder die bei uns verfügbaren Angebote interessieren, die Angebote anschließend auf die Veranlassung der Affiliate-Links oder unserer Onlineplattform, wahrnehmen. Hierzu werden die Affiliate-Links und unsere Angebote um bestimmte Werte ergänzt, die ein Bestandteil des Links oder anderweitig, z.B. in einem Cookie, gesetzt werden können. Zu den Werten gehören insbesondere die Ausgangswebseite (Referrer), Zeitpunkt, eine Online-Kennung der Betreiber der Webseite, auf der sich der Affiliate-Link befand, eine Online-Kennung des jeweiligen Angebotes, eine Online-Kennung des Nutzers, als auch Tracking-spezifische Werte wie z.B. Werbemittel-ID, Partner-ID und Kategorisierungen.
 <br>
 Bei der von uns verwendeten Online-Kennungen der Nutzer, handelt es sich um pseudonyme Werte. D.h. die Online-Kennungen enthalten selbst keine personenbezogenen Daten wie Namen oder E-Mailadressen. Sie helfen uns nur zu bestimmen ob derselbe Nutzer, der auf einen Affiliate-Link geklickt oder sich über unser Onlineangebot für ein Angebot interessiert hat, das Angebot wahrgenommen, d.h. z.B. einen Vertrag mit dem Anbieter abgeschlossen hat. Die Online-Kennung ist jedoch insoweit personenbezogen, als dem Partnerunternehmen und auch uns, die Online-Kennung zusammen mit anderen Nutzerdaten vorliegen. Nur so kann das Partnerunternehmen uns mitteilen, ob derjenige Nutzer das Angebot wahrgenommen hat und wir z.B. den Bonus auszahlen können.
-</p>
 
-<h3 id="dsg-hostingprovider">Hosting und E-Mail-Versand</h3>
-<p>Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, E-Mail-Versand, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
+
+#### Hosting und E-Mail-Versand
+
+Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, E-Mail-Versand, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
 <br>
-Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kunden, Interessenten und Besuchern dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).</p>
+Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kunden, Interessenten und Besuchern dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
 
 
-<h3 id="dsg-logfiles">Erhebung von Zugriffsdaten und Logfiles</h3>
-<p>Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.
+#### Erhebung von Zugriffsdaten und Logfiles
+
+Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.
 <br>
 Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active" title="Weiterleitung zu der externen Website privacyshield.gov">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>).
 <br>
@@ -189,11 +216,12 @@ Die Verarbeitung der Daten durch Facebook erfolgt im Rahmen von Facebooks Datenv
 <br>
 Sie können der Erfassung durch den Facebook-Pixel und Verwendung Ihrer Daten zur Darstellung von Facebook-Ads widersprechen. Um einzustellen, welche Arten von Werbeanzeigen Ihnen innerhalb von Facebook angezeigt werden, können Sie die von Facebook eingerichtete Seite aufrufen und dort die Hinweise zu den Einstellungen nutzungsbasierter Werbung befolgen:&nbsp;<a href="https://www.facebook.com/settings?tab=ads">https://www.facebook.com/settings?tab=ads</a>. Die Einstellungen erfolgen plattformunabhängig, d.h. sie werden für alle Geräte, wie Desktopcomputer oder mobile Geräte übernommen.
 <br>
-Sie können dem Einsatz von Cookies, die der Reichweitenmessung und Werbezwecken dienen, ferner über die Deaktivierungsseite der Netzwerkwerbeinitiative (<a href="http://optout.networkadvertising.org/">http://optout.networkadvertising.org/</a>) und zusätzlich die US-amerikanische Webseite&nbsp;(<a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>)&nbsp;oder die europäische Webseite&nbsp;(<a href="http://www.youronlinechoices.com/uk/your-ad-choices/">http://www.youronlinechoices.com/uk/your-ad-choices/</a>) widersprechen.</span></p><p></p>
+Sie können dem Einsatz von Cookies, die der Reichweitenmessung und Werbezwecken dienen, ferner über die Deaktivierungsseite der Netzwerkwerbeinitiative (<a href="http://optout.networkadvertising.org/">http://optout.networkadvertising.org/</a>) und zusätzlich die US-amerikanische Webseite&nbsp;(<a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>)&nbsp;oder die europäische Webseite&nbsp;(<a href="http://www.youronlinechoices.com/uk/your-ad-choices/">http://www.youronlinechoices.com/uk/your-ad-choices/</a>) widersprechen.
 
 
-<h3 id="dsg-socialmedia">Onlinepräsenzen in sozialen Medien</h3> </br>
-<p>Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kunden, Interessenten und Nutzern kommunizieren und sie dort über unsere Leistungen informieren zu können.
+#### Onlinepräsenzen in sozialen Medien
+
+Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kunden, Interessenten und Nutzern kommunizieren und sie dort über unsere Leistungen informieren zu können.
 <br>
 Wir weisen darauf hin, dass dabei Daten der Nutzer außerhalb des Raumes der Europäischen Union verarbeitet werden können. Hierdurch können sich für die Nutzer Risiken ergeben, weil so z.B. die Durchsetzung der Rechte der Nutzer erschwert werden könnte. Im Hinblick auf US-Anbieter die unter dem Privacy-Shield zertifiziert sind, weisen wir darauf hin, dass sie sich damit verpflichten, die Datenschutzstandards der EU einzuhalten.
 <br>
@@ -212,13 +240,18 @@ Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, wei
 - Instagram (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) – Datenschutzerklärung/ Opt-Out: <a href="http://instagram.com/about/legal/privacy/" title="Weiterleitung zu der Privacy der externe Website Instagram">http://instagram.com/about/legal/privacy/</a>.
 <br>
 
-<p>Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.</p>
+Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
 
-<h3 id="dsg-thirdparty-googlefonts">Google Fonts</h3> </br>
-<p>Wir binden die Schriftarten ("Google Fonts") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: <a href="https://www.google.com/policies/privacy/" title="Weiterleitung zu der Privacy der externen Website Google">https://www.google.com/policies/privacy/</a>, Opt-Out: <a href="https://adssettings.google.com/authenticated" title="Weiterleitung zu den Adssettings der externen Website Google">https://adssettings.google.com/authenticated</a>.</p>
 
-<h3 id="dsg-thirdparty-instagram">Instagram</h3> </br>
-<p>Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Instagram, angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Instagram teilen können. Sofern die Nutzer Mitglieder der Plattform Instagram sind, kann Instagram den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen.</br>
-Datenschutzerklärung von Instagram: <a href="http://instagram.com/about/legal/privacy/" title="Weiterleitung zu der Privacy der externe Website Instagram">http://instagram.com/about/legal/privacy/</a>.</p>
+#### Google Fonts
+
+Wir binden die Schriftarten ("Google Fonts") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: <a href="https://www.google.com/policies/privacy/" title="Weiterleitung zu der Privacy der externen Website Google">https://www.google.com/policies/privacy/</a>, Opt-Out: <a href="https://adssettings.google.com/authenticated" title="Weiterleitung zu den Adssettings der externen Website Google">https://adssettings.google.com/authenticated</a>.
+
+
+#### Instagram
+
+Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Instagram, angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Instagram teilen können. Sofern die Nutzer Mitglieder der Plattform Instagram sind, kann Instagram den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen.</br>
+Datenschutzerklärung von Instagram: <a href="http://instagram.com/about/legal/privacy/" title="Weiterleitung zu der Privacy der externe Website Instagram">http://instagram.com/about/legal/privacy/</a>.
     
+
 <a href="https://datenschutz-generator.de" title="Weiterleitung zu der externen Website Datenschutz-Generator.de" class="dsg1-6" rel="nofollow">Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke</a>
