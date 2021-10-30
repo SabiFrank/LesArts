@@ -1,5 +1,4 @@
 +++
-date = "2021-09-20"
 title = "Kontakt"
 type = "kontakt"
 [menu.main]
