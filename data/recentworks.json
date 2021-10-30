@@ -61,19 +61,23 @@
   },
   {
     "id": 2,
-    "name": "Gutscheine - Für Workshops und Auftragsarbeiten",
+    "name": "Gutscheine für Workshops & Auftragsarbeiten",
     "image": "images/portfolio/Gutscheine.jpg",
     "url": "https://LesArts-MariaFrank.de/gutscheine/",
     "items": [
       {
         "name": "Acryl",
         "url": "https://LesArts-MariaFrank.de/gutscheine"
+      },
+      {
+        "name": "Mischtechnik",
+        "url": "https://LesArts-MariaFrank.de/gutscheine"
       }
     ]
   },
   {
     "id": 3,
-    "name": "Lettering",
+    "name": "Lettering & Kalligraphie",
     "image": "images/portfolio/Lettering.png",
     "url": "https://LesArts-MariaFrank.de/lettering/",
     "items": [

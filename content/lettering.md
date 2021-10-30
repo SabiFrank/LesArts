@@ -1,5 +1,4 @@
 +++
-date = "2021-09-17T10:00:00+02:00"
 title = "Lettering"
 type = "portfolio"
 +++
@@ -8,10 +7,8 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 
 <!-- Karten -->
 <div class="container"> 
-<p> 
-	<h2 id="Tusche">Tusche</h2>
-</p>
-<p>
+<h2 id="Tusche">Tusche</h2>
+
 <div class="gallery">
     <a href="/images/lettering/Lettering1_gr.png" rel="lightbox" title="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg">
 		<img src="/images/lettering/Lettering1_kl.png" alt="Lettering für Mitarbeiter des Breunigerland Ludiwgsburg" width="300" height="200">
@@ -32,17 +29,12 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 	</a>		
     <div class="desc">Lettering für LesArts Logo<br>&nbsp;</div>
 </div>
-
-</p>
 </div>
-
 
 <!-- Tafeln -->
 <div class="container">  
-<p>
-	<h2 id="Flüssigkreide">Flüssigkreide</h2>
-</p>
-<p>	
+<h2 id="Flüssigkreide">Flüssigkreide</h2>
+	
 <div class="gallery">
     <a href="/images/lettering/Lettering3_gr.png" rel="lightbox" title="Lettering für Hochzeitsdeko">
 		<img src="/images/lettering/Lettering3_kl.png" alt="Lettering für Hochzeitsdeko" width="300" height="200">
@@ -222,6 +214,4 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 		<img src="/images/lettering/Winter3_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
 </div>
-
-</p>
 </div>

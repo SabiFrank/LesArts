@@ -28,7 +28,7 @@ showservices = true
 showsubheader = true
 year = "2018"
 [params.google.analytics]
-trackerid = "UA-119186150-1"
+trackerid = ""
 [params.sharethis]
 custom = true
 property = "123456789012345678901234"

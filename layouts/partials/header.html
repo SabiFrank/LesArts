@@ -29,10 +29,10 @@
 	<!-- Icons -->
 	<link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 	<!-- Fonts -->
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alice%7COpen+Sans:400,300,700">
 	<!-- Custom styles -->
 	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/styles.css">
-	<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/lightbox.css">
+	<!-- <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/lightbox.css"> -->
 		
 	<!--[if lt IE 9]> <script src="js/html5shiv.js"></script> <![endif]-->
 	<!-- 404 -->
@@ -44,9 +44,9 @@
 		<![endif]-->
 
     {{ if .Site.Params.customsharethis }}
-        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=custom-share-buttons"></script>
+        <script src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=custom-share-buttons"></script>
     {{ else }}
-        <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=inline-share-buttons"></script>
+        <script src="//platform-api.sharethis.com/js/sharethis.js#property={{ .Site.Params.sharethis.property }}&product=inline-share-buttons"></script>
     {{ end }}
 
 </head>

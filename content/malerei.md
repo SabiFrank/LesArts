@@ -1,16 +1,13 @@
 +++
-date = "2021-09-17T11:00:00+02:00"
 title = "Malerei"
 type = "portfolio"
 +++
-Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden, geordnet nach generell genutzter Technik. Sie finden zu jedem Bild den Titel und die Quelle der eventuell genutzte Vorlagen anderer Künstlern. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sowie die exakt verwendete Technik sehen zu können.
+Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden, geordnet nach generell genutzter Technik. Sie finden zu jedem Bild den Titel und die Quelle der eventuell genutzte Vorlagen anderer Künstlern. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sowie die exakt verwendete Technik sehen zu können.  
 
+<!-- ACRYL-->
 <div class="container">
-<p>
-	<h2 id="Acryl">Acryl</h2>
-</p>
+<h2 id="Acryl">Acryl</h2>  
 
-<p>
 <div class="gallery">
 	    <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
 			<img src="/images/malerei/Abschied_kl.jpg" alt="Titel: Abschied, Technik: Acryl auf Leinwand" width="300" height="200">
@@ -170,8 +167,8 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 			<img src="/images/malerei/Flamenco_kl.jpg" alt="Titel: Flamenco , Technik: Acryl auf Leinwand, Quelle: Fotographie von Naila Adraibi" width="300" height="200">
 		</a>		
 	    <div class="desc">Flamenco<br>Quelle: Fotographie von Naila Adraibi</div>
-	</div>
-
+	</div>	
+	
 <div class="gallery">
 	    <a href="/images/malerei/Follow_the_leader_gr.jpg" rel="lightbox" title="Titel: Follow the Leader, Technik: Acryl auf Leinwand, Quelle: Artwork für Album 'Follow the Leader' der Band Korn von Todd McFarlane">
 			<img src="/images/malerei/Follow_the_leader_kl.jpg" alt="Titel: Follow the Leader, Technik: Acryl auf Leinwand, Quelle: Artwork für Album 'Follow the Leader' der Band Korn von Todd McFarlane" width="300" height="200">
@@ -318,6 +315,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Mickey<br> Quelle: Unbekannt</div>
 	</div>
+	
 <div class="gallery">
 	    <a href="/images/malerei/Mole_gr.jpg" rel="lightbox" title="Titel: Mole von St.Blas, Technik: Acryl auf Leinwand, Quelle: Unbekannt">
 			<img src="/images/malerei/Mole_kl.jpg" alt="Titel: Mole von St.Blas, Technik: Acryl auf Leinwand, Quelle: Unbekannt" width="300" height="200">
@@ -392,7 +390,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/Sky_gr.jpg" rel="lightbox" title="Titel: Sky, Technik: Acryl auf Leinwand, Quelle: Yuumei">
 			<img src="/images/malerei/Sky_kl.jpg" alt="Titel: Sky, Technik: Acryl auf Leinwand, Quelle: Yuumei" width="300" height="200">
 		</a>		
-	    <div class="desc">Sky<br>Quelle: <a href="https://www.yuumeiart.com/" title="Weiterleitung zur der externen Website von Yuumei" alt="Weiterleitung zur der externen Website von Yuumei">Yuumei</a></div>
+	    <div class="desc">Sky<br>Quelle: <a href="https://www.yuumeiart.com/" title="Weiterleitung zur der externen Website von Yuumei">Yuumei</a></div>
 	</div>
 
 <div class="gallery">
@@ -427,7 +425,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/Submerge_gr.jpg" rel="lightbox" title="Titel: Submerge, Technik: Acryl auf Leinwand, Quelle: Yuumei">
 			<img src="/images/malerei/Submerge_kl.jpg" alt="Titel: Submerge, Technik: Acryl auf Leinwand, Quelle: Yuumei" width="300" height="200">
 		</a>		
-	    <div class="desc">Submerge<br>Quelle: <a href="https://www.yuumeiart.com/" title="Weiterleitung zur der externen Website von Yuumei" alt="Weiterleitung zur der externen Website von Yuumei">Yuumei</a></div>
+	    <div class="desc">Submerge<br>Quelle: <a href="https://www.yuumeiart.com/" title="Weiterleitung zur der externen Website von Yuumei">Yuumei</a></div>
 	</div>
 
 <div class="gallery">
@@ -450,7 +448,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Wein<br>Quelle: Unbekannt <br> &nbsp;</div>
 	</div>
-
 
 <div class="gallery">
 	    <a href="/images/malerei/Weingläser_gr.jpg" rel="lightbox" title="Titel: Weingläser, Technik: Acryl auf Leinwand">
@@ -500,7 +497,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Seerosen<br>Quelle: Fotografie von Ute Schulz</div>
 	</div>
-	</p>
 
 <div class="gallery">
 	    <a href="/images/malerei/Joannas_Garden_gr.jpg" rel="lightbox" title="Titel: Joannas Garden, Technik: Acryl auf Leinwand, Quelle: Fotografie von Sabrina Frank">
@@ -548,7 +544,7 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <a href="/images/malerei/people_gr.png" rel="lightbox" title="Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: Alexander Sokht">
 			<img src="/images/malerei/people_kl.png" alt="Titel: The Listener, Technik: Acryl Open auf Leinwand, Quelle: Alexander Sokht" width="300" height="200">
 		</a>		
-	    <div class="desc">The Listener<br>Quelle: <a href="https://xpgallery.com/pages/alexander-sokht-bio" title="Alexander Sokht XPGallery" alt="Weiterleitung zu der externen Seite XPGallery Alexander Sokht">Alexander Sokht</a></div>
+	    <div class="desc">The Listener<br>Quelle: <a href="https://xpgallery.com/pages/alexander-sokht-bio" title="Alexander Sokht XPGallery">Alexander Sokht</a></div>
 	</div>
 	
 <div class="gallery">
@@ -556,18 +552,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 			<img src="/images/malerei/Japanische_Stadt_kl.jpg" alt="Titel: Japanische Stadt, Technik: Acryl auf Rauhfaser, Quelle: Unbekannt" width="300" height="200">
 		</a>		
 	    <div class="desc">Japanische Stadt<br>Quelle: Unbekannt</div>
-	</div>
-
-</p>
+	</div>	
 </div>
 
 
-<div class="container">
-<p>
-	<h2 id="Mischtechnik">Mischtechnik</h2>
-</p>
 
-<p>
+<!-- MISCHTECHNIK -->
+<div class="container">
+<h2 id="Mischtechnik">Mischtechnik</h2>  
 <div class="gallery">
 	    <a href="/images/malerei/daheim_im_Blau_gr.jpg" rel="lightbox" title="Titel: Daheim im Blau, Technik: Mischtechnik">
 			<img src="/images/malerei/daheim_im_Blau_kl.jpg" alt="Titel: Daheim im Blau, Technik: Mischtechnik" width="300" height="200">
@@ -588,17 +580,12 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">The World</div>
 	</div>
-	
-</p>
 </div>
 
 
 <!-- Zeichnungen -->
 <div class="container">
-<p>
-	<h2 id="Graphit">Graphit</h2>
-</p>
-<p>
+<h2 id="Graphit">Graphit</h2>  
 <div class="gallery">
 	    <a href="/images/malerei/Alter_Mann_gr.png" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
 			<img src="/images/malerei/Alter_Mann_kl.png" alt="Titel: Alter Mann, Technik: Graphit auf Papier" width="300" height="200">
@@ -613,7 +600,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <div class="desc">Naila</div>
 	</div>
 
-
 <div class="gallery">
 	    <a href="/images/malerei/Sina_gr.jpg" rel="lightbox" title="Titel: Sina, Technik: Graphit & Airbrush auf Papier">
 			<img src="/images/malerei/Sina_kl.jpg" alt="Titel: Sina, Technik: Graphit & Airbrush auf Papier" width="300" height="200">
@@ -627,6 +613,4 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Svetlana</div>
 	</div>
-	
-</p>
 </div>

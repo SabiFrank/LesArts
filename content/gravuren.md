@@ -8,7 +8,6 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 
 <!-- Flacons -->
 <div class="container">
-<p>
 
 <div class="gallery">
     <a href="/images/gravuren/Flacon_bg1_gr.png" rel="lightbox" title="Gravur auf Parfum-Flacons während einer Aktion im Breunigerland">
@@ -123,13 +122,10 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 	</a>		
 </div>
 
-
 <!-- Flaschen -->
 <div class="gallery">
     <a href="/images/gravuren/Wein1_gr.png" rel="lightbox" title="Gravur auf Weinflasche">
 		<img src="/images/gravuren/Wein1_kl.png" alt="Gravur auf Weinflasche" width="300" height="200">
 	</a>		
 </div>
-
-</p>
 </div>
