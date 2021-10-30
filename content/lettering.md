@@ -1,5 +1,4 @@
 +++
-date = "2021-09-17T10:00:00+02:00"
 title = "Lettering"
 type = "portfolio"
 +++
