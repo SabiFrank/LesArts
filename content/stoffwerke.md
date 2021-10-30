@@ -1,5 +1,4 @@
 +++
-date = "2018-05-16T17:16:55+02:00"
 title = "Stoffwerke"
 type = "portfolio"
 url = ""
@@ -9,7 +8,7 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
 
 <!-- Puppen -->
 <div class="container">
-<p>
+
 <div class="gallery">
     <a href="/images/stoffwerke/Puppe1_gr.png" rel="lightbox" title="Stoffpuppe nach Tilda mit Engelsflügeln">
 		<img src="/images/stoffwerke/Puppe1_kl.png" alt="Stoffpuppe nach Tilda mit Engelsflügeln" width="300" height="200">
@@ -110,6 +109,5 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
 	</a>		
     <div class="desc">Stoffblumen als Dekorationsgegenstände</div>
 </div>
-	
-</p>
+
 </div>
