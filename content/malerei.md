@@ -1,15 +1,14 @@
 +++
-date = "2021-09-17T11:00:00+02:00"
 title = "Malerei"
 type = "portfolio"
 +++
-Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden, geordnet nach generell genutzter Technik. Sie finden zu jedem Bild den Titel und die Quelle der eventuell genutzte Vorlagen anderer Künstlern. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sowie die exakt verwendete Technik sehen zu können.
-
 <p>
+Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden, geordnet nach generell genutzter Technik. Sie finden zu jedem Bild den Titel und die Quelle der eventuell genutzte Vorlagen anderer Künstlern. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sowie die exakt verwendete Technik sehen zu können.
+</p>
 	
 <div class="container">
 <h2 id="Acryl">Acryl</h2>  
-
+<p>
 	<div class="gallery">
 	    <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
 			<img src="/images/malerei/Abschied_kl.jpg" alt="Titel: Abschied, Technik: Acryl auf Leinwand" width="300" height="200">
@@ -554,13 +553,16 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 			<img src="/images/malerei/Japanische_Stadt_kl.jpg" alt="Titel: Japanische Stadt, Technik: Acryl auf Rauhfaser, Quelle: Unbekannt" width="300" height="200">
 		</a>		
 	    <div class="desc">Japanische Stadt<br>Quelle: Unbekannt</div>
-	</div>
+	</div>	
+</p>
 </div>
 
 
+
+<!-- MISCHTECHNIK -->
 <div class="container">
 <h2 id="Mischtechnik">Mischtechnik</h2>  
-	
+<p>	
 	<div class="gallery">
 	    <a href="/images/malerei/daheim_im_Blau_gr.jpg" rel="lightbox" title="Titel: Daheim im Blau, Technik: Mischtechnik">
 			<img src="/images/malerei/daheim_im_Blau_kl.jpg" alt="Titel: Daheim im Blau, Technik: Mischtechnik" width="300" height="200">
@@ -581,13 +583,14 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">The World</div>
 	</div>
+</p>
 </div>
 
 
 <!-- Zeichnungen -->
 <div class="container">
 <h2 id="Graphit">Graphit</h2>  
-	
+<p>
 	<div class="gallery">
 	    <a href="/images/malerei/Alter_Mann_gr.png" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
 			<img src="/images/malerei/Alter_Mann_kl.png" alt="Titel: Alter Mann, Technik: Graphit auf Papier" width="300" height="200">
@@ -615,6 +618,5 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Svetlana</div>
 	</div>
-</div>
-
 </p>
+</div>
