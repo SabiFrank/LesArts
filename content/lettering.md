@@ -29,9 +29,7 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 	</a>		
     <div class="desc">Lettering für LesArts Logo<br>&nbsp;</div>
 </div>
-
 </div>
-
 
 <!-- Tafeln -->
 <div class="container">  
@@ -216,5 +214,4 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 		<img src="/images/lettering/Winter3_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
 </div>
-
 </div>
