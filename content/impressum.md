@@ -5,32 +5,32 @@ type = "impressum"
 weight = 4
 
 +++
-## Angaben gem&auml;&szlig; &sect; 5 TMG:
+### Angaben gemäß § 5 TMG:
 
-Maria Frank
-Les Arts - Maria Frank
-Heilbronner Str. 16
-74382 Neckarwestheim
-
-
-### Kontakt
-
-Telefon: +49 176 81329681
-E-Mail: lesarts.mariafrank@gmail.com
+Maria Frank </br>
+Les Arts - Maria Frank </br>
+Heilbronner Str. 16 </br>
+74382 Neckarwestheim </br>
 
 
-### Umsatzsteuer-ID
+#### Kontakt
+
+Telefon: +49 176 81329681 </br>
+E-Mail: lesarts.mariafrank@gmail.com  </br>
+
+
+#### Umsatzsteuer-ID
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
-65095 58272
+65095 58272 </br>
 
 
-### Verbraucher&shy;streit&shy;beilegung/Universal&shy;schlichtungs&shy;stelle
+#### Verbraucherstreitbeilegung/Universalschlichtungsstelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 Quelle: _<a href="https://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">https://www.e-recht24.de</a>, Impressum Generator._
 
 
-## Haftungsausschluss:
+### Haftungsausschluss:
 
 #### Haftung für Inhalte
 
@@ -51,8 +51,8 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
 _Quellenangaben:_<a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">_http://www.e-recht24.de_</a> _, Impressum Generator._
-
 <a href="https://www.e-recht24.de/muster-disclaimer.html" title="Weiterleitung zu dem Disclaimer der externen Seite e-recht24">_Disclaimer_</a> _von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert._
+
 
 ## Datenschutzerklärung
 
@@ -62,16 +62,16 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 #### Kontakt Datenschutzbeauftragte
 
 Sabrina Frank, </br>
-E-Mail: frank.sabrina@outlook.com
+E-Mail: frank.sabrina@outlook.com </br>
 
 
 #### Arten der verarbeiteten Daten
 
-- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).<br>
--	Kontaktdaten (z.B., E-Mail, Telefonnummern).<br>
--	Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).<br>
--	Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).<br>
--	Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).</p>
+- Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen). <br>
+-	Kontaktdaten (z.B., E-Mail, Telefonnummern). <br>
+-	Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos). <br>
+-	Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten). <br>
+-	Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen). </br>
 
 
 #### Kategorien betroffener Personen
@@ -81,10 +81,10 @@ Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffe
 
 #### Zweck der Verarbeitung
 
--	Zurverfügungstellung des Onlineangebotes, seiner Funktionen und  Inhalte.<br>
--	Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern.<br>
--	Sicherheitsmaßnahmen.<br>
--	Reichweitenmessung/Marketing
+-	Zurverfügungstellung des Onlineangebotes, seiner Funktionen und  Inhalte. <br>
+-	Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern. <br>
+-	Sicherheitsmaßnahmen. <br>
+-	Reichweitenmessung/Marketing </br>
 
 
 #### Verwendete Begrifflichkeiten
@@ -165,8 +165,8 @@ Wir bitten Sie sich regelmäßig über den Inhalt unserer Datenschutzerklärung 
 #### Geschäftsbezogene Verarbeitung
 
 Zusätzlich verarbeiten wir<br>
--	Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit, Kundenkategorie).<br>
--	Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie)<br>
+- Vertragsdaten (z.B., Vertragsgegenstand, Laufzeit, Kundenkategorie).<br>
+- Zahlungsdaten (z.B., Bankverbindung, Zahlungshistorie)<br>
 von unseren Kunden, Interessenten und Geschäftspartner zwecks Erbringung vertraglicher Leistungen, Service und Kundenpflege, Marketing, Werbung und Marktforschung.
 
 
