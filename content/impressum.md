@@ -71,7 +71,12 @@ E-Mail: frank.sabrina@outlook.com
 -	Kontaktdaten (z.B., E-Mail, Telefonnummern).<br>
 -	Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos).<br>
 -	Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).<br>
--	Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).</p><h3 id="dsg-general-datasubjects">Kategorien betroffener Personen</h3><p>Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer“).
+-	Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).</p>
+
+
+#### Kategorien betroffener Personen
+
+Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer“).
 
 
 #### Zweck der Verarbeitung
@@ -206,7 +211,12 @@ Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen 
 <br>
 Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<a href="https://policies.google.com/technologies/ads" title="Weiterleitung zu den Policies der externen Website Google">https://policies.google.com/technologies/ads</a>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google <a href="https://adssettings.google.com/authenticated" title="Weiterleitung zu den Adssettings der externen Website Google">(https://adssettings.google.com/authenticated</a>).
 <br>
-Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder anonymisiert.</span></p><p></p><h3 id="dsg-facebook-pixel">Facebook-Pixel, Custom Audiences und Facebook-Conversion</h3><p></p><p><span class="ts-muster-content">Innerhalb unseres Onlineangebotes wird aufgrund unserer berechtigten Interessen an Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes und zu diesen Zwecken das sog. "Facebook-Pixel" des sozialen Netzwerkes Facebook, welches von der Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, bzw. falls Sie in der EU ansässig sind, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird ("Facebook"), eingesetzt.
+Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder anonymisiert.
+
+
+#### Facebook-Pixel, Custom Audiences und Facebook-Conversion
+
+Innerhalb unseres Onlineangebotes wird aufgrund unserer berechtigten Interessen an Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes und zu diesen Zwecken das sog. "Facebook-Pixel" des sozialen Netzwerkes Facebook, welches von der Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, bzw. falls Sie in der EU ansässig sind, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird ("Facebook"), eingesetzt.
 <br>
 Facebook ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<a href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active</a>).
 <br>
@@ -238,14 +248,14 @@ Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, wei
 - Google/ YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Datenschutzerklärung: &nbsp;<a href="https://policies.google.com/privacy" title="Weiterleitung zu der Privacy der externe Website Google">https://policies.google.com/privacy</a>, Opt-Out: <a href="https://adssettings.google.com/authenticated" title="Weiterleitung an die externe Website Google Adssetting">https://adssettings.google.com/authenticated</a>, Privacy Shield: <a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>.
 <br>
 - Instagram (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) – Datenschutzerklärung/ Opt-Out: <a href="http://instagram.com/about/legal/privacy/" title="Weiterleitung zu der Privacy der externe Website Instagram">http://instagram.com/about/legal/privacy/</a>.
-<br>
 
 Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
 
 
 #### Google Fonts
 
-Wir binden die Schriftarten ("Google Fonts") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: <a href="https://www.google.com/policies/privacy/" title="Weiterleitung zu der Privacy der externen Website Google">https://www.google.com/policies/privacy/</a>, Opt-Out: <a href="https://adssettings.google.com/authenticated" title="Weiterleitung zu den Adssettings der externen Website Google">https://adssettings.google.com/authenticated</a>.
+Wir binden die Schriftarten ("Google Fonts") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. 
+Datenschutzerklärung: <a href="https://www.google.com/policies/privacy/" title="Weiterleitung zu der Privacy der externen Website Google">https://www.google.com/policies/privacy/</a>, Opt-Out: <a href="https://adssettings.google.com/authenticated" title="Weiterleitung zu den Adssettings der externen Website Google">https://adssettings.google.com/authenticated</a>.
 
 
 #### Instagram
