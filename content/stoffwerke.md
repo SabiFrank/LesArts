@@ -2,9 +2,10 @@
 title = "Stoffwerke"
 type = "portfolio"
 url = ""
-
 +++
-Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.
+
+Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sehen zu können.  
+
 
 <!-- Puppen -->
 <div class="container">
@@ -72,7 +73,6 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
 	</a>		
     <div class="desc">Stoffhase nach Tilda<br> &nbsp;<br> &nbsp;<br> &nbsp;</div>
 </div>
-
 
 <div class="gallery">
     <a href="/images/stoffwerke/Hase1_gr.png" rel="lightbox" title="Stoffhasen nach Tilda">
