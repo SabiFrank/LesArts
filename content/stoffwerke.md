@@ -109,5 +109,4 @@ Hier sind alle mit Stoff entstandenen Arbeiten zu finden mit Beschreibung. Vergr
 	</a>		
     <div class="desc">Stoffblumen als Dekorationsgegenstände</div>
 </div>
-
 </div>
