@@ -10,24 +10,24 @@ weight = 4
 Maria Frank </br>
 Les Arts - Maria Frank </br>
 Heilbronner Str. 16 </br>
-74382 Neckarwestheim </br>
+74382 Neckarwestheim
 
 
 #### Kontakt
 
 Telefon: +49 176 81329681 </br>
-E-Mail: lesarts.mariafrank@gmail.com  </br>
+E-Mail: lesarts.mariafrank@gmail.com
 
 
 #### Umsatzsteuer-ID
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
-65095 58272 </br>
+65095 58272
 
 
 #### Verbraucherstreitbeilegung/Universalschlichtungsstelle
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
-Quelle: _<a href="https://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">https://www.e-recht24.de</a>, Impressum Generator._
+Quelle: _https://www.e-recht24.de, Impressum Generator._
 
 
 ### Haftungsausschluss:
@@ -50,8 +50,8 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
-Quellenangaben:_<a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">http://www.e-recht24.de</a>, Impressum Generator._
-<a href="https://www.e-recht24.de/muster-disclaimer.html" title="Weiterleitung zu dem Disclaimer der externen Seite e-recht24">_Disclaimer_</a> von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert._
+Quellenangaben:_http://www.e-recht24.de, Impressum Generator.
+Disclaimer von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert._
 
 
 ## Datenschutzerklärung
@@ -201,15 +201,15 @@ Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten,
 
 Wir, bzw. unser Hostinganbieter, erhebt auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.
 <br>
-Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active" title="Weiterleitung zu der externen Website privacyshield.gov">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>).
+Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active).
 <br>
 Google wird diese Informationen in unserem Auftrag benutzen, um die Nutzung unseres Onlineangebotes durch die Nutzer auszuwerten, um Reports über die Aktivitäten innerhalb dieses Onlineangebotes zusammenzustellen und um weitere, mit der Nutzung dieses Onlineangebotes und der Internetnutzung verbundene Dienstleistungen, uns gegenüber zu erbringen. Dabei können aus den verarbeiteten Daten pseudonyme Nutzungsprofile der Nutzer erstellt werden.
 <br>
 Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein. Das bedeutet, die IP-Adresse der Nutzer wird von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
 <br>
-Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter folgendem Link verfügbare Browser-Plugin herunterladen und installieren:&nbsp;<a href="http://tools.google.com/dlpage/gaoptout?hl=de">http://tools.google.com/dlpage/gaoptout?hl=de</a>.
+Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter folgendem Link verfügbare Browser-Plugin herunterladen und installieren:&nbsp;http://tools.google.com/dlpage/gaoptout?hl=de.
 <br>
-Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (<a href="https://policies.google.com/technologies/ads" title="Weiterleitung zu den Policies der externen Website Google">https://policies.google.com/technologies/ads</a>) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google <a href="https://adssettings.google.com/authenticated" title="Weiterleitung zu den Adssettings der externen Website Google">(https://adssettings.google.com/authenticated</a>).
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten, erfahren Sie in der Datenschutzerklärung von Google (https://policies.google.com/technologies/ads) sowie in den Einstellungen für die Darstellung von Werbeeinblendungen durch Google (https://adssettings.google.com/authenticated).
 <br>
 Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder anonymisiert.
 
@@ -218,15 +218,15 @@ Die personenbezogenen Daten der Nutzer werden nach 14 Monaten gelöscht oder ano
 
 Innerhalb unseres Onlineangebotes wird aufgrund unserer berechtigten Interessen an Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes und zu diesen Zwecken das sog. "Facebook-Pixel" des sozialen Netzwerkes Facebook, welches von der Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, bzw. falls Sie in der EU ansässig sind, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird ("Facebook"), eingesetzt.
 <br>
-Facebook ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (<a href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active</a>).
+Facebook ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active).
 <br>
 Mit Hilfe des Facebook-Pixels ist es Facebook zum einen möglich, die Besucher unseres Onlineangebotes als Zielgruppe für die Darstellung von Anzeigen (sog. "Facebook-Ads") zu bestimmen. Dementsprechend setzen wir das Facebook-Pixel ein, um die durch uns geschalteten Facebook-Ads nur solchen Facebook-Nutzern anzuzeigen, die auch ein Interesse an unserem Onlineangebot gezeigt haben oder die bestimmte Merkmale (z.B. Interessen an bestimmten Themen oder Produkten, die anhand der besuchten Webseiten bestimmt werden) aufweisen, die wir an Facebook übermitteln (sog. „Custom Audiences“). Mit Hilfe des Facebook-Pixels möchten wir auch sicherstellen, dass unsere Facebook-Ads dem potentiellen Interesse der Nutzer entsprechen und nicht belästigend wirken. Mit Hilfe des Facebook-Pixels können wir ferner die Wirksamkeit der Facebook-Werbeanzeigen für statistische und Marktforschungszwecke nachvollziehen, in dem wir sehen ob Nutzer nachdem Klick auf eine Facebook-Werbeanzeige auf unsere Website weitergeleitet wurden (sog. „Conversion“).
 <br>
-Die Verarbeitung der Daten durch Facebook erfolgt im Rahmen von Facebooks Datenverwendungsrichtlinie. Dementsprechend generelle Hinweise zur Darstellung von Facebook-Ads, in der Datenverwendungsrichtlinie von Facebook:&nbsp;<a href="https://www.facebook.com/policy">https://www.facebook.com/policy</a>. Spezielle Informationen und Details zum Facebook-Pixel und seiner Funktionsweise erhalten Sie im Hilfebereich von Facebook: <a href="https://www.facebook.com/business/help/651294705016616" title="Weiterleitung an die externe Website Facebook">https://www.facebook.com/business/help/651294705016616</a>.
+Die Verarbeitung der Daten durch Facebook erfolgt im Rahmen von Facebooks Datenverwendungsrichtlinie. Dementsprechend generelle Hinweise zur Darstellung von Facebook-Ads, in der Datenverwendungsrichtlinie von Facebook:&nbsp; https://www.facebook.com/policy. Spezielle Informationen und Details zum Facebook-Pixel und seiner Funktionsweise erhalten Sie im Hilfebereich von Facebook: https://www.facebook.com/business/help/651294705016616.
 <br>
-Sie können der Erfassung durch den Facebook-Pixel und Verwendung Ihrer Daten zur Darstellung von Facebook-Ads widersprechen. Um einzustellen, welche Arten von Werbeanzeigen Ihnen innerhalb von Facebook angezeigt werden, können Sie die von Facebook eingerichtete Seite aufrufen und dort die Hinweise zu den Einstellungen nutzungsbasierter Werbung befolgen:&nbsp;<a href="https://www.facebook.com/settings?tab=ads">https://www.facebook.com/settings?tab=ads</a>. Die Einstellungen erfolgen plattformunabhängig, d.h. sie werden für alle Geräte, wie Desktopcomputer oder mobile Geräte übernommen.
+Sie können der Erfassung durch den Facebook-Pixel und Verwendung Ihrer Daten zur Darstellung von Facebook-Ads widersprechen. Um einzustellen, welche Arten von Werbeanzeigen Ihnen innerhalb von Facebook angezeigt werden, können Sie die von Facebook eingerichtete Seite aufrufen und dort die Hinweise zu den Einstellungen nutzungsbasierter Werbung befolgen: https://www.facebook.com/settings?tab=ads. Die Einstellungen erfolgen plattformunabhängig, d.h. sie werden für alle Geräte, wie Desktopcomputer oder mobile Geräte übernommen.
 <br>
-Sie können dem Einsatz von Cookies, die der Reichweitenmessung und Werbezwecken dienen, ferner über die Deaktivierungsseite der Netzwerkwerbeinitiative (<a href="http://optout.networkadvertising.org/">http://optout.networkadvertising.org/</a>) und zusätzlich die US-amerikanische Webseite&nbsp;(<a href="http://www.aboutads.info/choices">http://www.aboutads.info/choices</a>)&nbsp;oder die europäische Webseite&nbsp;(<a href="http://www.youronlinechoices.com/uk/your-ad-choices/">http://www.youronlinechoices.com/uk/your-ad-choices/</a>) widersprechen.
+Sie können dem Einsatz von Cookies, die der Reichweitenmessung und Werbezwecken dienen, ferner über die Deaktivierungsseite der Netzwerkwerbeinitiative (http://optout.networkadvertising.org/) und zusätzlich die US-amerikanische Webseite&nbsp;(http://www.aboutads.info/choices)&nbsp;oder die europäische Webseite&nbsp;(http://www.youronlinechoices.com/uk/your-ad-choices/) widersprechen.
 
 
 #### Onlinepräsenzen in sozialen Medien
@@ -243,11 +243,18 @@ Für eine detaillierte Darstellung der jeweiligen Verarbeitungen und der Widersp
 <br>
 Auch im Fall von Auskunftsanfragen und der Geltendmachung von Nutzerrechten, weisen wir darauf hin, dass diese am effektivsten bei den Anbietern geltend gemacht werden können. Nur die Anbieter haben jeweils Zugriff auf die Daten der Nutzer und können direkt entsprechende Maßnahmen ergreifen und Auskünfte geben. Sollten Sie dennoch Hilfe benötigen, dann können Sie sich an uns wenden.
 <br>
-- Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) - Datenschutzerklärung: <a href="https://www.facebook.com/about/privacy/" title="Weiterleitung zu der Privacy der externe Website Facebook">https://www.facebook.com/about/privacy/</a>, Opt-Out: <a href="https://www.facebook.com/settings?tab=ads" title="Weiterleitung zu den Settings der externe Website Facebook">https://www.facebook.com/settings?tab=ads</a> und <a href="http://www.youronlinechoices.com">http://www.youronlinechoices.com</a>, Privacy Shield: <a href="https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active</a>.
+- Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland) - Datenschutzerklärung: https://www.facebook.com/about/privacy/,
+-- Opt-Out: https://www.facebook.com/settings?tab=ads und
+-- http://www.youronlinechoices.com, 
+-- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&amp;status=Active.
 <br>
-- Google/ YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) – Datenschutzerklärung: &nbsp;<a href="https://policies.google.com/privacy" title="Weiterleitung zu der Privacy der externe Website Google">https://policies.google.com/privacy</a>, Opt-Out: <a href="https://adssettings.google.com/authenticated" title="Weiterleitung an die externe Website Google Adssetting">https://adssettings.google.com/authenticated</a>, Privacy Shield: <a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active</a>.
+- Google/ YouTube (Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA) 
+-- Datenschutzerklärung: https://policies.google.com/privacy,
+-- Opt-Out: https://adssettings.google.com/authenticated,
+-- Privacy Shield: https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;status=Active.
 <br>
-- Instagram (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) – Datenschutzerklärung/ Opt-Out: <a href="http://instagram.com/about/legal/privacy/" title="Weiterleitung zu der Privacy der externe Website Instagram">http://instagram.com/about/legal/privacy/</a>.
+- Instagram (Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA) 
+-- Datenschutzerklärung/ Opt-Out: http://instagram.com/about/legal/privacy/</a>.
 
 Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
 
@@ -255,13 +262,14 @@ Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse d
 #### Google Fonts
 
 Wir binden die Schriftarten ("Google Fonts") des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. 
-Datenschutzerklärung: <a href="https://www.google.com/policies/privacy/" title="Weiterleitung zu der Privacy der externen Website Google">https://www.google.com/policies/privacy/</a>, Opt-Out: <a href="https://adssettings.google.com/authenticated" title="Weiterleitung zu den Adssettings der externen Website Google">https://adssettings.google.com/authenticated</a>.
+Datenschutzerklärung: https://www.google.com/policies/privacy/, 
+Opt-Out: https://adssettings.google.com/authenticated.
 
 
 #### Instagram
 
 Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Instagram, angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Instagram teilen können. Sofern die Nutzer Mitglieder der Plattform Instagram sind, kann Instagram den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen.
-Datenschutzerklärung von Instagram: <a href="http://instagram.com/about/legal/privacy/" title="Weiterleitung zu der Privacy der externe Website Instagram">http://instagram.com/about/legal/privacy/</a>.
+Datenschutzerklärung von Instagram: http://instagram.com/about/legal/privacy/.
     
 
 <a href="https://datenschutz-generator.de" title="Weiterleitung zu der externen Website Datenschutz-Generator.de" class="dsg1-6" rel="nofollow">Erstellt mit Datenschutz-Generator.de von RA Dr. Thomas Schwenke</a>
