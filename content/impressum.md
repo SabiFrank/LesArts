@@ -50,8 +50,8 @@ Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Date
 Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
-_Quellenangaben:_<a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">_http://www.e-recht24.de_</a> _, Impressum Generator._
-<a href="https://www.e-recht24.de/muster-disclaimer.html" title="Weiterleitung zu dem Disclaimer der externen Seite e-recht24">_Disclaimer_</a> _von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert._
+Quellenangaben:_<a href="http://www.e-recht24.de" title="Weiterleitung zu der externen Seite e-recht24">http://www.e-recht24.de</a>, Impressum Generator._
+<a href="https://www.e-recht24.de/muster-disclaimer.html" title="Weiterleitung zu dem Disclaimer der externen Seite e-recht24">_Disclaimer_</a> von eRecht24, dem Portal zum Internetrecht von Rechtsanwalt Sören Siebert._
 
 
 ## Datenschutzerklärung
@@ -61,8 +61,8 @@ Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der V
 
 #### Kontakt Datenschutzbeauftragte
 
-Sabrina Frank, </br>
-E-Mail: frank.sabrina@outlook.com </br>
+Sabrina Frank
+E-Mail: frank.sabrina@outlook.com
 
 
 #### Arten der verarbeiteten Daten
@@ -71,7 +71,7 @@ E-Mail: frank.sabrina@outlook.com </br>
 - Kontaktdaten (z.B., E-Mail, Telefonnummern). <br>
 - Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos). <br>
 - Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten). <br>
-- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen). </br>
+- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).
 
 
 #### Kategorien betroffener Personen
@@ -260,7 +260,7 @@ Datenschutzerklärung: <a href="https://www.google.com/policies/privacy/" title=
 
 #### Instagram
 
-Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Instagram, angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Instagram teilen können. Sofern die Nutzer Mitglieder der Plattform Instagram sind, kann Instagram den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen.</br>
+Innerhalb unseres Onlineangebotes können Funktionen und Inhalte des Dienstes Instagram, angeboten durch die Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA, eingebunden werden. Hierzu können z.B. Inhalte wie Bilder, Videos oder Texte und Schaltflächen gehören, mit denen Nutzer Inhalte dieses Onlineangebotes innerhalb von Instagram teilen können. Sofern die Nutzer Mitglieder der Plattform Instagram sind, kann Instagram den Aufruf der o.g. Inhalte und Funktionen den dortigen Profilen der Nutzer zuordnen.
 Datenschutzerklärung von Instagram: <a href="http://instagram.com/about/legal/privacy/" title="Weiterleitung zu der Privacy der externe Website Instagram">http://instagram.com/about/legal/privacy/</a>.
     
 
