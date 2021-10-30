@@ -68,10 +68,10 @@ E-Mail: frank.sabrina@outlook.com </br>
 #### Arten der verarbeiteten Daten
 
 - Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen). <br>
--	Kontaktdaten (z.B., E-Mail, Telefonnummern). <br>
--	Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos). <br>
--	Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten). <br>
--	Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen). </br>
+- Kontaktdaten (z.B., E-Mail, Telefonnummern). <br>
+- Inhaltsdaten (z.B., Texteingaben, Fotografien, Videos). <br>
+- Nutzungsdaten (z.B., besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten). <br>
+- Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen). </br>
 
 
 #### Kategorien betroffener Personen
@@ -81,10 +81,10 @@ Besucher und Nutzer des Onlineangebotes (Nachfolgend bezeichnen wir die betroffe
 
 #### Zweck der Verarbeitung
 
--	Zurverfügungstellung des Onlineangebotes, seiner Funktionen und  Inhalte. <br>
--	Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern. <br>
--	Sicherheitsmaßnahmen. <br>
--	Reichweitenmessung/Marketing </br>
+- Zurverfügungstellung des Onlineangebotes, seiner Funktionen und  Inhalte. <br>
+- Beantwortung von Kontaktanfragen und Kommunikation mit Nutzern. <br>
+- Sicherheitsmaßnahmen. <br>
+- Reichweitenmessung/Marketing </br>
 
 
 #### Verwendete Begrifflichkeiten
