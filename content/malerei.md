@@ -5,6 +5,8 @@ type = "portfolio"
 +++
 Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finden, geordnet nach generell genutzter Technik. Sie finden zu jedem Bild den Titel und die Quelle der eventuell genutzte Vorlagen anderer Künstlern. Vergrößern Sie die Bilder durch anklicken, um das vollständige Bild sowie die exakt verwendete Technik sehen zu können.
 
+<p>
+	
 <div class="container">
 <h2 id="Acryl">Acryl</h2>  
 
@@ -614,3 +616,5 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 	    <div class="desc">Svetlana</div>
 	</div>
 </div>
+
+</p>
