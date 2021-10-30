@@ -8,8 +8,6 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 <div class="container">
 <h2 id="Acryl">Acryl</h2>  
 
-	<p>
-		
 	<div class="gallery">
 	    <a href="/images/malerei/Abschied_gr.jpg" rel="lightbox" title="Titel: Abschied, Technik: Acryl auf Leinwand">
 			<img src="/images/malerei/Abschied_kl.jpg" alt="Titel: Abschied, Technik: Acryl auf Leinwand" width="300" height="200">
@@ -555,16 +553,12 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Japanische Stadt<br>Quelle: Unbekannt</div>
 	</div>
-	
-	</p>
 </div>
 
 
 <div class="container">
 <h2 id="Mischtechnik">Mischtechnik</h2>  
-
-	<p>
-		
+	
 	<div class="gallery">
 	    <a href="/images/malerei/daheim_im_Blau_gr.jpg" rel="lightbox" title="Titel: Daheim im Blau, Technik: Mischtechnik">
 			<img src="/images/malerei/daheim_im_Blau_kl.jpg" alt="Titel: Daheim im Blau, Technik: Mischtechnik" width="300" height="200">
@@ -585,17 +579,13 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">The World</div>
 	</div>
-	
-	</p>
 </div>
 
 
 <!-- Zeichnungen -->
 <div class="container">
 <h2 id="Graphit">Graphit</h2>  
-
-	<p>
-		
+	
 	<div class="gallery">
 	    <a href="/images/malerei/Alter_Mann_gr.png" rel="lightbox" title="Titel: Alter Mann, Technik: Graphit auf Papier">
 			<img src="/images/malerei/Alter_Mann_kl.png" alt="Titel: Alter Mann, Technik: Graphit auf Papier" width="300" height="200">
@@ -623,6 +613,4 @@ Hier sind alle malerischen Motive mit primär künstlerischer Umsetzung zu finde
 		</a>		
 	    <div class="desc">Svetlana</div>
 	</div>
-	
-	</p>
 </div>
