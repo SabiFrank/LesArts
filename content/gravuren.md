@@ -128,4 +128,16 @@ Hier sind alle bisher entstandenen Gravuren zu finden. Vergrößern Sie die Bild
 		<img src="/images/gravuren/Wein1_kl.png" alt="Gravur auf Weinflasche" width="300" height="200">
 	</a>		
 </div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Wein2_gr.png" rel="lightbox" title="Gravur auf Weinflasche mit Goldakzent">
+		<img src="/images/gravuren/Wein2_kl.png" alt="Gravur auf Weinflasche mit Goldakzent" width="300" height="200">
+	</a>		
+</div>
+
+<div class="gallery">
+    <a href="/images/gravuren/Wein3_gr.png" rel="lightbox" title="Gravur auf Weinflasche mit Goldakzent">
+		<img src="/images/gravuren/Wein3_kl.png" alt="Gravur auf Weinflasche mit Goldakzent" width="300" height="200">
+	</a>		
+</div>
 </div>
