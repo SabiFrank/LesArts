@@ -214,4 +214,16 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 		<img src="/images/lettering/Winter3_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
 </div>
+	
+<div class="gallery">
+    <a href="/images/lettering/Winter4_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Winter4_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+	</a>		
+</div>
+	
+<div class="gallery">
+    <a href="/images/lettering/Winter5_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Winter5_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+	</a>		
+</div>
 </div>
