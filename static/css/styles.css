@@ -1011,7 +1011,7 @@ html.lb-disable-scrolling {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #0c1413;
+			background-color: #383b3a;
 		}
 
 		input[type="button"]:active,
@@ -1019,7 +1019,7 @@ html.lb-disable-scrolling {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #383b3a;
+			background-color: #0c1413;
 		}
 
 
