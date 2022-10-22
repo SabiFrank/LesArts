@@ -19,7 +19,6 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 <p>
 <img src="/images/contact.jpg" alt="Aterlier von Maria Frank in Neckarwestheim" width="1000" height="400">
 </p>
-<br>
 
 ### Ausstellungen
 
