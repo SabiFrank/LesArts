@@ -16,6 +16,11 @@ Mein Name ist Maria Frank. Mit meinem Mann und meiner <a href="https://www.kunst
 Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillustrationen sowie Gebrauchsgrafiken zu meinem Aufgabenrepertoire. 1990 wurde ich schließlich Mitglied im Verband bildender Künstler und konnte mich ein Jahr später als freie Illustratorin selbstständig machen.
 </p>
 
+<p>
+<img src="/images/contact.jpg" alt="Aterlier von Maria Frank in Neckarwestheim" width="1000" height="400">
+</p>
+<br>
+
 ### Ausstellungen
 
 * 2005 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Galerie im Rundturm, GKN Neckarwestheim
