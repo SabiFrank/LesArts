@@ -993,7 +993,7 @@ html.lb-disable-scrolling {
 		color: #f7f6eb !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #c3e9de;
+		background-color: #5dc7b2; /* #c3e9de */
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1019,7 +1019,7 @@ html.lb-disable-scrolling {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background-color: #c3e9de;
+			background-color: #5dc7b2;
 		}
 
 
