@@ -40,6 +40,7 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 * 1991 - heute &nbsp;Selbstständig als freie Malerin/Illustratorin
 * 2000 - heute &nbsp;Selbstständig als Kunstlehrerin
 * 2012 - 2013 &nbsp;Kunsttherapeutin, Uniklinik Heidelberg, Kinderkardiologie & -onkologie
+* 2019 - heute &nbsp;Selbstständig als Kunstgraveurin (Events und Auftragsarbeiten)
 
 ### Ausbildung
 
