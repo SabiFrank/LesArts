@@ -232,4 +232,16 @@ Hier sind alle Arbeiten im Bezug zu Lettering zu sehen. Vergrößern Sie die Bil
 		<img src="/images/lettering/Winter5_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
 	</a>		
 </div>
+
+<div class="gallery">
+    <a href="/images/lettering/Ostern_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Ostern_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+	</a>		
+</div>
+
+<div class="gallery">
+    <a href="/images/lettering/Frühling_gr.png" rel="lightbox" title="Lettering mit Flüssigkreide">
+		<img src="/images/lettering/Frühling_kl.png" alt="Lettering mit Flüssigkreide" width="300" height="200">
+	</a>		
+</div>
 </div>
