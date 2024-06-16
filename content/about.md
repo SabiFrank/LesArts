@@ -10,7 +10,7 @@ weight = 2
 <img src="/images/about.jpg" alt="Maria Frank, Künstlerin aus Neckarwestheim in ihrem Atelier während eines Workshops." style="float:right; width:auto; height:210px; margin-left:20px;">
 
 
-Mein Name ist Maria Frank. Mit meinem Mann und meiner <a href="https://www.kunstmitgraphit.de" title="Weiterleitung zu der externen Website KunstMitGraphit von Sabrina Frank">Tochter</a> lebe und arbeite ich in Neckarwestheim. In meinem Atelier biete ich <a href="https://www.lesarts-mariafrank.de/service/workshops/" title="Weiterleitung zu den Angeboten &ldquo;Malkurse und Workshops&rdquo; dieser Website">Malkurse und Workshops</a> an, in denen ich individuell auf persönliche Vorstellungen eingehen kann.
+Mein Name ist Maria Frank. Seit nun knapp drei Jahrzenhten arbeite und lebe ich zusammen mit meinem Mann in Neckarwestheim. In meinem Atelier biete ich <a href="https://www.lesarts-mariafrank.de/service/workshops/" title="Weiterleitung zu den Angeboten &ldquo;Malkurse und Workshops&rdquo; dieser Website">Malkurse und Workshops</a> an, in denen ich individuell auf persönliche Vorstellungen eingehen kann.
 <br>
 <br>
 Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillustrationen sowie Gebrauchsgrafiken zu meinem Aufgabenrepertoire. 1990 wurde ich schließlich Mitglied im Verband bildender Künstler und konnte mich ein Jahr später als freie Illustratorin selbstständig machen.
