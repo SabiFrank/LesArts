@@ -48,4 +48,10 @@ Hier sind Gutscheine für Workshops zu sehen. Vergrößern Sie die Bilder durch 
 		<img src="/images/gutscheine/Gutschein7_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
 	</a>		
 </div>
+
+<div class="gallery">
+    <a href="/images/gutscheine/Gutschein8_gr.png" rel="lightbox" title="Gutschein für Workshops bei Maria Frank">
+		<img src="/images/gutscheine/Gutschein8_kl.png" alt="Gutschein für Workshops bei Maria Frank" width="300" height="200">
+	</a>		
+</div>
 </div>
