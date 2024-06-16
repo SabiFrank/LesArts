@@ -339,6 +339,11 @@ img {
   font-size: 12px;
   line-height: 1.33;
   font-weight: bold;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 .panel-cta {
   box-shadow: 0 0 0 1px #e1e1e1, 0 0 0 3px #fff, 0 0 0 4px #e1e1e1;
@@ -502,13 +507,6 @@ img {
 .pagination > li.active > a:hover {
   color: #000000;
   background: none;
-}
-.button-vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
 }
 /*********************************************************************
 
