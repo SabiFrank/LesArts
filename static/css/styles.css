@@ -504,6 +504,16 @@ img {
   color: #000000;
   background: none;
 }
+.button-col-lg-4 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+@media only screen and (max-width: 768px) {
+  .button-col-lg-4 {
+    margin-top: 20px;
+  }
 /*********************************************************************
 
 
