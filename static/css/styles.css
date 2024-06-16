@@ -660,16 +660,6 @@ footer.entry-meta .meta-in {
   margin-top: 0;
   margin-bottom: 30px;
 }
-.button-col-lg-4 {
-    position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px
-}
-@media only screen and (max-width: 768px) {
-  .button-col-lg-4 {
-    margin-top: 20px;
-  }
 /*********************************************************************
 
                             Gallery Lightbox Style
@@ -1206,9 +1196,7 @@ html.lb-disable-scrolling {
   }
 }
 /*********************************************************************
-
                                 SHARE THIS
-
 **********************************************************************/
 .st-custom-button[data-network] {
    background-color: #fff;
@@ -1224,3 +1212,16 @@ html.lb-disable-scrolling {
 .st-custom-button[data-network]:focus {
       color: #004488;
    }
+/*********************************************************************
+                           Button Downloads
+**********************************************************************/
+.button-col-lg-4 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px
+}
+@media only screen and (max-width: 768px) {
+  .button-col-lg-4 {
+    margin-top: 20px;
+  }
