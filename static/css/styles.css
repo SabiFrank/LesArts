@@ -309,6 +309,7 @@ img {
   border: 0 none;
   padding: 12px 35px;
   text-shadow: 0 1px 0 #780d33;
+  position: center;
 }
 .btn-primary {
   color: #fff;
@@ -339,11 +340,6 @@ img {
   font-size: 12px;
   line-height: 1.33;
   font-weight: bold;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
 }
 .panel-cta {
   box-shadow: 0 0 0 1px #e1e1e1, 0 0 0 3px #fff, 0 0 0 4px #e1e1e1;
