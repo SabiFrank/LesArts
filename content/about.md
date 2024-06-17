@@ -33,14 +33,14 @@ Neben diesen Kursen gehören als Grafiker und Layouter auch Mode- und Buchillust
 
 ### Arbeitserfahrung
 
-* 1982 - 1984 &nbsp;&nbsp;Werbeagentur Wehn & Karius GmbH Leonberg
-* 1984 - 1985 &nbsp;&nbsp;Freie Tätigkeit als Comiczeichnerin in Rom mit anschließender Theatertournee
-* 1985 - 1987 &nbsp;&nbsp;Werbeagentur Klaiber & Partner, Stuttgart
-* 1987 - 1991 &nbsp;&nbsp;Werbeagentur Wensauer & Partner, Ludwigsburg
-* 1991 - heute &nbsp;Selbstständig als freie Malerin/Illustratorin
-* 2000 - heute &nbsp;Selbstständig als Kunstlehrerin
-* 2012 - 2013 &nbsp;&nbsp;Kunsttherapeutin, Uniklinik Heidelberg, Kinderkardiologie & -onkologie
-* 2019 - heute &nbsp;Selbstständig als Kunstgraveurin (Events und Auftragsarbeiten)
+* 1982 - 1984 &nbsp;&nbsp;&nbsp; Werbeagentur Wehn & Karius GmbH Leonberg
+* 1984 - 1985 &nbsp;&nbsp;&nbsp; Freie Tätigkeit als Comiczeichnerin in Rom mit anschließender Theatertournee
+* 1985 - 1987 &nbsp;&nbsp;&nbsp; Werbeagentur Klaiber & Partner, Stuttgart
+* 1987 - 1991 &nbsp;&nbsp;&nbsp; Werbeagentur Wensauer & Partner, Ludwigsburg
+* 1991 - heute &nbsp;&nbsp; Selbstständig als freie Malerin/Illustratorin
+* 2000 - heute &nbsp;&nbsp; Selbstständig als Kunstlehrerin
+* 2012 - 2013 &nbsp;&nbsp;&nbsp; Kunsttherapeutin, Uniklinik Heidelberg, Kinderkardiologie & -onkologie
+* 2019 - heute &nbsp;&nbsp; Selbstständig als Kunstgraveurin (Events und Auftragsarbeiten)
 
 ### Ausbildung
 
