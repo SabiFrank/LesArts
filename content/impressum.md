@@ -2,7 +2,7 @@
 title = "Impressum"
 type = "impressum"
 [menu.main]
-weight = 4
+weight = 5
 
 +++
 ### Angaben gemäß § 5 TMG:  
