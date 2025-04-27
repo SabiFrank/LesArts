@@ -1,5 +1,5 @@
 +++
-title = "EinzigARTig T-Shirts"
+title = "EinzigARTig"
 type = "dienstleistungen"
 +++
 Tragen Sie Ihr Haustier auf der Brust und individualisieren Sie Ihren Stil mit EinzigARTig T-Shirts.
@@ -8,7 +8,6 @@ Tragen Sie Ihr Haustier auf der Brust und individualisieren Sie Ihren Stil mit E
 Sie wollen Ihren einzigARTigen Stil finden und gleichzeitig ein herzensmotiv Ihres tierischen Begleiters wortwörtlich auf der Brust tragen? Dann sind <strong>EinzigARTig T-Shirts</strong> eine besondere Möglichkeit, Ihre Garderobe zu erweitern.  
 
 Die EinzigARTig T-Shirts werden mit deinem Wunschporttraitmotiv bedruckt und jedes <strong>Unikat</strong> handsigniert. Jedes EinzigARTig T-Shirt wird individuell und mit viel Sorgfalt erstellt.  
-
 
 <a href="https://www.instagram.com/lesarts_mariafrank/" title="Weiterleitung zu der Instagramseite von Maria Frank">Auf Instagram</a> können Sie sich ein Bild der EinzigARTig T-Shirts machen.  
 
