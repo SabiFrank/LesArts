@@ -209,8 +209,8 @@ a:hover {
                                 HEADER
 **********************************************************************/
 #head {
-  background: #f4f4f4 url(../images/bg_head_spring.jpg) top center;
-  /*background: #f4f4f4 url(../images/bg_head_summer.jpg) top center;*/
+  /*background: #f4f4f4 url(../images/bg_head_spring.jpg) top center;*/
+  background: #f4f4f4 url(../images/bg_head_summer.jpg) top center;
   /*background: #f4f4f4 url(../images/bg_head_fall.jpg) top center;*/
   /*background: #f4f4f4 url(../images/bg_head_winter.jpg) top center;*/
   background-size: cover;
