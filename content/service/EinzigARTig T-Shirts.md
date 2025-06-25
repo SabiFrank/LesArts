@@ -17,12 +17,14 @@ Im Preis enthalten sind das bedruckte, handsignierte einzigARTige T-Shirt, meine
 Wenn Sie Fragen oder einen Auftragswunsch haben, können Sie gerne <a href="https://LesArts-MariaFrank.de/kontakt/" title="Weiterleitung zu der Website &ldquo;Kontakt&rdquo;">Kontakt aufnehmen</a> oder die genauen Konditionen des Auftrags in den <a href="https://LesArts-MariaFrank.de/agb/" title="Weiterleitung zu den &ldquo;AGB&rdquo;s der Website">AGBs</a> lesen.  
 
 Hier finden Sie die Größentabellen zu den angebotenen T-Shirts.
+
 <div class="container">
 <p>
+<h3>Erwachsene</h3>
 <img src="/images/size_adult.webp" alt="Größentabelle für das verfügbare T-Shirtmodell für Erwachsene" width="1000" height="400">
 </p>
-
 <p>
+<h3>Kinder</h3>
 <img src="/images/size_kid.webp" alt="Größentabelle für das verfügbare T-Shirtmodell für Kinder" width="1000" height="400">
 </p>
 </div class="container">
