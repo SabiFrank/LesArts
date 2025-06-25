@@ -20,11 +20,11 @@ Hier finden Sie die Größentabellen zu den angebotenen T-Shirts.
 
 <div class="container">
 <p>
-<h3>Erwachsene</h3>
+<h4>Erwachsene</h4>
 <img src="/images/size_adult.webp" alt="Größentabelle für das verfügbare T-Shirtmodell für Erwachsene" width="1000" height="400">
 </p>
 <p>
-<h3>Kinder</h3>
+<h4>Kinder</h4>
 <img src="/images/size_kid.webp" alt="Größentabelle für das verfügbare T-Shirtmodell für Kinder" width="1000" height="400">
 </p>
 </div class="container">
